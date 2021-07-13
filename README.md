@@ -13,3 +13,4 @@ Add absolute path of your instance-files folder location in whatever file you us
   * ex: export INSTANCE_FILES_DIR=“`paste path here`”
 * enter the command `source ~/.profile`
   * tip: exit out your terminals for source to take effect. To double check reopen your terminal and enter `echo $INSTANCE_FILES_DIR` , you should see the path that you pasted.
+  
