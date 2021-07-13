@@ -1,0 +1,21 @@
+version: 1.0
+
+# jobs:
+#   build-and-publish-master:
+#     docker:
+#       - image: docker:stable
+#     steps:
+#       - checkout
+#       - setup_remote_docker
+#       - run: docker login -u $DOCKER_USER -p $DOCKER_PASSWORD
+#       - run: docker build -t pm/instance-files:latest .
+#       - run: docker push pm/instance-files:latest
+
+# workflows:
+#   build_and_deploy_master:
+#     jobs:
+#       - build-and-publish-master:
+#           filters:
+#             branches:
+#               only:
+#                 - master
