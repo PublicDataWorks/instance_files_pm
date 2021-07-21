@@ -66,9 +66,9 @@
         </p>
 
         <p><br/></p>
-        <p>We forwarded the information you provided us to the GCPD’s Public Integrity Bureau
-            (PIB) as an inquiry and asked that the matter be reviewed for possible violations of the
-            GCPD rules and regulations. You may be contacted by a representative of PIB or by an
+        <p>We forwarded the information you provided us to the GCPD’s Public Governance Bureau
+            (PGB) as an inquiry and asked that the matter be reviewed for possible violations of the
+            GCPD rules and regulations. You may be contacted by a representative of PGB or by an
             GCPD supervisor regarding this matter.</p>
         <p><br/></p>
         <p>Please take into consideration that facts and/or allegations from your complaint may be
@@ -77,7 +77,7 @@
             the review of your investigation has been completed, all or parts of the complaint may
             become public records.</p>
         <p><br/></p>
-        <p>Enclosed you will find a copy of the PM letter to PIB and some information about
+        <p>Enclosed you will find a copy of the PM letter to PGB and some information about
             our office. If you have any questions regarding the status of the information you
             provided, please contact us at (641) 892-7222 or via email at
             policemonitor@pm.ex. Please refer to your PM No. {{caseReference}} when you

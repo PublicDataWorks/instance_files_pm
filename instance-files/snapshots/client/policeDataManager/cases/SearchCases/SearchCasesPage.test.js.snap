@@ -58,6 +58,11 @@ exports[`Search Cases Page should render cases table with correct styling 1`] = 
                   "title": "Archived Cases",
                 },
                 Object {
+                  "dataTestName": "tagManagement",
+                  "path": "/manage-tags",
+                  "title": "Manage Tags",
+                },
+                Object {
                   "dataTestName": "logOutButton",
                   "path": "/logout",
                   "title": "Log Out",
@@ -85,6 +90,11 @@ exports[`Search Cases Page should render cases table with correct styling 1`] = 
                     "dataTestName": "archivedCases",
                     "path": "/archived-cases",
                     "title": "Archived Cases",
+                  },
+                  Object {
+                    "dataTestName": "tagManagement",
+                    "path": "/manage-tags",
+                    "title": "Manage Tags",
                   },
                   Object {
                     "dataTestName": "logOutButton",

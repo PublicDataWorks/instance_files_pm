@@ -435,7 +435,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 5957,Sadie,A,Turcotte,POLICE OFFICER 1,Active,NULL,M,White,2015-12-13,FOB - Field Operations Bureau,Eighth District,26678,Commissioned,2686
 5956,Myrtice,V,Rice,POLICE OFFICER 1,Terminated,NULL,M,White,2015-12-13,FOB - Field Operations Bureau,Seventh District,26679,Commissioned,3536
 5955,Steve,P,Strosin,POLICE OFFICER 1,Active,NULL,M,Hispanic,2015-12-13,FOB - Field Operations Bureau,Seventh District,26682,Commissioned,3719
-5954,Darien,T,Ruecker,SR SPECIAL INVESTIGATOR,Active,NULL,F,Black / African American,2015-11-29,PIB - Public Integrity Bureau,NULL,26692,Commissioned,673
+5954,Darien,T,Ruecker,SR SPECIAL INVESTIGATOR,Active,NULL,F,Black / African American,2015-11-29,PGB - Public Governance Bureau,NULL,26692,Commissioned,673
 5953,Raheem,O,McDermott,MANAGEMENT DEV SPECIALIST I,Terminated,NULL,M,White,2011-04-17,MSB - Management Service Bureau,NULL,21162,Commissioned,NULL
 5952,Malvina,E,White,POLICE RECRUIT FIELD,Terminated,NULL,M,White,2015-12-06,FOB - Field Operations Bureau,Fifth District,26673,Commissioned,1357
 5951,Carmen,U,Williamson,POLICE AIDE,Terminated,NULL,M,Black / African American,2015-12-06,Office of the Superintendant,NULL,26674,Commissioned,5777
@@ -471,7 +471,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 5914,Enos,X,Mueller,POLICE OFFICER 1,Active,NULL,F,White,2015-10-25,FOB - Field Operations Bureau,Seventh District,26600,Non-Commissioned,3540
 5913,Kendrick,U,Brown,NULL,NULL,NULL,Unknown Sex,Unknown Race,NULL,NULL,NULL,NULL,NULL,NULL
 5912,Cecelia,V,Hansen,POLICE OFFICER 1,Active,NULL,F,Black / African American,2015-10-25,FOB - Field Operations Bureau,Second District,26580,Non-Commissioned,916
-5911,Liza,W,Cassin,SR SPECIAL INVESTIGATOR,Active,2015-09-13,M,Black / African American,1997-06-22,PIB - Public Integrity Bureau,NULL,6381,Non-Commissioned,3622
+5911,Liza,W,Cassin,SR SPECIAL INVESTIGATOR,Active,2015-09-13,M,Black / African American,1997-06-22,PGB - Public Governance Bureau,NULL,6381,Non-Commissioned,3622
 5910,Kamren,A,McDermott,POLICE OFFICER 1,Active,NULL,M,White,2015-10-18,FOB - Field Operations Bureau,Second District,26578,Non-Commissioned,1575
 5909,Guy,Q,Renner,POLICE OFFICER 1,Active,NULL,M,White,2015-10-11,FOB - Field Operations Bureau,Fourth District,26579,Non-Commissioned,3471
 5908,Jillian,N,Lind,"POLICE TECHNICIAN,TRAINEE",Active,NULL,F,Black / African American,2015-10-18,MSB - Management Service Bureau,NULL,26577,Non-Commissioned,3431
@@ -521,8 +521,8 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 5857,Amiya,P,Moore,NULL,NULL,NULL,Unknown Sex,Unknown Race,NULL,NULL,NULL,NULL,NULL,NULL
 5856,Maynard,W,Kilback,POLICE OFFICER 1,Active,NULL,M,Black / African American,2015-08-09,FOB - Field Operations Bureau,Fourth District,26457,Non-Commissioned,1011
 5855,Jerrod,P,Graham,ASSISTANT SUPT OF POLICE,Terminated,NULL,M,White,2015-07-26,Compliance Bureau,NULL,26481,Non-Commissioned,739
-5854,Stephania,V,Zemlak,POLICE AIDE,Terminated,NULL,F,Hispanic,2015-08-09,PIB - Public Integrity Bureau,NULL,26470,Non-Commissioned,3477
-5853,Mattie,Y,McCullough,POLICE AIDE,Terminated,NULL,F,White,2015-08-09,PIB - Public Integrity Bureau,NULL,26469,Non-Commissioned,3477
+5854,Stephania,V,Zemlak,POLICE AIDE,Terminated,NULL,F,Hispanic,2015-08-09,PGB - Public Governance Bureau,NULL,26470,Non-Commissioned,3477
+5853,Mattie,Y,McCullough,POLICE AIDE,Terminated,NULL,F,White,2015-08-09,PGB - Public Governance Bureau,NULL,26469,Non-Commissioned,3477
 5852,Federico,R,Graham,NULL,NULL,NULL,Unknown Sex,Unknown Race,NULL,NULL,NULL,NULL,NULL,NULL
 5851,Carole,F,Kuphal,Complaint Operator,NULL,NULL,Unknown Sex,Unknown Race,NULL,FOB - Field Operations Bureau,NULL,NULL,NULL,NULL
 5850,Domingo,S,Zemlak,POLICE COMPLAINT OPERATOR,Terminated,NULL,F,Black / African American,2015-07-26,FOB - Field Operations Bureau,NULL,26461,Non-Commissioned,356
@@ -557,7 +557,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 5820,Noemy,G,King,POLICE OFFICER 1,Active,NULL,M,White,2015-06-14,FOB - Field Operations Bureau,Eighth District,26222,Non-Commissioned,3571
 5819,Alayna,J,Sanford,POLICE OFFICER 1,Active,NULL,M,Black / African American,2015-06-21,MSB - Management Service Bureau,NULL,26306,Non-Commissioned,3524
 5818,Lowell,Z,Dietrich,POLICE RECRUIT ACADEMY,Terminated,NULL,M,White,2015-06-14,FOB - Field Operations Bureau,NULL,26326,Non-Commissioned,750
-5817,Mercedes,W,Kautzer,SPECIAL INVESTIGATOR,Active,NULL,F,Hispanic,2015-07-26,PIB - Public Integrity Bureau,NULL,26459,Non-Commissioned,3622
+5817,Mercedes,W,Kautzer,SPECIAL INVESTIGATOR,Active,NULL,F,Hispanic,2015-07-26,PGB - Public Governance Bureau,NULL,26459,Non-Commissioned,3622
 5816,Lottie,S,Farrell,INFORMATION TECH SPEC II,Active,NULL,M,Black / African American,2015-06-14,Office of the Superintendant,NULL,26351,Non-Commissioned,3527
 5815,Xzavier,A,Cummings,Deputy Chief of Staff (GCPD),Active,NULL,M,White,2012-11-05,Office of the Superintendant,NULL,22074,Non-Commissioned,35
 5814,Crystal,I,Jacobi,NULL,NULL,NULL,Unknown Sex,Unknown Race,NULL,NULL,NULL,NULL,NULL,NULL
@@ -878,7 +878,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 5477,Jed,E,Lind,POLICE OFFICER 2,Terminated,2003-11-16,M,White,1996-07-21,MSB - Management Service Bureau,NULL,8261,Commissioned,NULL
 5476,Lester,X,Bahringer,ACCOUNTANT II,Active,NULL,M,Native American,1984-06-04,MSB - Management Service Bureau,NULL,5950,Non-Commissioned,48
 5475,Jailyn,S,Mueller,EQUIPMENT OPERATOR 3,Terminated,NULL,M,Black / African American,1984-07-16,MSB - Management Service Bureau,NULL,4441,Non-Commissioned,3731
-5474,Raphaelle,U,Hackett,LEGAL ADMINISTRATIVE ASSISTANT,Active,NULL,F,Black / African American,1997-08-25,PIB - Public Integrity Bureau,NULL,4336,Non-Commissioned,3477
+5474,Raphaelle,U,Hackett,LEGAL ADMINISTRATIVE ASSISTANT,Active,NULL,F,Black / African American,1997-08-25,PGB - Public Governance Bureau,NULL,4336,Non-Commissioned,3477
 5473,Ardith,P,Larkin,Reserve Officers,Terminated,2011-09-18,Unknown Sex,Unknown Race,1971-02-22,FOB - Field Operations Bureau,NULL,3235,Commissioned,2850
 5472,Hortense,B,Mayert,POLICE TECHNICIAN 2,Active,NULL,F,Black / African American,1996-06-10,MSB - Management Service Bureau,NULL,2742,Non-Commissioned,2615
 5471,Katharina,F,Lowe,AWARDS COORD (POLICE DEPT),Terminated,2012-11-18,F,White,2010-05-03,MSB - Management Service Bureau,NULL,20621,Non-Commissioned,NULL
@@ -1032,7 +1032,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 4773,Margie,F,Kovacek,STABLE ATTENDANT,Retired,2010-03-28,M,White,1989-06-12,FOB - Field Operations Bureau,NULL,7231,Non-Commissioned,NULL
 4772,Grover,C,Welch,STABLE ATTENDANT,Terminated,NULL,M,Black / African American,1994-05-18,FOB - Field Operations Bureau,NULL,7148,Non-Commissioned,3486
 4771,Jerome,R,Balistreri,Principal Office Support Spec,Active,NULL,F,Black / African American,1985-03-04,ISB - Investigations and Support Bureau,NULL,3759,Non-Commissioned,3535
-4770,Helen,S,Kerluke,SR OFFICE SUPPORT SPECIALIST,Active,NULL,F,Black / African American,1977-11-07,PIB - Public Integrity Bureau,NULL,10252,Non-Commissioned,3477
+4770,Helen,S,Kerluke,SR OFFICE SUPPORT SPECIALIST,Active,NULL,F,Black / African American,1977-11-07,PGB - Public Governance Bureau,NULL,10252,Non-Commissioned,3477
 4769,Savannah,P,Okuneva,SR OFFICE SUPPORT SPECIALIST,Terminated,NULL,F,Black / African American,1978-12-17,MSB - Management Service Bureau,NULL,7482,Non-Commissioned,2615
 4768,Camilla,D,Breitenberg,Principal Office Support Spec,Terminated,NULL,F,Black / African American,1998-03-29,MSB - Management Service Bureau,NULL,9744,Non-Commissioned,2615
 4767,Naomi,Z,Monahan,MANAGEMENT DEV ANALYT I,Active,NULL,F,Black / African American,1997-09-07,MSB - Management Service Bureau,NULL,7051,Non-Commissioned,2202
@@ -1045,7 +1045,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 4760,Crystel,M,Turner,ADMIN SUPPORT SPECIALIST II,Active,NULL,F,Black / African American,1996-10-27,Office of the Superintendant,NULL,10338,Non-Commissioned,3501
 4759,Nikita,L,Effertz,SR OFFICE SUPPORT SPECIALIST,Deceased,2012-10-21,F,Black / African American,1983-12-05,MSB - Management Service Bureau,NULL,8604,Non-Commissioned,NULL
 4758,Ali,S,Quitzon,SR OFFICE SUPPORT SPECIALIST,Terminated,2005-12-28,F,Black / African American,1985-11-04,NULL,NULL,7985,Non-Commissioned,NULL
-4757,Nicolette,O,Quigley,SR INFO PROCESSOR OPR,Terminated,1999-08-29,F,Black / African American,1991-08-05,PIB - Public Integrity Bureau,NULL,9141,Non-Commissioned,NULL
+4757,Nicolette,O,Quigley,SR INFO PROCESSOR OPR,Terminated,1999-08-29,F,Black / African American,1991-08-05,PGB - Public Governance Bureau,NULL,9141,Non-Commissioned,NULL
 4756,Danial,B,Conroy,SR INFO PROCESSOR OPR,Terminated,1998-12-31,F,Black / African American,1991-09-29,NULL,NULL,7618,Non-Commissioned,NULL
 4755,Ebba,H,Haley,SENIOR SYSTEMS APPLIC OPERATOR,Terminated,2003-02-09,M,White,1996-04-07,MSB - Management Service Bureau,NULL,6184,Non-Commissioned,NULL
 4754,Chance,I,Huel,SENIOR SYSTEMS APPLIC OPERATOR,Terminated,2005-03-27,M,Black / African American,2005-03-27,NULL,NULL,17559,Non-Commissioned,NULL
@@ -1780,7 +1780,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 4025,Rubie,F,Hoppe,"POLICE TECHNICIAN,TRAINEE",Terminated,2003-03-21,F,Black / African American,2002-02-11,MSB - Management Service Bureau,NULL,14199,Non-Commissioned,NULL
 4024,Adelle,E,Jakubowski,"POLICE TECHNICIAN,TRAINEE",Terminated,2005-10-14,F,Black / African American,2004-10-03,MSB - Management Service Bureau,NULL,17265,Non-Commissioned,NULL
 4023,Brianne,E,Legros,"POLICE TECHNICIAN,TRAINEE",Terminated,2005-10-14,F,Black / African American,1977-06-27,MSB - Management Service Bureau,NULL,8951,Commissioned,NULL
-4022,Elvie,C,Fisher,POLICE TECHNICIAN III,Terminated,NULL,F,White,1994-11-06,PIB - Public Integrity Bureau,NULL,6757,Non-Commissioned,750
+4022,Elvie,C,Fisher,POLICE TECHNICIAN III,Terminated,NULL,F,White,1994-11-06,PGB - Public Governance Bureau,NULL,6757,Non-Commissioned,750
 4021,Marjorie,R,Bartell,POLICE TECHNICIAN III,Terminated,NULL,F,Black / African American,1977-03-01,MSB - Management Service Bureau,NULL,6321,Non-Commissioned,340
 4020,Carolina,O,Thompson,POLICE TECHNICIAN III,Active,NULL,F,Black / African American,2003-07-06,ISB - Investigations and Support Bureau,NULL,15973,Non-Commissioned,3694
 4019,Everett,C,Johnson,POLICE TECHNICIAN 2,Terminated,1999-09-26,F,Black / African American,1982-06-20,MSB - Management Service Bureau,NULL,8632,Non-Commissioned,NULL
@@ -1821,22 +1821,22 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 3984,Francisca,V,Pfeffer,POLICE TECHNICIAN 2,Terminated,2005-12-28,F,Black / African American,1991-06-23,NULL,NULL,1672,Non-Commissioned,NULL
 3983,Greg,B,Wisoky,POLICE TECHNICIAN 2,Terminated,2004-03-07,Unknown Sex,Unknown Race,2002-02-11,MSB - Management Service Bureau,NULL,13080,Non-Commissioned,NULL
 3982,Flo,J,Crooks,POLICE TECHNICIAN 2,Terminated,2005-10-14,F,Black / African American,1994-09-18,MSB - Management Service Bureau,NULL,7672,Non-Commissioned,NULL
-3981,Norene,M,Rippin,POLICE TECHNICIAN 2,Terminated,2002-10-20,M,Black / African American,1995-06-12,PIB - Public Integrity Bureau,NULL,7080,Non-Commissioned,NULL
+3981,Norene,M,Rippin,POLICE TECHNICIAN 2,Terminated,2002-10-20,M,Black / African American,1995-06-12,PGB - Public Governance Bureau,NULL,7080,Non-Commissioned,NULL
 3980,Alysa,O,Ebert,POLICE TECHNICIAN III,Active,NULL,F,Black / African American,1996-05-19,MSB - Management Service Bureau,NULL,7729,Non-Commissioned,2615
 3979,Bell,Z,Nicolas,POLICE TECHNICIAN 2,Terminated,2006-01-28,F,Black / African American,1995-09-03,MSB - Management Service Bureau,NULL,7915,Non-Commissioned,NULL
 3978,Marion,A,Wiza,POLICE TECHNICIAN 2,Terminated,2004-08-22,F,Black / African American,2000-07-23,MSB - Management Service Bureau,NULL,12675,Non-Commissioned,NULL
 3977,Xavier,L,Hoppe,POLICE TECHNICIAN 2,Terminated,2001-12-02,F,Black / African American,1992-12-06,MSB - Management Service Bureau,NULL,6555,Non-Commissioned,NULL
 3976,Angus,C,Altenwerth,OFFICE ASSISTANT III,Active,NULL,F,Black / African American,2002-01-21,ISB - Investigations and Support Bureau,NULL,14161,Non-Commissioned,325
 3975,Roxanne,I,Terry,POLICE TECHNICIAN 2,Terminated,2005-11-06,F,Black / African American,2001-10-15,ISB - Investigations and Support Bureau,NULL,14013,Non-Commissioned,NULL
-3974,August,D,Hills,POLICE TECHNICIAN III,Active,NULL,F,Black / African American,1995-06-12,PIB - Public Integrity Bureau,NULL,3157,Non-Commissioned,3477
-3973,Jennyfer,E,Mraz,POLICE TECHNICIAN 2,Active,NULL,F,Black / African American,2007-01-13,PIB - Public Integrity Bureau,NULL,19022,Non-Commissioned,356
+3974,August,D,Hills,POLICE TECHNICIAN III,Active,NULL,F,Black / African American,1995-06-12,PGB - Public Governance Bureau,NULL,3157,Non-Commissioned,3477
+3973,Jennyfer,E,Mraz,POLICE TECHNICIAN 2,Active,NULL,F,Black / African American,2007-01-13,PGB - Public Governance Bureau,NULL,19022,Non-Commissioned,356
 3972,Reta,U,Tremblay,POLICE TECHNICIAN 2,Terminated,2002-12-15,F,Black / African American,1999-10-31,MSB - Management Service Bureau,NULL,11566,Non-Commissioned,NULL
 3971,Ephraim,Q,Skiles,POLICE TECHNICIAN III,Active,NULL,F,Black / African American,1994-04-25,MSB - Management Service Bureau,NULL,8041,Non-Commissioned,5780
 3970,Anibal,M,Gislason,POLICE TECHNICIAN III,Active,NULL,F,Black / African American,2002-05-20,MSB - Management Service Bureau,NULL,14548,Non-Commissioned,6102
 3969,Gaylord,A,Cartwright,POLICE TECHNICIAN 2,Terminated,2005-12-25,F,Black / African American,1996-09-22,MSB - Management Service Bureau,NULL,8249,Non-Commissioned,NULL
 3968,Sanford,N,Herman,POLICE TECHNICIAN 2,Terminated,2005-12-11,F,Black / African American,1996-04-21,MSB - Management Service Bureau,NULL,8037,Non-Commissioned,NULL
 3967,Gideon,J,Hauck,POLICE TECHNICIAN 2,Terminated,2007-08-19,F,Black / African American,2003-09-21,MSB - Management Service Bureau,NULL,16135,Non-Commissioned,NULL
-3966,Selmer,P,Wuckert,POLICE TECHNICIAN 2,Terminated,2005-06-26,F,Black / African American,1998-06-15,PIB - Public Integrity Bureau,NULL,1565,Non-Commissioned,NULL
+3966,Selmer,P,Wuckert,POLICE TECHNICIAN 2,Terminated,2005-06-26,F,Black / African American,1998-06-15,PGB - Public Governance Bureau,NULL,1565,Non-Commissioned,NULL
 3965,Boris,D,Beahan,POLICE TECHNICIAN 2,Terminated,2003-01-26,F,White,2001-03-04,FOB - Field Operations Bureau,NULL,13059,Non-Commissioned,NULL
 3964,Joyce,I,Hauck,ADMINSTRATIVE SUPPPORT SPEC,Active,NULL,F,Black / African American,2000-03-26,Office of the Superintendant,NULL,11810,Non-Commissioned,3611
 3963,Pinkie,V,Thompson,POLICE TECHNICIAN 2,Terminated,2011-07-31,F,Black / African American,2007-11-18,MSB - Management Service Bureau,NULL,18961,Non-Commissioned,NULL
@@ -1845,7 +1845,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 3960,Guiseppe,W,Okuneva,POLICE TECHNICIAN 2,Terminated,NULL,F,White,2005-05-22,Office of the Superintendant,NULL,17756,Non-Commissioned,663
 3959,Kailee,V,Prosacco,POLICE TECHNICIAN 2,Inactive,2012-04-28,F,Black / African American,2008-01-27,FOB - Field Operations Bureau,First District,18442,NULL,NULL
 3958,Kaleb,F,Lind,POLICE TECHNICIAN III,Active,NULL,F,Black / African American,1988-06-19,MSB - Management Service Bureau,NULL,7992,Non-Commissioned,2615
-3957,Laury,B,Fahey,POLICE TECHNICIAN 2,Terminated,2006-04-16,F,Black / African American,2001-04-01,PIB - Public Integrity Bureau,NULL,13147,Non-Commissioned,NULL
+3957,Laury,B,Fahey,POLICE TECHNICIAN 2,Terminated,2006-04-16,F,Black / African American,2001-04-01,PGB - Public Governance Bureau,NULL,13147,Non-Commissioned,NULL
 3956,Elfrieda,H,Cummings,POLICE TECHNICIAN 2,Terminated,2013-06-16,F,Black / African American,2008-12-21,MSB - Management Service Bureau,NULL,19707,Non-Commissioned,NULL
 3955,Jane,B,Hintz,POLICE TECHNICIAN 2,Terminated,2000-10-22,F,Black / African American,1994-09-18,ISB - Investigations and Support Bureau,NULL,6972,Non-Commissioned,NULL
 3954,Anderson,U,Beahan,POLICE TECHNICIAN 2,Active,NULL,F,Black / African American,2000-02-06,MSB - Management Service Bureau,NULL,11696,Non-Commissioned,3431
@@ -1872,7 +1872,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 3933,Louvenia,O,Cummerata,POLICE TECHNICIAN 2,Terminated,2005-10-14,F,Black / African American,2000-07-02,MSB - Management Service Bureau,NULL,12585,Non-Commissioned,NULL
 3932,Ollie,F,Simonis,POLICE TECHNICIAN 2,Terminated,2001-05-06,M,Black / African American,1996-04-17,ISB - Investigations and Support Bureau,NULL,8711,Non-Commissioned,NULL
 3931,Arch,I,Rolfson,POLICE TECHNICIAN 2,Retired,2013-03-10,F,White,1999-11-07,MSB - Management Service Bureau,NULL,11586,Non-Commissioned,NULL
-3930,Edna,V,Krajcik,POLICE TECHNICIAN III,Active,NULL,F,Black / African American,1999-10-17,PIB - Public Integrity Bureau,NULL,11530,Non-Commissioned,3477
+3930,Edna,V,Krajcik,POLICE TECHNICIAN III,Active,NULL,F,Black / African American,1999-10-17,PGB - Public Governance Bureau,NULL,11530,Non-Commissioned,3477
 3929,Margarete,J,DuBuque,POLICE TECHNICIAN 2,Active,NULL,F,Black / African American,2008-08-10,MSB - Management Service Bureau,NULL,19483,Non-Commissioned,665
 3928,Raymundo,M,Greenfelder,POLICE TECHNICIAN 2,Terminated,2005-10-14,F,Black / African American,2000-07-16,ISB - Investigations and Support Bureau,NULL,12674,Non-Commissioned,NULL
 3927,Ruby,Z,Little,POLICE TECHNICIAN 2,Inactive,NULL,F,White,2004-02-22,FOB - Field Operations Bureau,First District,16387,NULL,NULL
@@ -1888,7 +1888,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 3917,Rachelle,M,VonRueden,POLICE TECHNICIAN 2,Terminated,1999-05-30,F,Black / African American,1996-06-02,MSB - Management Service Bureau,NULL,9095,Non-Commissioned,NULL
 3916,Freda,C,Murphy,POLICE TECHNICIAN 2,Terminated,2005-10-14,F,Asian / Pacific Islander,1991-06-23,Compliance Bureau,NULL,3819,Non-Commissioned,NULL
 3915,Tate,H,Satterfield,POLICE TECHNICIAN 2,Terminated,2005-10-14,F,Black / African American,2003-09-21,ISB - Investigations and Support Bureau,NULL,16134,Non-Commissioned,NULL
-3914,Damian,I,Schimmel,POLICE TECHNICIAN III,Active,NULL,F,Black / African American,1989-06-26,PIB - Public Integrity Bureau,NULL,9900,Non-Commissioned,3477
+3914,Damian,I,Schimmel,POLICE TECHNICIAN III,Active,NULL,F,Black / African American,1989-06-26,PGB - Public Governance Bureau,NULL,9900,Non-Commissioned,3477
 3913,Grady,B,Corkery,POLICE TECHNICIAN 2,Terminated,2005-10-14,F,Black / African American,2004-04-04,MSB - Management Service Bureau,NULL,16475,Non-Commissioned,NULL
 3912,Stephania,H,Nicolas,POLICE TECHNICIAN 2,Terminated,2011-10-23,M,White,2007-11-25,MSB - Management Service Bureau,NULL,18969,Non-Commissioned,NULL
 3911,Reyna,D,Fay,POLICE TECHNICIAN 1,Terminated,2001-06-03,F,Black / African American,2000-06-04,MSB - Management Service Bureau,NULL,12203,Non-Commissioned,NULL
@@ -2072,8 +2072,8 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 3733,Harmon,L,Lehner,POLICE LIEUTENANT,Active,NULL,F,Black / African American,1983-06-06,FOB - Field Operations Bureau,Fourth District,8027,Commissioned,661
 3732,Verlie,M,Durgan,POLICE SERGEANT,Active,NULL,M,Black / African American,1987-02-22,ISB - Investigations and Support Bureau,NULL,9907,Commissioned,325
 3731,Bryon,I,Cormier,POLICE SERGEANT,Terminated,NULL,M,Black / African American,1979-01-28,MSB - Management Service Bureau,NULL,9918,Commissioned,315
-3730,Leora,A,Denesik,POLICE SERGEANT,Retired,2009-09-27,M,Black / African American,1985-02-03,PIB - Public Integrity Bureau,NULL,7252,Commissioned,NULL
-3729,Penelope,P,Howe,POLICE SERGEANT,Deceased,2003-06-29,M,White,1977-09-12,PIB - Public Integrity Bureau,NULL,7331,Commissioned,NULL
+3730,Leora,A,Denesik,POLICE SERGEANT,Retired,2009-09-27,M,Black / African American,1985-02-03,PGB - Public Governance Bureau,NULL,7252,Commissioned,NULL
+3729,Penelope,P,Howe,POLICE SERGEANT,Deceased,2003-06-29,M,White,1977-09-12,PGB - Public Governance Bureau,NULL,7331,Commissioned,NULL
 3728,Lonnie,U,Reinger,POLICE SERGEANT,Terminated,2003-10-05,M,White,1987-10-18,FOB - Field Operations Bureau,NULL,8528,Commissioned,NULL
 3727,Nora,J,Bartell,POLICE SERGEANT,Active,NULL,M,Black / African American,1979-03-18,MSB - Management Service Bureau,NULL,7902,Commissioned,NULL
 3726,Tre,S,Nienow,POLICE SERGEANT,Retired,2011-06-05,M,White,1981-03-15,NULL,NULL,9726,Commissioned,NULL
@@ -2081,13 +2081,13 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 3724,Dewayne,Z,Rutherford,POLICE SERGEANT,Retired,1998-05-01,M,White,1970-04-30,NULL,NULL,7239,Commissioned,NULL
 3723,Barton,X,Hills,POLICE SERGEANT,Retired,1997-09-17,M,White,1971-05-10,NULL,NULL,9588,Commissioned,NULL
 3722,Jenifer,A,Muller,POLICE SERGEANT,Active,NULL,M,White,1991-08-04,FOB - Field Operations Bureau,Second District,9182,Commissioned,2488
-3721,Johnathan,K,Gleason,POLICE SERGEANT,Retired,2013-01-13,M,White,1974-10-07,PIB - Public Integrity Bureau,NULL,7302,Commissioned,NULL
+3721,Johnathan,K,Gleason,POLICE SERGEANT,Retired,2013-01-13,M,White,1974-10-07,PGB - Public Governance Bureau,NULL,7302,Commissioned,NULL
 3720,Haskell,L,Brakus,POLICE SERGEANT,Active,NULL,M,Black / African American,1979-09-09,FOB - Field Operations Bureau,NULL,9124,Commissioned,3537
 3719,Ettie,N,Nicolas,POLICE SERGEANT,Active,NULL,M,White,1987-12-06,FOB - Field Operations Bureau,Seventh District,8189,Commissioned,720
 3718,Pasquale,H,Braun,POLICE SERGEANT,Retired,2007-02-18,F,White,1976-12-14,MSB - Management Service Bureau,NULL,6697,Commissioned,NULL
 3717,Amely,C,Durgan,POLICE SERGEANT,Retired,2003-06-29,M,White,1974-10-21,FOB - Field Operations Bureau,NULL,7342,Commissioned,NULL
 3716,Dasia,X,Lockman,POLICE SERGEANT,Retired,2005-08-07,M,Black / African American,1975-05-29,FOB - Field Operations Bureau,NULL,8428,Commissioned,NULL
-3715,Kellie,T,Bayer,POLICE SERGEANT,Retired,2004-08-08,M,Black / African American,1975-06-11,PIB - Public Integrity Bureau,NULL,8467,Commissioned,NULL
+3715,Kellie,T,Bayer,POLICE SERGEANT,Retired,2004-08-08,M,Black / African American,1975-06-11,PGB - Public Governance Bureau,NULL,8467,Commissioned,NULL
 3714,Estelle,S,Monahan,POLICE SERGEANT,Terminated,1998-07-18,M,White,1980-01-20,NULL,NULL,9908,Commissioned,NULL
 3713,Destiny,A,Stroman,POLICE SERGEANT,Active,NULL,M,Black / African American,1994-08-21,FOB - Field Operations Bureau,Fifth District,6225,Commissioned,742
 3712,Moses,F,Borer,POLICE SERGEANT,Active,NULL,M,Black / African American,1991-06-02,Compliance Bureau,NULL,8845,Commissioned,743
@@ -2102,7 +2102,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 3703,Asia,M,Mitchell,Reserve Officers,Active,2010-08-29,M,Black / African American,1979-05-27,MSB - Management Service Bureau,NULL,7483,Commissioned,NULL
 3702,Adella,H,Harris,POLICE SERGEANT,Terminated,2005-11-13,M,White,1997-12-14,FOB - Field Operations Bureau,NULL,10107,Commissioned,NULL
 3701,Janiya,O,Witting,POLICE SERGEANT,Retired,2008-01-06,M,White,1973-01-29,MSB - Management Service Bureau,NULL,6232,Commissioned,NULL
-3700,Aron,A,Zulauf,POLICE SERGEANT,Retired,2013-06-02,F,White,1981-12-13,PIB - Public Integrity Bureau,NULL,6186,Commissioned,NULL
+3700,Aron,A,Zulauf,POLICE SERGEANT,Retired,2013-06-02,F,White,1981-12-13,PGB - Public Governance Bureau,NULL,6186,Commissioned,NULL
 3699,Pattie,S,Shanahan,POLICE SERGEANT,Terminated,2005-10-30,M,Black / African American,1988-06-19,FOB - Field Operations Bureau,NULL,6585,Commissioned,NULL
 3698,Tabitha,G,Berge,POLICE SERGEANT,Retired,2011-07-03,M,White,1984-05-13,FOB - Field Operations Bureau,Second District,7845,Commissioned,NULL
 3697,Dejon,O,McKenzie,POLICE SERGEANT,Retired,2007-07-08,F,White,1982-06-06,MSB - Management Service Bureau,NULL,6136,Commissioned,NULL
@@ -2148,12 +2148,12 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 3657,Brice,D,Kreiger,POLICE SERGEANT,Active,NULL,M,Black / African American,1990-11-04,FOB - Field Operations Bureau,Fifth District,9384,Commissioned,3327
 3656,Destiney,B,Aufderhar,POLICE SERGEANT,Terminated,NULL,M,Black / African American,1990-10-21,FOB - Field Operations Bureau,Third District,8229,Commissioned,654
 3655,Jaiden,C,Schulist,POLICE SERGEANT,Active,NULL,M,White,1997-06-22,FOB - Field Operations Bureau,Second District,9269,Commissioned,3394
-3654,Jaylin,G,Harber,POLICE SERGEANT,Retired,2003-11-16,M,White,1975-03-18,PIB - Public Integrity Bureau,NULL,7393,Commissioned,NULL
+3654,Jaylin,G,Harber,POLICE SERGEANT,Retired,2003-11-16,M,White,1975-03-18,PGB - Public Governance Bureau,NULL,7393,Commissioned,NULL
 3653,Greta,U,Conn,POLICE SERGEANT,Terminated,2012-04-08,M,White,1997-06-29,MSB - Management Service Bureau,NULL,6616,Commissioned,NULL
 3652,Ruben,J,Aufderhar,POLICE SERGEANT,Retired,2002-06-16,M,White,1970-10-20,MSB - Management Service Bureau,NULL,7318,Commissioned,NULL
 3651,Dewitt,K,Brown,POLICE SERGEANT,Retired,2008-07-06,M,White,1973-09-17,FOB - Field Operations Bureau,Second District,7904,Commissioned,NULL
 3650,Bulah,M,Barton,POLICE SERGEANT,Retired,1999-06-06,M,White,1969-03-17,FOB - Field Operations Bureau,Second District,7134,Commissioned,NULL
-3649,Mariam,H,Bednar,POLICE SERGEANT,Deceased,2003-09-07,M,Black / African American,1979-08-13,PIB - Public Integrity Bureau,NULL,9170,Commissioned,NULL
+3649,Mariam,H,Bednar,POLICE SERGEANT,Deceased,2003-09-07,M,Black / African American,1979-08-13,PGB - Public Governance Bureau,NULL,9170,Commissioned,NULL
 3648,Serena,Q,Grady,POLICE SERGEANT,Retired,2001-07-01,M,White,1971-01-25,MSB - Management Service Bureau,NULL,8396,Commissioned,NULL
 3647,Sandy,E,Muller,POLICE SERGEANT,Retired,2005-11-13,M,White,1974-01-09,FOB - Field Operations Bureau,Second District,7884,Commissioned,NULL
 3646,Iva,N,Morissette,POLICE SERGEANT,Retired,1999-03-28,M,White,1956-06-18,MSB - Management Service Bureau,NULL,7714,Commissioned,NULL
@@ -2164,12 +2164,12 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 3641,River,A,Pagac,POLICE SERGEANT,Retired,2002-12-29,M,White,1978-07-23,MSB - Management Service Bureau,NULL,7890,Commissioned,NULL
 3640,Carter,S,Prosacco,POLICE SERGEANT,Active,NULL,M,White,1998-04-12,ISB - Investigations and Support Bureau,NULL,6185,Commissioned,2752
 3639,Queenie,D,Langworth,POLICE SERGEANT,Active,NULL,M,White,1997-10-05,FOB - Field Operations Bureau,Third District,6129,Commissioned,3677
-3638,Jerrell,I,Larkin,POLICE SERGEANT,Retired,2002-01-13,M,White,1969-07-28,PIB - Public Integrity Bureau,NULL,10125,Commissioned,NULL
+3638,Jerrell,I,Larkin,POLICE SERGEANT,Retired,2002-01-13,M,White,1969-07-28,PGB - Public Governance Bureau,NULL,10125,Commissioned,NULL
 3637,Lavada,Z,Pollich,POLICE SERGEANT,Terminated,2006-09-17,M,Hispanic,1991-02-24,MSB - Management Service Bureau,NULL,10020,Commissioned,NULL
 3636,Francisca,Y,Cummerata,POLICE SERGEANT,Retired,2013-11-03,M,White,1980-04-13,FOB - Field Operations Bureau,Third District,7472,Commissioned,701
 3635,Gia,B,Larson,POLICE SERGEANT,Terminated,2016-11-01,M,Native American,2002-02-24,FOB - Field Operations Bureau,First District,14198,Commissioned,684
 3634,Nikki,H,Doyle,POLICE SERGEANT,Active,NULL,M,Black / African American,1994-12-04,FOB - Field Operations Bureau,Third District,8056,Commissioned,706
-3633,Gerda,C,Kuvalis,POLICE SERGEANT,Retired,2000-09-10,F,White,1978-02-28,PIB - Public Integrity Bureau,NULL,7815,Commissioned,NULL
+3633,Gerda,C,Kuvalis,POLICE SERGEANT,Retired,2000-09-10,F,White,1978-02-28,PGB - Public Governance Bureau,NULL,7815,Commissioned,NULL
 3632,Margaretta,G,Vandervort,POLICE SERGEANT,Inactive,2008-02-03,F,White,1982-10-04,FOB - Field Operations Bureau,First District,8372,Commissioned,NULL
 3631,Ernie,I,Pagac,POLICE SERGEANT,Active,NULL,M,Black / African American,1998-12-20,FOB - Field Operations Bureau,Second District,7116,Commissioned,3394
 3630,Berta,B,Wyman,POLICE SERGEANT,Retired,2002-01-13,M,White,1970-08-10,FOB - Field Operations Bureau,Second District,10208,Commissioned,NULL
@@ -2178,17 +2178,17 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 3627,Delbert,K,Kutch,POLICE LIEUTENANT,Active,NULL,F,Black / African American,2001-07-01,FOB - Field Operations Bureau,Fourth District,13743,Commissioned,661
 3626,Kirsten,B,Sipes,POLICE SERGEANT,Retired,2014-04-06,M,Black / African American,1985-11-14,FOB - Field Operations Bureau,Sixth District,6494,Commissioned,759
 3625,Carrie,S,Barton,POLICE SERGEANT,Retired,2006-09-01,M,White,1978-03-27,MSB - Management Service Bureau,NULL,6077,Commissioned,NULL
-3624,Chanel,Q,Mueller,POLICE SERGEANT,Retired,2010-12-19,F,Black / African American,1981-08-30,PIB - Public Integrity Bureau,NULL,6868,Commissioned,NULL
+3624,Chanel,Q,Mueller,POLICE SERGEANT,Retired,2010-12-19,F,Black / African American,1981-08-30,PGB - Public Governance Bureau,NULL,6868,Commissioned,NULL
 3623,Brennon,O,Windler,POLICE LIEUTENANT,Active,NULL,M,Black / African American,1998-05-24,FOB - Field Operations Bureau,Fourth District,6454,Commissioned,661
-3622,Lora,F,Nolan,POLICE LIEUTENANT,Active,NULL,F,Black / African American,2001-07-08,PIB - Public Integrity Bureau,NULL,13798,Commissioned,694
+3622,Lora,F,Nolan,POLICE LIEUTENANT,Active,NULL,F,Black / African American,2001-07-08,PGB - Public Governance Bureau,NULL,13798,Commissioned,694
 3621,Melvina,K,O'Reilly,POLICE SERGEANT,Retired,2008-11-09,M,White,1977-03-07,MSB - Management Service Bureau,NULL,10258,Commissioned,NULL
 3620,Makayla,Z,Ebert,POLICE SERGEANT,Retired,1998-08-16,M,White,1968-02-05,NULL,NULL,8300,Commissioned,NULL
 3619,Emmitt,U,Welch,POLICE SERGEANT,Active,NULL,M,White,1993-02-15,ISB - Investigations and Support Bureau,NULL,7330,Commissioned,3490
 3618,Marisol,V,Casper,POLICE SERGEANT,Terminated,2015-08-09,M,White,1982-05-09,ISB - Investigations and Support Bureau,NULL,6956,Commissioned,689
 3617,Jesse,W,Wiegand,POLICE SERGEANT,Retired,2006-11-26,F,Black / African American,1980-05-01,MSB - Management Service Bureau,NULL,9776,Commissioned,NULL
 3616,Maye,T,Willms,POLICE SERGEANT,Retired,2008-07-06,M,White,1977-03-28,MSB - Management Service Bureau,NULL,7860,Commissioned,NULL
-3615,Jennifer,N,Mohr,POLICE SERGEANT,Retired,2005-07-24,M,White,1983-06-19,PIB - Public Integrity Bureau,NULL,6010,Commissioned,NULL
-3614,Angelo,S,Renner,POLICE SERGEANT,Retired,2013-02-24,M,White,1983-07-03,PIB - Public Integrity Bureau,NULL,6485,Commissioned,NULL
+3615,Jennifer,N,Mohr,POLICE SERGEANT,Retired,2005-07-24,M,White,1983-06-19,PGB - Public Governance Bureau,NULL,6010,Commissioned,NULL
+3614,Angelo,S,Renner,POLICE SERGEANT,Retired,2013-02-24,M,White,1983-07-03,PGB - Public Governance Bureau,NULL,6485,Commissioned,NULL
 3613,Clement,K,Wilderman,POLICE SERGEANT,Deceased,2005-09-04,M,White,1991-05-05,Office of the Superintendant,NULL,8810,Commissioned,NULL
 3612,Vernon,X,Rohan,POLICE SERGEANT,Terminated,2015-06-19,M,White,1991-03-03,MSB - Management Service Bureau,NULL,7580,Commissioned,3481
 3611,Ardella,N,Nitzsche,INFORMATION TECH SPEC III,Active,NULL,M,White,1980-06-12,Office of the Superintendant,NULL,6709,Commissioned,663
@@ -2202,7 +2202,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 3603,Claudia,S,Bailey,POLICE SERGEANT,Retired,2001-04-08,F,White,1975-07-14,MSB - Management Service Bureau,NULL,6206,Commissioned,NULL
 3602,Elmore,N,Fahey,POLICE SERGEANT,Retired,2003-06-15,M,White,1970-09-01,Compliance Bureau,NULL,9049,Commissioned,NULL
 3601,Lucie,G,Tillman,POLICE SERGEANT,Retired,2002-05-05,M,Black / African American,1970-09-01,FOB - Field Operations Bureau,NULL,6766,Commissioned,NULL
-3600,Lucinda,A,Hansen,POLICE SERGEANT,Active,NULL,M,Hispanic,1994-04-24,PIB - Public Integrity Bureau,NULL,8108,Commissioned,3395
+3600,Lucinda,A,Hansen,POLICE SERGEANT,Active,NULL,M,Hispanic,1994-04-24,PGB - Public Governance Bureau,NULL,8108,Commissioned,3395
 3599,Sally,D,Daniel,POLICE LIEUTENANT,Active,NULL,M,White,1998-06-07,FOB - Field Operations Bureau,First District,7160,Commissioned,3456
 3598,Birdie,W,Schowalter,POLICE SERGEANT,Retired,2006-10-29,F,Black / African American,1972-01-17,MSB - Management Service Bureau,NULL,6671,Commissioned,NULL
 3597,Reese,X,Toy,POLICE SERGEANT,Retired,2010-01-03,M,Black / African American,1984-05-13,MSB - Management Service Bureau,NULL,6349,Commissioned,NULL
@@ -2246,7 +2246,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 3559,Vicente,U,Dietrich,POLICE SERGEANT,Retired,1997-04-27,M,Hispanic,1976-09-16,NULL,NULL,6146,Commissioned,NULL
 3558,Tanya,Y,Becker,POLICE SERGEANT,Active,NULL,M,Black / African American,1987-06-15,FOB - Field Operations Bureau,Third District,7774,Commissioned,692
 3557,Barney,M,Effertz,POLICE SERGEANT,Retired,2000-07-16,M,White,1967-05-01,FOB - Field Operations Bureau,NULL,8307,Commissioned,NULL
-3556,Albert,D,Lemke,POLICE SERGEANT,Active,NULL,F,Black / African American,1989-01-08,PIB - Public Integrity Bureau,NULL,8122,Commissioned,3395
+3556,Albert,D,Lemke,POLICE SERGEANT,Active,NULL,F,Black / African American,1989-01-08,PGB - Public Governance Bureau,NULL,8122,Commissioned,3395
 3555,Francisco,W,Hoppe,POLICE SERGEANT,Active,NULL,M,Black / African American,1991-05-05,MSB - Management Service Bureau,NULL,9920,Commissioned,674
 3554,Taya,W,Green,POLICE SERGEANT,Active,NULL,M,Black / African American,1997-06-23,ISB - Investigations and Support Bureau,NULL,7807,Commissioned,334
 3553,Dion,H,Spencer,POLICE SERGEANT,Terminated,2015-09-11,M,White,1983-03-13,MSB - Management Service Bureau,NULL,6773,Commissioned,3371
@@ -2263,7 +2263,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 3542,Joesph,Q,Kirlin,POLICE SERGEANT,Terminated,NULL,M,Black / African American,1988-12-18,FOB - Field Operations Bureau,Fifth District,8617,Commissioned,742
 3541,Gabrielle,S,Bartoletti,POLICE SERGEANT,Terminated,NULL,F,White,2001-06-24,MSB - Management Service Bureau,NULL,13685,Commissioned,3481
 3540,Felicita,M,Kunze,POLICE SERGEANT,Active,NULL,M,Black / African American,1997-08-03,FOB - Field Operations Bureau,Seventh District,7115,Commissioned,3628
-3539,Ivy,Y,Stamm,POLICE SERGEANT,Active,NULL,F,Black / African American,1997-12-07,PIB - Public Integrity Bureau,NULL,9827,Commissioned,3395
+3539,Ivy,Y,Stamm,POLICE SERGEANT,Active,NULL,F,Black / African American,1997-12-07,PGB - Public Governance Bureau,NULL,9827,Commissioned,3395
 3538,Nikki,A,Strosin,POLICE LIEUTENANT,Active,NULL,M,Black / African American,1992-09-06,FOB - Field Operations Bureau,Sixth District,8657,Commissioned,3659
 3537,Lyric,P,Cronin,POLICE LIEUTENANT,Active,NULL,M,Black / African American,1986-06-09,FOB - Field Operations Bureau,Fourth District,6881,Commissioned,661
 3536,Lemuel,P,Hartmann,POLICE SERGEANT,Active,NULL,M,Black / African American,1987-08-16,FOB - Field Operations Bureau,Seventh District,6864,Commissioned,2201
@@ -2289,7 +2289,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 3516,Ephraim,J,Osinski,POLICE SERGEANT,Retired,2003-04-20,F,White,1981-10-18,MSB - Management Service Bureau,NULL,8434,Commissioned,NULL
 3515,Gardner,M,Mayer,POLICE SERGEANT,Retired,2012-03-25,M,White,1982-07-25,ISB - Investigations and Support Bureau,NULL,8973,Commissioned,NULL
 3514,Odessa,I,Bahringer,POLICE SERGEANT,Active,NULL,M,White,1987-12-13,MSB - Management Service Bureau,NULL,9655,Commissioned,674
-3513,Estel,Y,Price,POLICE LIEUTENANT,Terminated,NULL,F,White,1997-07-06,PIB - Public Integrity Bureau,NULL,7829,Commissioned,358
+3513,Estel,Y,Price,POLICE LIEUTENANT,Terminated,NULL,F,White,1997-07-06,PGB - Public Governance Bureau,NULL,7829,Commissioned,358
 3512,Raquel,E,Funk,POLICE SERGEANT,Retired,2004-12-26,M,White,1979-07-22,ISB - Investigations and Support Bureau,NULL,8996,Commissioned,NULL
 3511,Marquis,O,Casper,POLICE SERGEANT,Retired,2004-02-22,M,White,1979-02-11,FOB - Field Operations Bureau,NULL,9248,Commissioned,NULL
 3510,Horacio,K,Ruecker,POLICE SERGEANT,Retired,2014-01-26,M,White,1980-09-28,FOB - Field Operations Bureau,Third District,8482,Commissioned,330
@@ -2299,7 +2299,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 3506,Dave,B,West,POLICE SERGEANT,Terminated,2006-04-02,M,Black / African American,1989-05-21,MSB - Management Service Bureau,NULL,8186,Commissioned,NULL
 3505,Breanne,H,Weber,POLICE LIEUTENANT,Active,NULL,F,Black / African American,2000-12-24,FOB - Field Operations Bureau,NULL,12960,Commissioned,316
 3504,Reid,H,Abernathy,POLICE SERGEANT,Terminated,2009-02-15,M,White,1998-06-21,NULL,NULL,10110,Commissioned,NULL
-3503,Ubaldo,J,O'Connell,POLICE SERGEANT,Retired,2011-12-04,M,White,1976-03-08,PIB - Public Integrity Bureau,NULL,8472,Commissioned,NULL
+3503,Ubaldo,J,O'Connell,POLICE SERGEANT,Retired,2011-12-04,M,White,1976-03-08,PGB - Public Governance Bureau,NULL,8472,Commissioned,NULL
 3502,Brooke,E,Schmidt,POLICE SERGEANT,Terminated,2013-06-30,M,Black / African American,1997-12-14,FOB - Field Operations Bureau,NULL,9404,Commissioned,NULL
 3501,Lisandro,M,Anderson,POLICE SERGEANT,Active,NULL,M,White,1972-11-29,Office of the Superintendant,NULL,9731,Commissioned,739
 3500,Amanda,Z,Skiles,POLICE SERGEANT,Retired,2000-07-15,M,White,1950-06-16,FOB - Field Operations Bureau,NULL,8117,Commissioned,NULL
@@ -2325,11 +2325,11 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 3480,Jeanne,Q,Donnelly,POLICE SERGEANT,Terminated,2008-01-06,M,White,1992-03-08,Office of the Superintendant,NULL,6200,Commissioned,NULL
 3479,Antwan,I,Beer,POLICE SERGEANT,Retired,1997-12-08,M,White,1969-11-24,NULL,NULL,7281,Commissioned,NULL
 3478,Daniela,F,Welch,POLICE SERGEANT,Retired,2014-01-26,M,White,1983-02-20,FOB - Field Operations Bureau,Seventh District,6271,Commissioned,692
-3477,Marcellus,S,Satterfield,POLICE SERGEANT,Active,NULL,F,White,1997-09-28,PIB - Public Integrity Bureau,NULL,9993,Commissioned,694
+3477,Marcellus,S,Satterfield,POLICE SERGEANT,Active,NULL,F,White,1997-09-28,PGB - Public Governance Bureau,NULL,9993,Commissioned,694
 3476,Dino,E,Grant,POLICE SERGEANT,Retired,2009-01-18,M,White,1977-04-18,MSB - Management Service Bureau,NULL,9111,Commissioned,NULL
 3475,Fredrick,U,Conroy,POLICE SERGEANT,Active,NULL,M,White,1997-11-02,FOB - Field Operations Bureau,Third District,7090,Commissioned,3340
 3474,Allan,Y,Huel,POLICE SERGEANT,Retired,1997-09-13,M,White,1969-03-26,NULL,NULL,7238,Commissioned,NULL
-3473,Hunter,C,Olson,POLICE SERGEANT,Active,NULL,M,Black / African American,1991-11-17,PIB - Public Integrity Bureau,NULL,7614,Commissioned,673
+3473,Hunter,C,Olson,POLICE SERGEANT,Active,NULL,M,Black / African American,1991-11-17,PGB - Public Governance Bureau,NULL,7614,Commissioned,673
 3472,Enos,D,Hagenes,POLICE SERGEANT,Retired,2007-01-21,M,White,1988-11-06,FOB - Field Operations Bureau,Third District,6103,Commissioned,NULL
 3471,Kevon,A,Carroll,POLICE SERGEANT,Active,NULL,M,Black / African American,1997-06-22,FOB - Field Operations Bureau,Fourth District,8291,Commissioned,3623
 3470,Berenice,F,Jaskolski,POLICE SERGEANT,Retired,2009-01-18,M,White,1984-01-15,MSB - Management Service Bureau,NULL,6708,Commissioned,NULL
@@ -2345,7 +2345,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 3460,Kyleigh,H,Crist,POLICE SERGEANT,Retired,2005-01-09,M,White,1983-09-25,FOB - Field Operations Bureau,NULL,8598,Commissioned,NULL
 3459,Elmira,T,Marks,POLICE SERGEANT,Retired,2008-11-09,M,Black / African American,1982-10-10,MSB - Management Service Bureau,NULL,9863,Commissioned,NULL
 3458,Wendell,H,Haag,POLICE SERGEANT,Active,NULL,M,Black / African American,1983-06-06,Office of the Superintendant,NULL,7996,Commissioned,663
-3457,Willy,J,Skiles,POLICE SERGEANT,Retired,2006-01-08,M,Black / African American,1981-10-11,PIB - Public Integrity Bureau,NULL,9623,Commissioned,NULL
+3457,Willy,J,Skiles,POLICE SERGEANT,Retired,2006-01-08,M,Black / African American,1981-10-11,PGB - Public Governance Bureau,NULL,9623,Commissioned,NULL
 3456,Seth,F,Hansen,Police Commander,Active,NULL,M,Black / African American,1998-05-24,FOB - Field Operations Bureau,First District,6045,Commissioned,746
 3455,Susanna,A,Thompson,POLICE SERGEANT,Retired,2011-06-19,M,White,1975-10-01,FOB - Field Operations Bureau,Third District,9754,Commissioned,NULL
 3454,Maxwell,D,Schinner,POLICE SERGEANT,Retired,2011-07-31,M,Black / African American,1981-02-01,FOB - Field Operations Bureau,NULL,7951,Commissioned,NULL
@@ -2366,14 +2366,14 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 3439,Hubert,Z,West,POLICE SERGEANT,Retired,2013-08-11,M,Black / African American,1980-07-07,FOB - Field Operations Bureau,NULL,8106,Commissioned,NULL
 3438,Estella,L,Turner,POLICE SERGEANT,Retired,1999-07-01,M,White,1979-07-15,MSB - Management Service Bureau,NULL,6735,Commissioned,NULL
 3437,Ruthe,D,Buckridge,POLICE SERGEANT,Retired,2001-01-14,M,White,1973-12-31,FOB - Field Operations Bureau,NULL,7404,Commissioned,NULL
-3436,Isom,F,Friesen,POLICE SERGEANT,Active,NULL,M,Black / African American,1995-11-26,PIB - Public Integrity Bureau,NULL,6282,Commissioned,3622
+3436,Isom,F,Friesen,POLICE SERGEANT,Active,NULL,M,Black / African American,1995-11-26,PGB - Public Governance Bureau,NULL,6282,Commissioned,3622
 3435,Karelle,K,Dickens,Police Commander,Active,NULL,M,White,1995-11-05,FOB - Field Operations Bureau,Fifth District,6602,Commissioned,746
 3434,Frida,A,Tillman,POLICE SERGEANT,Retired,2012-04-08,M,White,1975-03-31,ISB - Investigations and Support Bureau,NULL,9739,Commissioned,NULL
 3433,Sandrine,H,Howe,POLICE SERGEANT,Retired,2000-03-11,M,White,1970-09-01,FOB - Field Operations Bureau,NULL,9665,Commissioned,NULL
 3432,Kaylah,T,Schaden,POLICE SERGEANT,Deceased,2000-07-02,F,White,1969-10-30,FOB - Field Operations Bureau,First District,6716,Commissioned,NULL
 3431,Eveline,Z,Medhurst,POLICE SERGEANT,Active,NULL,M,Black / African American,1991-10-13,MSB - Management Service Bureau,NULL,6444,Commissioned,674
 3430,Oceane,K,Goodwin,POLICE SERGEANT,Active,NULL,M,Black / African American,1998-09-27,FOB - Field Operations Bureau,Eighth District,6944,Commissioned,3595
-3429,Willis,I,Cummings,SR SPECIAL INVESTIGATOR,Active,NULL,M,Black / African American,1983-04-25,PIB - Public Integrity Bureau,NULL,8012,Commissioned,3622
+3429,Willis,I,Cummings,SR SPECIAL INVESTIGATOR,Active,NULL,M,Black / African American,1983-04-25,PGB - Public Governance Bureau,NULL,8012,Commissioned,3622
 3428,Danny,A,Haley,POLICE SERGEANT,Retired,2006-08-20,F,White,1979-03-11,MSB - Management Service Bureau,NULL,9172,Commissioned,NULL
 3427,Alda,E,Buckridge,POLICE SERGEANT,Terminated,2001-10-07,M,White,1985-06-09,MSB - Management Service Bureau,NULL,9122,Commissioned,NULL
 3426,Leonel,B,Blick,POLICE SERGEANT,Active,NULL,M,White,1998-07-19,MSB - Management Service Bureau,NULL,10289,Commissioned,5899
@@ -2382,7 +2382,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 3423,Shawn,M,Pfeffer,POLICE LIEUTENANT,Active,NULL,M,Black / African American,1994-12-04,FOB - Field Operations Bureau,First District,6529,Commissioned,3456
 3422,Yvonne,I,Stracke,POLICE SERGEANT,Retired,2011-07-31,F,Black / African American,1981-11-01,FOB - Field Operations Bureau,Second District,6973,Commissioned,NULL
 3421,Gwendolyn,M,Gleichner,Reserve Officers,Active,2010-12-05,M,Black / African American,1977-06-06,FOB - Field Operations Bureau,NULL,7277,Commissioned,2850
-3420,Karlee,L,Shanahan,POLICE SERGEANT,Retired,2005-03-06,M,White,1977-08-29,PIB - Public Integrity Bureau,NULL,7557,Commissioned,NULL
+3420,Karlee,L,Shanahan,POLICE SERGEANT,Retired,2005-03-06,M,White,1977-08-29,PGB - Public Governance Bureau,NULL,7557,Commissioned,NULL
 3419,Abraham,N,Kirlin,POLICE SERGEANT,Retired,1997-04-30,F,White,1977-05-11,NULL,NULL,8465,Commissioned,NULL
 3418,Leatha,I,Effertz,POLICE SERGEANT,Retired,1997-02-26,M,Black / African American,1971-09-07,NULL,NULL,9636,Commissioned,NULL
 3417,Steve,E,Schmitt,POLICE SERGEANT,Retired,1997-12-21,M,White,1970-09-01,NULL,NULL,8994,Commissioned,NULL
@@ -2401,17 +2401,17 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 3404,Florian,C,Bradtke,POLICE SERGEANT,Terminated,1998-03-30,F,White,1985-06-16,NULL,NULL,8495,Commissioned,NULL
 3403,Lola,P,Kihn,POLICE LIEUTENANT,Retired,2013-11-17,M,Black / African American,1976-09-13,FOB - Field Operations Bureau,First District,6874,Commissioned,743
 3402,Vickie,A,Stracke,POLICE SERGEANT,Active,NULL,M,Black / African American,1990-05-20,FOB - Field Operations Bureau,Fifth District,6355,Commissioned,742
-3401,Aniya,Q,Schaden,POLICE SERGEANT,Retired,2009-07-05,F,White,1983-09-25,PIB - Public Integrity Bureau,NULL,7454,Commissioned,NULL
+3401,Aniya,Q,Schaden,POLICE SERGEANT,Retired,2009-07-05,F,White,1983-09-25,PGB - Public Governance Bureau,NULL,7454,Commissioned,NULL
 3400,Shayna,H,Davis,POLICE SERGEANT,Retired,2008-06-08,M,White,1979-08-12,MSB - Management Service Bureau,NULL,6345,Commissioned,NULL
 3399,Aurore,T,Glover,POLICE SERGEANT,Active,NULL,M,Black / African American,1991-06-23,MSB - Management Service Bureau,NULL,10217,Commissioned,3355
 3398,Alda,S,Weimann,POLICE SERGEANT,Active,NULL,M,Black / African American,1997-10-05,FOB - Field Operations Bureau,NULL,10214,Commissioned,3530
 3397,Tomas,H,Jakubowski,POLICE SERGEANT,Retired,2011-08-14,M,White,1984-02-05,MSB - Management Service Bureau,NULL,7821,Commissioned,NULL
 3396,Rosina,H,Schmidt,POLICE SERGEANT,Terminated,2007-02-04,M,White,1991-01-06,MSB - Management Service Bureau,NULL,9283,Commissioned,NULL
-3395,Natalie,Z,Breitenberg,POLICE LIEUTENANT,Active,NULL,M,Black / African American,1994-05-22,PIB - Public Integrity Bureau,NULL,7603,Commissioned,694
+3395,Natalie,Z,Breitenberg,POLICE LIEUTENANT,Active,NULL,M,Black / African American,1994-05-22,PGB - Public Governance Bureau,NULL,7603,Commissioned,694
 3394,Sunny,C,Gutkowski,POLICE LIEUTENANT,Active,NULL,M,White,1985-02-03,FOB - Field Operations Bureau,Second District,6499,Commissioned,3680
 3393,Clyde,G,Daniel,POLICE SERGEANT,Active,NULL,M,Hispanic,1987-01-11,MSB - Management Service Bureau,NULL,6963,Commissioned,674
 3392,Samanta,R,Zboncak,Reserve Officers,Terminated,2010-06-06,M,White,1967-03-13,FOB - Field Operations Bureau,NULL,8317,Commissioned,2850
-3391,Samson,K,Bauch,POLICE SERGEANT,Terminated,NULL,M,Black / African American,1988-02-07,PIB - Public Integrity Bureau,NULL,8268,Commissioned,694
+3391,Samson,K,Bauch,POLICE SERGEANT,Terminated,NULL,M,Black / African American,1988-02-07,PGB - Public Governance Bureau,NULL,8268,Commissioned,694
 3390,Anna,J,Torp,POLICE SERGEANT,Active,NULL,M,White,1991-09-29,ISB - Investigations and Support Bureau,NULL,10244,Commissioned,3490
 3389,Fleta,F,Lesch,POLICE LIEUTENANT,Active,NULL,M,White,1997-05-04,MSB - Management Service Bureau,NULL,6163,Commissioned,674
 3388,Elody,P,Daugherty,POLICE SERGEANT,Retired,2004-01-11,F,Black / African American,1975-12-01,FOB - Field Operations Bureau,NULL,7446,Commissioned,NULL
@@ -2423,14 +2423,14 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 3382,Reuben,U,Walter,POLICE SERGEANT,Retired,2002-09-08,M,White,1974-09-19,MSB - Management Service Bureau,NULL,9106,Commissioned,NULL
 3381,Audra,V,Rosenbaum,POLICE SERGEANT,Retired,2000-03-25,M,White,1968-12-02,MSB - Management Service Bureau,NULL,10154,Commissioned,NULL
 3380,Daren,L,O'Kon,POLICE SERGEANT,Terminated,NULL,M,Black / African American,1985-02-24,ISB - Investigations and Support Bureau,NULL,6481,Commissioned,719
-3379,Whitney,J,Glover,POLICE SERGEANT,Retired,2005-10-02,F,Black / African American,1978-09-17,PIB - Public Integrity Bureau,NULL,7912,Commissioned,NULL
+3379,Whitney,J,Glover,POLICE SERGEANT,Retired,2005-10-02,F,Black / African American,1978-09-17,PGB - Public Governance Bureau,NULL,7912,Commissioned,NULL
 3378,Josue,R,Johns,POLICE SERGEANT,Retired,2013-08-11,M,Black / African American,1977-11-25,FOB - Field Operations Bureau,NULL,8595,Commissioned,NULL
 3377,Marge,R,Leffler,POLICE SERGEANT,Active,NULL,M,White,1998-04-12,FOB - Field Operations Bureau,Fourth District,8033,Commissioned,3623
 3376,Arthur,C,Baumbach,POLICE SERGEANT,Retired,2011-09-11,M,Black / African American,1990-10-21,FOB - Field Operations Bureau,NULL,8671,Commissioned,NULL
 3375,Pearlie,X,Kihn,POLICE SERGEANT,Retired,1997-03-01,M,White,1969-01-13,NULL,NULL,7790,Commissioned,NULL
 3374,Ansel,T,Mertz,Reserve Officers,Terminated,NULL,M,White,1997-11-09,FOB - Field Operations Bureau,NULL,10210,Commissioned,316
 3373,Sophie,H,Lakin,POLICE SERGEANT,Retired,2002-06-02,M,Black / African American,1974-01-28,FOB - Field Operations Bureau,NULL,8326,Commissioned,NULL
-3372,Bridie,R,Rippin,POLICE LIEUTENANT,Terminated,NULL,M,White,1998-09-13,PIB - Public Integrity Bureau,NULL,6021,Commissioned,358
+3372,Bridie,R,Rippin,POLICE LIEUTENANT,Terminated,NULL,M,White,1998-09-13,PGB - Public Governance Bureau,NULL,6021,Commissioned,358
 3371,Esteban,V,Effertz,POLICE SERGEANT,Terminated,NULL,M,Native American,1991-03-17,FOB - Field Operations Bureau,Eighth District,9855,Commissioned,706
 3370,Saige,S,Predovic,POLICE SERGEANT,Active,NULL,M,White,1997-06-22,MSB - Management Service Bureau,NULL,10305,Commissioned,6373
 3369,Gonzalo,I,Steuber,POLICE LIEUTENANT,Active,2014-02-23,M,White,1997-10-05,FOB - Field Operations Bureau,NULL,6852,Commissioned,656
@@ -2448,7 +2448,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 3357,Ruby,S,Raynor,POLICE SERGEANT,Active,NULL,M,White,1985-06-09,FOB - Field Operations Bureau,NULL,8126,Commissioned,3530
 3356,Erika,J,Quigley,POLICE SERGEANT,Terminated,2009-05-18,M,White,1975-04-16,NULL,NULL,9716,Commissioned,NULL
 3355,Quincy,W,Macejkovic,POLICE LIEUTENANT,Active,NULL,M,Black / African American,1999-12-26,MSB - Management Service Bureau,NULL,11645,Commissioned,665
-3354,Derek,I,Considine,POLICE SERGEANT,Retired,2013-03-10,M,Black / African American,1985-02-24,PIB - Public Integrity Bureau,NULL,6992,Commissioned,NULL
+3354,Derek,I,Considine,POLICE SERGEANT,Retired,2013-03-10,M,Black / African American,1985-02-24,PGB - Public Governance Bureau,NULL,6992,Commissioned,NULL
 3353,Enrique,V,Bins,POLICE SERGEANT,Deceased,2006-03-19,M,White,1981-04-05,FOB - Field Operations Bureau,NULL,6879,Commissioned,NULL
 3352,Mitchel,Z,Schamberger,POLICE SERGEANT,Active,NULL,M,White,1985-02-10,FOB - Field Operations Bureau,Fourth District,9800,Commissioned,3623
 3351,Orrin,X,Gerlach,POLICE LIEUTENANT,Active,NULL,M,Black / African American,1980-02-03,FOB - Field Operations Bureau,Eighth District,6392,Commissioned,650
@@ -2467,8 +2467,8 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 3338,Stan,N,Borer,POLICE SERGEANT,Retired,2006-12-10,M,White,1971-11-15,FOB - Field Operations Bureau,First District,7164,Commissioned,NULL
 3337,Catalina,I,Cormier,POLICE SERGEANT,Retired,2011-06-05,M,White,1990-03-18,MSB - Management Service Bureau,NULL,6020,Commissioned,NULL
 3336,Keeley,P,Sanford,POLICE LIEUTENANT,Terminated,NULL,M,Black / African American,1983-06-06,ISB - Investigations and Support Bureau,NULL,6534,Commissioned,3410
-3335,Aron,B,Baumbach,POLICE SERGEANT,Active,NULL,M,Black / African American,1988-11-13,PIB - Public Integrity Bureau,NULL,8188,Commissioned,3622
-3334,Tiana,N,Nienow,POLICE SERGEANT,Terminated,2015-05-01,F,Black / African American,1988-11-27,PIB - Public Integrity Bureau,NULL,6842,Commissioned,3513
+3335,Aron,B,Baumbach,POLICE SERGEANT,Active,NULL,M,Black / African American,1988-11-13,PGB - Public Governance Bureau,NULL,8188,Commissioned,3622
+3334,Tiana,N,Nienow,POLICE SERGEANT,Terminated,2015-05-01,F,Black / African American,1988-11-27,PGB - Public Governance Bureau,NULL,6842,Commissioned,3513
 3333,Bernice,S,Dickinson,POLICE LIEUTENANT,Active,NULL,M,White,1990-07-01,MSB - Management Service Bureau,NULL,6014,Commissioned,674
 3332,Pink,S,Cassin,POLICE SERGEANT,Active,NULL,M,Black / African American,1997-08-03,ISB - Investigations and Support Bureau,NULL,10074,Commissioned,3665
 3331,Gunner,S,Harris,POLICE SERGEANT,Active,NULL,M,White,1991-12-29,MSB - Management Service Bureau,NULL,9309,Commissioned,3669
@@ -2481,7 +2481,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 3324,Geoffrey,G,Boyle,POLICE SERGEANT,Active,NULL,M,Black / African American,1997-10-05,ISB - Investigations and Support Bureau,NULL,6536,Commissioned,766
 3323,Kaela,A,Gorczany,POLICE SERGEANT,Active,NULL,F,Black / African American,1989-05-28,Office of the Superintendant,NULL,7625,Commissioned,770
 3322,Camden,L,Kessler,POLICE SERGEANT,Active,NULL,M,White,1978-07-03,ISB - Investigations and Support Bureau,NULL,7335,Commissioned,766
-3321,Melba,K,Becker,POLICE SERGEANT,Retired,2005-04-03,M,White,1977-05-11,PIB - Public Integrity Bureau,NULL,8525,Commissioned,NULL
+3321,Melba,K,Becker,POLICE SERGEANT,Retired,2005-04-03,M,White,1977-05-11,PGB - Public Governance Bureau,NULL,8525,Commissioned,NULL
 3320,Norris,N,Emmerich,POLICE SERGEANT,Retired,2003-06-29,M,White,1973-09-14,MSB - Management Service Bureau,NULL,7314,Commissioned,NULL
 3319,Hannah,O,Hermann,Reserve Officers,Active,2004-12-26,M,Black / African American,1980-11-30,FOB - Field Operations Bureau,NULL,7487,Commissioned,2850
 3318,Vivianne,D,Kunze,POLICE SERGEANT,Retired,2006-07-09,F,White,1982-08-29,ISB - Investigations and Support Bureau,NULL,8254,Commissioned,NULL
@@ -2872,7 +2872,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 2932,Sven,D,Bruen,POLICE OFFICER 4,Terminated,2006-10-15,M,Black / African American,1997-06-29,MSB - Management Service Bureau,NULL,8139,Commissioned,NULL
 2931,Adolfo,K,Schiller,POLICE OFFICER 4,Retired,2013-08-25,M,White,1984-08-26,FOB - Field Operations Bureau,NULL,6763,Commissioned,3628
 2930,Lottie,G,Gutmann,POLICE OFFICER 4,Retired,2002-10-20,M,White,1977-04-05,MSB - Management Service Bureau,NULL,6790,Commissioned,NULL
-2929,Tate,K,Schulist,POLICE SERGEANT,Active,NULL,M,Black / African American,1994-11-27,PIB - Public Integrity Bureau,NULL,7982,Commissioned,27
+2929,Tate,K,Schulist,POLICE SERGEANT,Active,NULL,M,Black / African American,1994-11-27,PGB - Public Governance Bureau,NULL,7982,Commissioned,27
 2928,Rudy,E,Pacocha,POLICE OFFICER 4,Retired,2002-12-15,M,Black / African American,1980-09-14,ISB - Investigations and Support Bureau,NULL,9014,Commissioned,NULL
 2927,Randall,G,Prohaska,POLICE OFFICER 4,Terminated,2005-01-23,M,White,1984-06-03,MSB - Management Service Bureau,NULL,7289,Commissioned,NULL
 2926,Aliya,U,Beatty,POLICE OFFICER 4,Terminated,NULL,M,Black / African American,1994-08-21,MSB - Management Service Bureau,NULL,6362,Commissioned,3627
@@ -2906,7 +2906,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 2898,Lupe,A,Morar,POLICE SERGEANT,Active,NULL,M,Black / African American,1989-02-20,FOB - Field Operations Bureau,Third District,9316,Commissioned,654
 2897,Louie,S,Strosin,POLICE OFFICER 4,Terminated,2011-08-14,M,Black / African American,1995-10-08,ISB - Investigations and Support Bureau,NULL,9914,Commissioned,NULL
 2896,Merle,T,Treutel,POLICE OFFICER 4,Active,NULL,M,White,2010-07-18,ISB - Investigations and Support Bureau,NULL,20811,Commissioned,3732
-2895,Lottie,J,Schulist,POLICE SERGEANT,Active,NULL,F,Black / African American,1999-09-12,PIB - Public Integrity Bureau,NULL,11433,Commissioned,673
+2895,Lottie,J,Schulist,POLICE SERGEANT,Active,NULL,F,Black / African American,1999-09-12,PGB - Public Governance Bureau,NULL,11433,Commissioned,673
 2894,Erika,Q,Monahan,POLICE OFFICER 4,Terminated,2015-04-17,M,Black / African American,1989-04-09,FOB - Field Operations Bureau,Fourth District,7648,Commissioned,3339
 2893,Jolie,E,Koss,POLICE OFFICER 4,Terminated,NULL,F,White,1997-08-03,MSB - Management Service Bureau,NULL,8709,Commissioned,3481
 2892,Alexandria,C,Koch,POLICE OFFICER 4,Active,NULL,F,Black / African American,1997-06-01,FOB - Field Operations Bureau,Fourth District,10383,Commissioned,3627
@@ -2992,7 +2992,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 2812,Janessa,Q,Howe,POLICE OFFICER 4,Active,NULL,F,White,2001-12-16,ISB - Investigations and Support Bureau,NULL,14124,Commissioned,3390
 2811,Orpha,V,Hessel,POLICE OFFICER 4,Terminated,1998-08-19,M,White,1984-07-29,NULL,NULL,6053,Commissioned,NULL
 2810,Adeline,M,Reichert,POLICE OFFICER 4,Retired,2006-12-24,M,White,1977-06-13,MSB - Management Service Bureau,NULL,7492,Commissioned,NULL
-2809,Dock,I,Tillman,POLICE OFFICER 4,Retired,2003-06-01,M,White,1975-04-07,PIB - Public Integrity Bureau,NULL,8464,Commissioned,NULL
+2809,Dock,I,Tillman,POLICE OFFICER 4,Retired,2003-06-01,M,White,1975-04-07,PGB - Public Governance Bureau,NULL,8464,Commissioned,NULL
 2808,Sammy,B,Hyatt,POLICE OFFICER 4,Retired,2001-09-09,M,White,1985-02-10,MSB - Management Service Bureau,NULL,6981,Commissioned,NULL
 2807,Eve,L,Rutherford,POLICE OFFICER 4,Retired,2006-12-24,M,White,1977-07-27,MSB - Management Service Bureau,NULL,7408,Commissioned,NULL
 2806,Haylee,J,Krajcik,POLICE SERGEANT,Active,NULL,M,White,2002-05-19,FOB - Field Operations Bureau,Third District,14527,Commissioned,3677
@@ -3036,7 +3036,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 2768,Abelardo,I,Champlin,POLICE OFFICER 4,Deceased,2014-02-23,M,Black / African American,1996-09-08,MSB - Management Service Bureau,NULL,7631,Commissioned,3481
 2767,Jaiden,X,Stamm,POLICE OFFICER 4,Retired,2013-10-06,M,White,1997-09-07,MSB - Management Service Bureau,NULL,10345,Commissioned,3481
 2766,Tyree,F,Boyle,POLICE OFFICER 4,Retired,2009-02-01,M,White,1984-01-29,MSB - Management Service Bureau,NULL,9255,Commissioned,NULL
-2765,Liana,M,Kozey,POLICE OFFICER 4,Retired,2000-07-16,M,White,1966-10-24,PIB - Public Integrity Bureau,NULL,9496,Commissioned,NULL
+2765,Liana,M,Kozey,POLICE OFFICER 4,Retired,2000-07-16,M,White,1966-10-24,PGB - Public Governance Bureau,NULL,9496,Commissioned,NULL
 2764,Melba,B,Runolfsdottir,POLICE SERGEANT,Active,NULL,M,Black / African American,1997-06-16,FOB - Field Operations Bureau,NULL,3914,Commissioned,3485
 2763,Tad,O,Heidenreich,POLICE OFFICER 4,Active,NULL,M,White,2005-05-08,FOB - Field Operations Bureau,Second District,17615,Commissioned,916
 2762,Meaghan,V,Lebsack,POLICE OFFICER 4,Retired,2006-12-24,M,Black / African American,1984-01-03,MSB - Management Service Bureau,NULL,6941,Commissioned,NULL
@@ -3071,7 +3071,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 2733,May,V,Littel,POLICE OFFICER 4,Terminated,2005-12-15,F,White,1991-11-17,FOB - Field Operations Bureau,NULL,9304,Commissioned,NULL
 2732,Trevor,V,Ryan,POLICE SERGEANT,Active,NULL,M,White,1997-12-14,FOB - Field Operations Bureau,Eighth District,10339,Commissioned,3412
 2731,Keeley,J,Wyman,POLICE OFFICER 4,Retired,2003-09-21,M,Black / African American,1974-10-21,FOB - Field Operations Bureau,Second District,8407,Commissioned,NULL
-2730,Karine,D,Weber,POLICE OFFICER 4,Retired,2000-07-15,M,White,1972-04-17,PIB - Public Integrity Bureau,NULL,7336,Commissioned,NULL
+2730,Karine,D,Weber,POLICE OFFICER 4,Retired,2000-07-15,M,White,1972-04-17,PGB - Public Governance Bureau,NULL,7336,Commissioned,NULL
 2729,Candido,J,Kohler,POLICE OFFICER 4,Retired,2013-01-13,M,Black / African American,1977-10-10,MSB - Management Service Bureau,NULL,6347,Commissioned,NULL
 2728,Wilfred,N,Braun,POLICE OFFICER 4,Retired,2002-02-10,M,White,1975-06-02,MSB - Management Service Bureau,NULL,7242,Commissioned,NULL
 2727,Madelyn,J,Lind,POLICE OFFICER 4,Terminated,2001-05-20,M,Black / African American,1981-08-30,MSB - Management Service Bureau,NULL,6110,Commissioned,NULL
@@ -3122,7 +3122,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 2682,Jesse,B,Parisian,POLICE OFFICER 4,Active,NULL,F,Black / African American,1993-03-07,FOB - Field Operations Bureau,Seventh District,8260,Commissioned,3575
 2681,Andy,L,Herman,POLICE OFFICER 4,Retired,2005-05-15,M,White,1979-07-15,MSB - Management Service Bureau,NULL,6828,Commissioned,NULL
 2680,Vincenzo,A,Yundt,POLICE OFFICER 4,Active,NULL,M,White,1990-11-04,FOB - Field Operations Bureau,NULL,7676,Commissioned,1985
-2679,Sigrid,F,Hermann,POLICE OFFICER 4,Active,NULL,M,White,1998-12-20,PIB - Public Integrity Bureau,NULL,10318,Commissioned,2570
+2679,Sigrid,F,Hermann,POLICE OFFICER 4,Active,NULL,M,White,1998-12-20,PGB - Public Governance Bureau,NULL,10318,Commissioned,2570
 2678,Rick,G,Johnson,POLICE OFFICER 4,Terminated,1999-03-28,M,White,1981-08-09,Compliance Bureau,NULL,6734,Commissioned,NULL
 2677,Keaton,F,Goyette,POLICE OFFICER 4,Retired,1999-03-28,M,White,1975-07-30,FOB - Field Operations Bureau,Second District,6094,Commissioned,NULL
 2676,Curt,C,Lockman,POLICE OFFICER 4,Terminated,2015-05-02,M,Black / African American,1984-01-15,MSB - Management Service Bureau,NULL,7419,Commissioned,3394
@@ -3230,7 +3230,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 2573,Ali,F,Wiegand,POLICE OFFICER 4,Terminated,2002-05-05,M,Black / African American,1990-11-04,FOB - Field Operations Bureau,NULL,9398,Commissioned,NULL
 2572,Kamille,F,Roob,POLICE OFFICER 4,Retired,2010-01-17,M,Black / African American,1989-12-10,MSB - Management Service Bureau,NULL,9865,Commissioned,NULL
 2571,Celestine,U,Kunze,POLICE OFFICER 4,Retired,2007-03-04,M,Black / African American,1980-11-30,MSB - Management Service Bureau,NULL,6289,Commissioned,NULL
-2570,Emmet,A,Gleichner,POLICE LIEUTENANT,Active,NULL,M,Black / African American,2000-12-03,PIB - Public Integrity Bureau,NULL,12928,Commissioned,694
+2570,Emmet,A,Gleichner,POLICE LIEUTENANT,Active,NULL,M,Black / African American,2000-12-03,PGB - Public Governance Bureau,NULL,12928,Commissioned,694
 2569,Margarete,F,Blick,POLICE OFFICER 4,Active,NULL,M,Black / African American,2000-12-24,ISB - Investigations and Support Bureau,NULL,12956,Commissioned,3322
 2568,Jamie,I,Borer,POLICE SERGEANT,Active,NULL,M,Black / African American,2000-02-13,FOB - Field Operations Bureau,Sixth District,11691,Commissioned,3517
 2567,Jean,E,Huel,POLICE OFFICER 4,Active,NULL,M,Black / African American,1987-12-13,ISB - Investigations and Support Bureau,NULL,9219,Commissioned,309
@@ -3278,7 +3278,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 2525,Arnoldo,R,Botsford,POLICE OFFICER 4,Retired,2003-05-04,M,White,1977-07-11,FOB - Field Operations Bureau,NULL,10150,Commissioned,NULL
 2524,Jarred,O,Lemke,POLICE OFFICER 4,Retired,2013-12-15,M,Hispanic,1998-07-19,MSB - Management Service Bureau,NULL,10101,Commissioned,3481
 2523,Jovani,I,Sanford,POLICE OFFICER 4,Retired,2008-08-03,M,White,1987-08-09,MSB - Management Service Bureau,NULL,9741,Commissioned,NULL
-2522,Lavina,M,Jakubowski,POLICE OFFICER 4,Active,NULL,M,White,1997-12-07,PIB - Public Integrity Bureau,NULL,6107,Commissioned,2929
+2522,Lavina,M,Jakubowski,POLICE OFFICER 4,Active,NULL,M,White,1997-12-07,PGB - Public Governance Bureau,NULL,6107,Commissioned,2929
 2521,Frank,N,Von,POLICE OFFICER 4,Retired,2005-10-16,M,Black / African American,1974-07-22,Office of the Superintendant,NULL,9060,Commissioned,NULL
 2520,Violette,G,Nitzsche,POLICE OFFICER 4,Active,NULL,M,Black / African American,1997-08-03,ISB - Investigations and Support Bureau,NULL,10433,Commissioned,1873
 2519,Freida,E,Nienow,POLICE OFFICER 4,Retired,1997-06-27,M,White,1967-02-01,NULL,NULL,7138,Commissioned,NULL
@@ -3331,7 +3331,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 2472,Hubert,J,Stehr,POLICE OFFICER 4,Terminated,2006-01-22,M,Black / African American,1989-01-08,Compliance Bureau,NULL,7542,Commissioned,NULL
 2471,Kendra,X,Davis,POLICE OFFICER 4,Active,NULL,M,White,2001-11-11,FOB - Field Operations Bureau,Fifth District,14043,Commissioned,3713
 2470,Jaeden,J,Reichel,POLICE OFFICER 4,Active,NULL,M,White,2002-08-11,FOB - Field Operations Bureau,NULL,14951,Commissioned,3347
-2469,Demarcus,R,Johns,POLICE SERGEANT,Active,NULL,M,Black / African American,1997-09-28,PIB - Public Integrity Bureau,NULL,9353,Commissioned,673
+2469,Demarcus,R,Johns,POLICE SERGEANT,Active,NULL,M,Black / African American,1997-09-28,PGB - Public Governance Bureau,NULL,9353,Commissioned,673
 2468,Eleanora,A,Weissnat,POLICE OFFICER 4,Terminated,2012-04-08,M,White,1999-12-12,FOB - Field Operations Bureau,NULL,11615,Commissioned,NULL
 2467,Jacinto,L,Borer,POLICE OFFICER 4,Terminated,NULL,M,White,1995-12-03,ISB - Investigations and Support Bureau,NULL,9978,Commissioned,3394
 2466,Casey,K,Mraz,POLICE OFFICER 4,Active,NULL,M,White,1996-05-12,FOB - Field Operations Bureau,Third District,10293,Commissioned,1125
@@ -3360,7 +3360,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 2443,Marjory,J,Treutel,POLICE OFFICER 4,Retired,2010-07-04,M,Black / African American,1991-11-24,MSB - Management Service Bureau,NULL,9301,Commissioned,NULL
 2442,Micah,Q,Parisian,POLICE OFFICER 4,Terminated,2007-02-18,F,Black / African American,1997-06-01,MSB - Management Service Bureau,NULL,9511,Commissioned,NULL
 2441,Glenda,E,Mayert,POLICE OFFICER 4,Active,NULL,M,Black / African American,1998-07-19,MSB - Management Service Bureau,NULL,8660,Commissioned,5899
-2440,Aimee,E,Stracke,POLICE OFFICER 4,Active,NULL,F,White,1998-07-05,PIB - Public Integrity Bureau,NULL,9899,Commissioned,3477
+2440,Aimee,E,Stracke,POLICE OFFICER 4,Active,NULL,F,White,1998-07-05,PGB - Public Governance Bureau,NULL,9899,Commissioned,3477
 2439,Milford,M,Zulauf,POLICE OFFICER 4,Retired,2008-05-25,M,Black / African American,1977-11-20,FOB - Field Operations Bureau,Third District,7449,Commissioned,NULL
 2438,Braxton,Q,Rohan,POLICE OFFICER 4,Deceased,2002-06-30,M,White,1977-05-23,MSB - Management Service Bureau,NULL,7255,Commissioned,NULL
 2437,Zoey,Q,Labadie,POLICE OFFICER 4,Terminated,2011-08-14,M,Black / African American,1997-05-04,FOB - Field Operations Bureau,NULL,7971,Commissioned,NULL
@@ -3368,9 +3368,9 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 2435,Vivianne,J,Kuhn,POLICE OFFICER 4,Retired,2001-07-01,M,White,1974-12-16,MSB - Management Service Bureau,NULL,8303,Commissioned,NULL
 2434,Eldridge,E,Mohr,POLICE OFFICER 4,Terminated,2013-04-07,M,Black / African American,1983-10-09,FOB - Field Operations Bureau,Eighth District,8253,Commissioned,NULL
 2433,Emiliano,Y,Swift,POLICE OFFICER 4,Retired,2011-12-18,M,White,1988-11-27,FOB - Field Operations Bureau,NULL,7941,Commissioned,NULL
-2432,Mollie,N,Bernhard,POLICE SERGEANT,Terminated,NULL,M,Black / African American,1990-03-25,PIB - Public Integrity Bureau,NULL,9860,Commissioned,656
+2432,Mollie,N,Bernhard,POLICE SERGEANT,Terminated,NULL,M,Black / African American,1990-03-25,PGB - Public Governance Bureau,NULL,9860,Commissioned,656
 2431,Tess,P,Lubowitz,POLICE OFFICER 4,Active,NULL,M,Black / African American,1988-05-08,FOB - Field Operations Bureau,Eighth District,8522,Commissioned,2732
-2430,Leonardo,J,Boyer,POLICE OFFICER 4,Terminated,2013-12-15,M,White,1992-06-03,PIB - Public Integrity Bureau,NULL,6606,Commissioned,3372
+2430,Leonardo,J,Boyer,POLICE OFFICER 4,Terminated,2013-12-15,M,White,1992-06-03,PGB - Public Governance Bureau,NULL,6606,Commissioned,3372
 2429,Jessy,Y,Flatley,POLICE OFFICER 4,Retired,2003-06-01,M,White,1967-10-16,Office of the Superintendant,NULL,8263,Commissioned,NULL
 2428,Austyn,Q,Gleichner,POLICE TECH SPECIALIST III,Active,NULL,M,Black / African American,1980-07-20,FOB - Field Operations Bureau,NULL,8662,Commissioned,3574
 2427,Sydni,G,Rosenbaum,POLICE OFFICER 4,Retired,2004-07-11,M,White,1978-04-17,FOB - Field Operations Bureau,NULL,8505,Commissioned,NULL
@@ -3456,7 +3456,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 2347,Freida,E,Howell,POLICE OFFICER 4,Retired,2009-09-27,M,Black / African American,1983-06-05,MSB - Management Service Bureau,NULL,7490,Commissioned,NULL
 2346,Marcia,J,Auer,POLICE OFFICER 4,Active,NULL,M,Black / African American,1994-06-26,FOB - Field Operations Bureau,Eighth District,6497,Commissioned,1971
 2345,Yasmeen,B,Raynor,POLICE OFFICER 4,Terminated,2015-05-25,M,Black / African American,1995-12-17,MSB - Management Service Bureau,NULL,6425,Commissioned,3393
-2344,Cierra,Y,Tromp,POLICE OFFICER 4,Terminated,NULL,M,Asian / Pacific Islander,1993-02-28,PIB - Public Integrity Bureau,NULL,7979,Commissioned,660
+2344,Cierra,Y,Tromp,POLICE OFFICER 4,Terminated,NULL,M,Asian / Pacific Islander,1993-02-28,PGB - Public Governance Bureau,NULL,7979,Commissioned,660
 2343,Josianne,Z,Cremin,POLICE OFFICER 4,Retired,1998-12-26,M,White,1966-07-08,NULL,NULL,6642,Commissioned,NULL
 2342,Ellsworth,H,Quitzon,POLICE OFFICER 4,Terminated,2008-03-16,M,Hispanic,1995-12-03,ISB - Investigations and Support Bureau,NULL,10386,Commissioned,NULL
 2341,Clarissa,T,Howell,POLICE OFFICER 4,Active,NULL,M,Black / African American,1990-03-04,ISB - Investigations and Support Bureau,NULL,6957,Commissioned,3707
@@ -3621,7 +3621,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 2181,Roslyn,X,Hand,POLICE OFFICER 4,Retired,2009-08-16,M,Black / African American,1988-02-21,ISB - Investigations and Support Bureau,NULL,8408,Commissioned,NULL
 2180,Aiyana,V,Weber,POLICE OFFICER 4,Active,NULL,M,Hispanic,1996-09-15,FOB - Field Operations Bureau,Second District,8820,Commissioned,796
 2179,Alan,P,Breitenberg,POLICE OFFICER 4,Terminated,1999-03-28,M,Black / African American,1978-03-14,ISB - Investigations and Support Bureau,NULL,9183,Commissioned,NULL
-2178,Jasper,S,Fay,POLICE OFFICER 4,Active,NULL,M,Black / African American,1987-03-22,PIB - Public Integrity Bureau,NULL,9323,Commissioned,2929
+2178,Jasper,S,Fay,POLICE OFFICER 4,Active,NULL,M,Black / African American,1987-03-22,PGB - Public Governance Bureau,NULL,9323,Commissioned,2929
 2177,Hertha,F,Feil,POLICE OFFICER 4,Terminated,2011-02-13,M,Black / African American,1991-06-23,FOB - Field Operations Bureau,Third District,10033,Commissioned,NULL
 2176,Laurel,F,Von,POLICE OFFICER 4,Retired,1997-12-06,M,Black / African American,1974-08-05,NULL,NULL,8298,Commissioned,NULL
 2175,Anne,O,Keebler,POLICE OFFICER 4,Active,NULL,M,Black / African American,2002-01-20,FOB - Field Operations Bureau,First District,14154,Commissioned,2098
@@ -3716,7 +3716,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 2086,Kiley,R,Koss,POLICE OFFICER 4,Active,NULL,F,Black / African American,2000-07-25,FOB - Field Operations Bureau,Eighth District,12708,Commissioned,2817
 2085,Elinore,L,Hagenes,POLICE OFFICER 3,Active,NULL,F,Black / African American,2003-08-03,MSB - Management Service Bureau,NULL,16012,Commissioned,674
 2083,Nick,J,Funk,POLICE OFFICER 3,Terminated,1999-09-19,M,Black / African American,1991-07-28,MSB - Management Service Bureau,NULL,8121,Commissioned,NULL
-2082,Jaleel,J,Gutmann,POLICE SERGEANT,Active,NULL,M,White,2002-08-11,PIB - Public Integrity Bureau,NULL,14949,Commissioned,2570
+2082,Jaleel,J,Gutmann,POLICE SERGEANT,Active,NULL,M,White,2002-08-11,PGB - Public Governance Bureau,NULL,14949,Commissioned,2570
 2081,Kendall,T,Morissette,POLICE OFFICER 3,Active,NULL,F,Black / African American,1997-11-19,FOB - Field Operations Bureau,Fourth District,5166,Commissioned,3352
 2080,Nikolas,N,Cronin,POLICE OFFICER 4,Active,NULL,F,Black / African American,2003-09-14,FOB - Field Operations Bureau,Third District,16113,Commissioned,3558
 2079,Kayley,G,O'Hara,POLICE OFFICER 4,Active,NULL,F,Black / African American,2004-12-26,FOB - Field Operations Bureau,Second District,17405,Commissioned,3681
@@ -3740,7 +3740,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 2061,Crystel,D,Walter,POLICE OFFICER 3,Active,NULL,M,Black / African American,1997-05-19,FOB - Field Operations Bureau,NULL,7975,Commissioned,2089
 2060,Ari,L,Klocko,POLICE OFFICER 3,Terminated,2006-02-19,M,White,1998-12-20,Compliance Bureau,NULL,10380,Commissioned,NULL
 2059,Zora,W,Connelly,POLICE OFFICER 4,Active,NULL,M,White,2004-12-26,FOB - Field Operations Bureau,Second District,17394,Commissioned,3722
-2058,Theron,I,O'Hara,POLICE SERGEANT,Active,NULL,M,Black / African American,2004-03-07,PIB - Public Integrity Bureau,NULL,16415,Commissioned,2570
+2058,Theron,I,O'Hara,POLICE SERGEANT,Active,NULL,M,Black / African American,2004-03-07,PGB - Public Governance Bureau,NULL,16415,Commissioned,2570
 2057,Linda,H,Olson,POLICE OFFICER 3,Terminated,2011-02-13,M,Black / African American,2000-12-31,FOB - Field Operations Bureau,Second District,12990,Commissioned,NULL
 2056,Brenden,O,Goyette,POLICE OFFICER 3,Retired,1997-02-19,M,White,1969-01-13,NULL,NULL,8294,Commissioned,NULL
 2055,Susana,A,Wiza,POLICE OFFICER 3,Terminated,1997-05-15,M,Black / African American,1984-06-04,NULL,NULL,10296,Commissioned,NULL
@@ -3830,7 +3830,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 1971,Loma,Y,Conroy,POLICE SERGEANT,Active,NULL,M,White,2003-11-02,FOB - Field Operations Bureau,Eighth District,16221,Commissioned,649
 1970,Savanah,G,Schaefer,POLICE OFFICER 3,Active,NULL,M,Black / African American,2001-06-03,FOB - Field Operations Bureau,Eighth District,13378,Commissioned,2686
 1969,Nelle,W,Kreiger,POLICE OFFICER 3,Retired,1997-05-11,M,Hispanic,1976-05-24,NULL,NULL,8593,Commissioned,NULL
-1968,Keira,F,Hodkiewicz,POLICE SERGEANT,Active,NULL,M,White,2003-02-09,PIB - Public Integrity Bureau,NULL,15292,Commissioned,2570
+1968,Keira,F,Hodkiewicz,POLICE SERGEANT,Active,NULL,M,White,2003-02-09,PGB - Public Governance Bureau,NULL,15292,Commissioned,2570
 1967,Sydnee,W,Jenkins,POLICE OFFICER 4,Active,NULL,M,Asian / Pacific Islander,2005-06-26,ISB - Investigations and Support Bureau,NULL,17950,Commissioned,3322
 1966,Carleton,V,Stokes,POLICE SERGEANT,Active,NULL,F,White,2004-02-29,FOB - Field Operations Bureau,Sixth District,16412,Commissioned,3538
 1965,Karine,H,MacGyver,POLICE OFFICER 4,Active,NULL,F,White,2002-09-08,FOB - Field Operations Bureau,Sixth District,15023,Commissioned,3538
@@ -3908,7 +3908,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 1893,Danny,V,Stehr,POLICE OFFICER 3,Active,NULL,F,Black / African American,1997-08-31,FOB - Field Operations Bureau,NULL,9271,Commissioned,3524
 1892,Wayne,C,Swift,POLICE OFFICER 3,Deceased,2002-12-01,M,White,1983-11-11,MSB - Management Service Bureau,NULL,6784,Commissioned,NULL
 1891,Adaline,C,Casper,POLICE OFFICER 3,Retired,2003-02-09,M,White,1979-05-27,FOB - Field Operations Bureau,First District,9103,Commissioned,NULL
-1890,Rhett,A,Feest,POLICE SERGEANT,Active,NULL,F,Black / African American,2004-07-11,PIB - Public Integrity Bureau,NULL,17076,Commissioned,3395
+1890,Rhett,A,Feest,POLICE SERGEANT,Active,NULL,F,Black / African American,2004-07-11,PGB - Public Governance Bureau,NULL,17076,Commissioned,3395
 1889,Noelia,Z,Rau,POLICE OFFICER 3,Active,NULL,M,White,2003-12-14,FOB - Field Operations Bureau,Fifth District,16288,Commissioned,1946
 1888,Cristobal,A,Fritsch,POLICE OFFICER 3,Retired,2010-10-24,M,White,1976-12-14,MSB - Management Service Bureau,NULL,7339,Commissioned,NULL
 1887,Kasey,O,Bradtke,POLICE OFFICER 3,Terminated,2004-05-16,M,Black / African American,1991-06-02,MSB - Management Service Bureau,NULL,7034,Commissioned,NULL
@@ -4563,7 +4563,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 1236,Enos,P,Roberts,POLICE OFFICER 1,Terminated,2011-09-11,M,White,2007-07-22,FOB - Field Operations Bureau,Second District,18741,Commissioned,NULL
 1235,Mattie,C,Reilly,POLICE OFFICER 2,Active,NULL,M,Black / African American,2008-02-24,MSB - Management Service Bureau,NULL,19071,Commissioned,674
 1234,Mario,G,Schaden,POLICE OFFICER 4,Active,NULL,F,Black / African American,2007-06-17,FOB - Field Operations Bureau,First District,18665,Commissioned,1479
-1233,Kyler,Z,Schamberger,POLICE SERGEANT,Active,NULL,F,White,2002-08-26,PIB - Public Integrity Bureau,NULL,15035,Commissioned,3391
+1233,Kyler,Z,Schamberger,POLICE SERGEANT,Active,NULL,F,White,2002-08-26,PGB - Public Governance Bureau,NULL,15035,Commissioned,3391
 1232,Green,V,Raynor,POLICE OFFICER 1,Terminated,2001-02-11,M,Black / African American,1997-08-03,FOB - Field Operations Bureau,NULL,7566,Commissioned,NULL
 1231,Jacquelyn,N,Hammes,POLICE OFFICER 1,Retired,2003-11-02,M,Black / African American,1998-04-12,MSB - Management Service Bureau,NULL,10382,Commissioned,NULL
 1230,Emerson,P,Hirthe,POLICE OFFICER 1,Terminated,2012-12-02,M,Hispanic,2008-08-17,FOB - Field Operations Bureau,Second District,19459,Commissioned,NULL
@@ -4816,7 +4816,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 982,Alice,L,Beer,POLICE OFFICER 1,Terminated,1999-02-28,M,White,1998-04-12,NULL,NULL,8193,Commissioned,NULL
 981,Sophia,X,Stracke,POLICE OFFICER 1,Terminated,1999-03-31,M,White,1997-09-07,FOB - Field Operations Bureau,NULL,6198,Commissioned,NULL
 980,Roslyn,E,Johnson,POLICE OFFICER 1,Terminated,2007-10-14,M,White,1998-02-08,NULL,NULL,10321,Commissioned,NULL
-979,Lue,T,Gerhold,POLICE SERGEANT,Active,NULL,M,White,2006-10-29,PIB - Public Integrity Bureau,NULL,18354,Commissioned,2570
+979,Lue,T,Gerhold,POLICE SERGEANT,Active,NULL,M,White,2006-10-29,PGB - Public Governance Bureau,NULL,18354,Commissioned,2570
 978,Moshe,P,Swaniawski,POLICE OFFICER 1,Terminated,2005-09-18,M,Black / African American,2003-03-09,FOB - Field Operations Bureau,Second District,15330,Non-Commissioned,NULL
 977,Amie,A,Bahringer,POLICE OFFICER 1,Terminated,2001-05-20,M,White,1998-04-12,FOB - Field Operations Bureau,Third District,8336,Commissioned,NULL
 976,Jules,Q,Gusikowski,POLICE OFFICER 3,Active,NULL,M,White,2010-02-28,FOB - Field Operations Bureau,NULL,20533,Commissioned,2163
@@ -4872,7 +4872,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 926,Isac,J,Heller,POLICE OFFICER 4,Active,NULL,M,White,2007-05-13,ISB - Investigations and Support Bureau,NULL,18575,Commissioned,1935
 925,Demarco,C,Mayert,POLICE OFFICER 1,Terminated,2004-07-01,M,White,2001-07-01,FOB - Field Operations Bureau,NULL,13772,Commissioned,NULL
 924,Edd,I,Lemke,POLICE OFFICER 1,Terminated,2006-08-06,M,White,2004-10-17,FOB - Field Operations Bureau,NULL,17318,Non-Commissioned,NULL
-923,Evie,D,Effertz,POLICE SERGEANT,Active,NULL,M,White,2008-03-23,PIB - Public Integrity Bureau,NULL,19121,Commissioned,673
+923,Evie,D,Effertz,POLICE SERGEANT,Active,NULL,M,White,2008-03-23,PGB - Public Governance Bureau,NULL,19121,Commissioned,673
 922,Claire,H,Donnelly,POLICE OFFICER 3,Terminated,2016-06-16,M,Black / African American,2009-02-08,FOB - Field Operations Bureau,Third District,19791,Commissioned,3458
 921,Minerva,Q,Carter,POLICE OFFICER 1,Active,NULL,M,White,2007-07-22,FOB - Field Operations Bureau,First District,18742,Commissioned,3570
 920,Emmy,B,Romaguera,POLICE OFFICER 1,Terminated,2002-06-02,M,White,2001-03-18,FOB - Field Operations Bureau,NULL,13081,Commissioned,NULL
@@ -5037,7 +5037,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 761,Emory,O,Rolfson,POLICE LIEUTENANT,Retired,2014-05-02,M,White,1983-10-02,FOB - Field Operations Bureau,NULL,6713,Commissioned,309
 760,Kaleb,X,Koelpin,POLICE LIEUTENANT,Retired,2004-07-11,M,Black / African American,1977-03-28,FOB - Field Operations Bureau,First District,7421,Commissioned,NULL
 759,Erick,Y,McClure,POLICE LIEUTENANT,Retired,2014-04-06,M,Black / African American,1978-07-17,FOB - Field Operations Bureau,Sixth District,7374,Commissioned,351
-758,Hans,Q,Wintheiser,POLICE LIEUTENANT,Retired,2000-09-24,M,White,1969-08-25,PIB - Public Integrity Bureau,NULL,9594,Commissioned,NULL
+758,Hans,Q,Wintheiser,POLICE LIEUTENANT,Retired,2000-09-24,M,White,1969-08-25,PGB - Public Governance Bureau,NULL,9594,Commissioned,NULL
 757,Dell,W,Rempel,POLICE LIEUTENANT,Retired,2006-04-16,M,White,1969-04-07,FOB - Field Operations Bureau,Fourth District,8370,Commissioned,NULL
 756,Felix,Q,Bernhard,POLICE LIEUTENANT,Retired,2003-03-23,M,White,1973-06-12,FOB - Field Operations Bureau,Second District,8588,Commissioned,NULL
 755,Ryley,Q,Blick,POLICE LIEUTENANT,Retired,2007-07-22,M,White,1971-09-07,FOB - Field Operations Bureau,NULL,9075,Commissioned,NULL
@@ -5045,7 +5045,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 753,Ruthie,D,Howell,POLICE LIEUTENANT,Retired,2000-11-05,M,White,1973-01-04,MSB - Management Service Bureau,NULL,9003,Commissioned,NULL
 752,Nick,C,Wolff,POLICE LIEUTENANT,Retired,2004-08-08,M,White,1966-04-25,MSB - Management Service Bureau,NULL,9505,Commissioned,NULL
 751,Brown,C,Stoltenberg,POLICE LIEUTENANT,Retired,2001-02-25,M,Black / African American,1974-09-18,FOB - Field Operations Bureau,Third District,6596,Commissioned,NULL
-750,Lesley,H,Cruickshank,POLICE LIEUTENANT,Terminated,2016-12-10,M,Black / African American,1991-11-24,PIB - Public Integrity Bureau,NULL,6422,Commissioned,358
+750,Lesley,H,Cruickshank,POLICE LIEUTENANT,Terminated,2016-12-10,M,Black / African American,1991-11-24,PGB - Public Governance Bureau,NULL,6422,Commissioned,358
 749,Margarete,P,Thompson,POLICE LIEUTENANT,Retired,2008-08-31,M,Black / African American,1985-04-28,MSB - Management Service Bureau,NULL,6500,Commissioned,NULL
 748,Rory,B,Spinka,POLICE LIEUTENANT,Retired,2014-02-09,M,Black / African American,1987-03-22,MSB - Management Service Bureau,NULL,6385,Commissioned,3481
 747,Anissa,H,Prohaska,POLICE LIEUTENANT,Retired,2003-10-19,M,Hispanic,1975-07-14,FOB - Field Operations Bureau,Third District,7189,Commissioned,NULL
@@ -5074,16 +5074,16 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 724,Ike,I,Russel,POLICE LIEUTENANT,Retired,2005-07-24,M,White,1981-01-25,FOB - Field Operations Bureau,Fourth District,8927,Commissioned,NULL
 723,Lilian,M,Watsica,POLICE LIEUTENANT,Terminated,2016-02-29,M,White,1991-10-13,MSB - Management Service Bureau,NULL,6072,Commissioned,348
 722,Ardella,P,Kris,POLICE LIEUTENANT,Retired,2011-02-27,M,White,1972-02-22,FOB - Field Operations Bureau,Second District,7850,Commissioned,NULL
-721,Newell,P,Borer,POLICE LIEUTENANT,Retired,2012-06-03,M,Black / African American,1979-02-25,PIB - Public Integrity Bureau,NULL,6833,Commissioned,NULL
+721,Newell,P,Borer,POLICE LIEUTENANT,Retired,2012-06-03,M,Black / African American,1979-02-25,PGB - Public Governance Bureau,NULL,6833,Commissioned,NULL
 720,Wilhelm,D,Schimmel,POLICE LIEUTENANT,Active,NULL,F,Black / African American,1994-05-22,FOB - Field Operations Bureau,Seventh District,9202,Commissioned,3545
 719,Mark,Q,Powlowski,POLICE LIEUTENANT,Terminated,NULL,M,White,1991-10-20,FOB - Field Operations Bureau,First District,9897,Commissioned,340
 718,Pedro,W,Hodkiewicz,POLICE LIEUTENANT,Retired,2009-08-02,F,White,1981-11-29,Office of the Superintendant,NULL,7931,Commissioned,NULL
 717,Sid,W,Ward,POLICE OFFICER 1,Terminated,2011-05-08,M,White,1997-07-20,FOB - Field Operations Bureau,First District,6056,Commissioned,NULL
-716,Carolina,V,Smith,POLICE LIEUTENANT,Retired,2014-02-23,M,White,1983-02-27,PIB - Public Integrity Bureau,NULL,8141,Commissioned,358
-715,Lilyan,O,Herzog,POLICE LIEUTENANT,Retired,2012-05-20,M,White,1982-10-17,PIB - Public Integrity Bureau,NULL,8672,Commissioned,NULL
+716,Carolina,V,Smith,POLICE LIEUTENANT,Retired,2014-02-23,M,White,1983-02-27,PGB - Public Governance Bureau,NULL,8141,Commissioned,358
+715,Lilyan,O,Herzog,POLICE LIEUTENANT,Retired,2012-05-20,M,White,1982-10-17,PGB - Public Governance Bureau,NULL,8672,Commissioned,NULL
 714,Roman,W,Walter,POLICE LIEUTENANT,Retired,2012-11-04,M,Hispanic,1976-12-13,FOB - Field Operations Bureau,NULL,7927,Commissioned,NULL
 713,Napoleon,C,Macejkovic,POLICE LIEUTENANT,Retired,1998-07-16,M,White,1971-10-13,NULL,NULL,8920,Commissioned,NULL
-712,Marcelina,M,Quitzon,SR SPECIAL INVESTIGATOR,Terminated,2014-01-12,M,White,1991-02-24,PIB - Public Integrity Bureau,NULL,7733,Commissioned,309
+712,Marcelina,M,Quitzon,SR SPECIAL INVESTIGATOR,Terminated,2014-01-12,M,White,1991-02-24,PGB - Public Governance Bureau,NULL,7733,Commissioned,309
 711,Jarvis,X,Auer,POLICE LIEUTENANT,Retired,2010-01-03,M,White,1970-01-12,MSB - Management Service Bureau,NULL,8962,Commissioned,NULL
 710,Adam,P,Douglas,POLICE LIEUTENANT,Retired,1998-02-28,M,White,1969-08-25,NULL,NULL,7241,Commissioned,NULL
 709,Mya,G,Jacobs,POLICE LIEUTENANT,Terminated,2015-05-01,M,Black / African American,1987-03-22,MSB - Management Service Bureau,NULL,7547,Commissioned,301
@@ -5097,11 +5097,11 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 701,Jerel,L,Mueller,POLICE LIEUTENANT,Retired,2013-09-08,F,Black / African American,1984-01-03,FOB - Field Operations Bureau,Third District,9730,Commissioned,330
 700,Eula,F,Windler,POLICE LIEUTENANT,Terminated,2003-11-02,M,Black / African American,1975-12-04,MSB - Management Service Bureau,NULL,8543,Commissioned,NULL
 699,Rowena,L,Kulas,POLICE LIEUTENANT,Retired,1997-05-10,M,White,1969-03-17,NULL,NULL,8477,Commissioned,NULL
-698,Lamont,P,Hettinger,POLICE LIEUTENANT,Retired,2008-08-03,F,White,1983-02-27,PIB - Public Integrity Bureau,NULL,7893,Commissioned,NULL
+698,Lamont,P,Hettinger,POLICE LIEUTENANT,Retired,2008-08-03,F,White,1983-02-27,PGB - Public Governance Bureau,NULL,7893,Commissioned,NULL
 697,Sheldon,A,Price,POLICE LIEUTENANT,Retired,2002-10-20,M,White,1973-06-10,FOB - Field Operations Bureau,First District,6720,Commissioned,NULL
 696,Delia,N,Reynolds,POLICE LIEUTENANT,Terminated,2005-12-25,M,White,1997-06-01,FOB - Field Operations Bureau,First District,6554,Commissioned,NULL
 695,Aniyah,U,Ruecker,POLICE LIEUTENANT,Retired,2000-08-13,M,White,1975-11-24,FOB - Field Operations Bureau,NULL,8459,Commissioned,NULL
-694,Luna,M,Bogan,Police Commander,Active,NULL,F,White,1997-08-03,PIB - Public Integrity Bureau,NULL,7925,Commissioned,27
+694,Luna,M,Bogan,Police Commander,Active,NULL,F,White,1997-08-03,PGB - Public Governance Bureau,NULL,7925,Commissioned,27
 693,Foster,J,Gibson,POLICE LIEUTENANT,Retired,2012-06-17,M,Black / African American,1979-03-11,FOB - Field Operations Bureau,Third District,8558,Commissioned,NULL
 692,Derek,Z,Johnston,POLICE LIEUTENANT,Active,NULL,M,Black / African American,1990-06-10,FOB - Field Operations Bureau,Third District,9310,Commissioned,706
 691,Janelle,R,Ankunding,POLICE LIEUTENANT,Retired,2007-06-24,M,White,1977-10-10,ISB - Investigations and Support Bureau,NULL,7452,Commissioned,NULL
@@ -5119,10 +5119,10 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 679,Santa,F,Sipes,POLICE LIEUTENANT,Retired,1997-09-07,M,Black / African American,1970-01-05,NULL,NULL,6621,Commissioned,NULL
 678,Celine,C,Graham,POLICE LIEUTENANT,Retired,1997-06-22,M,White,1969-04-07,NULL,NULL,7232,Commissioned,NULL
 677,Kayli,H,Kozey,POLICE LIEUTENANT,Retired,2011-07-17,M,White,1975-07-31,FOB - Field Operations Bureau,NULL,8475,Commissioned,NULL
-676,Else,L,Ondricka,POLICE LIEUTENANT,Retired,2004-06-27,M,Black / African American,1972-02-09,PIB - Public Integrity Bureau,NULL,10167,Commissioned,NULL
+676,Else,L,Ondricka,POLICE LIEUTENANT,Retired,2004-06-27,M,Black / African American,1972-02-09,PGB - Public Governance Bureau,NULL,10167,Commissioned,NULL
 675,Edward,R,Thompson,POLICE LIEUTENANT,Retired,2011-05-08,M,White,1984-01-08,MSB - Management Service Bureau,NULL,6929,Commissioned,NULL
 674,Chelsea,G,Koch,Police Commander,Active,NULL,M,Black / African American,1985-06-17,MSB - Management Service Bureau,NULL,8173,Commissioned,330
-673,Dejuan,J,Lubowitz,POLICE LIEUTENANT,Active,NULL,F,Black / African American,1995-11-19,PIB - Public Integrity Bureau,NULL,9426,Commissioned,694
+673,Dejuan,J,Lubowitz,POLICE LIEUTENANT,Active,NULL,F,Black / African American,1995-11-19,PGB - Public Governance Bureau,NULL,9426,Commissioned,694
 672,Antoinette,S,Feest,POLICE LIEUTENANT,Retired,2007-02-04,M,White,1974-09-23,FOB - Field Operations Bureau,Fourth District,10199,Commissioned,NULL
 671,Karson,H,Schmidt,POLICE LIEUTENANT,Retired,2004-07-25,M,White,1977-10-10,NULL,NULL,6139,Commissioned,NULL
 670,Zella,E,Torphy,POLICE LIEUTENANT,Retired,2003-09-07,M,White,1975-08-18,MSB - Management Service Bureau,NULL,9683,Commissioned,NULL
@@ -5135,7 +5135,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 663,Rosie,Z,Gerlach,INFORMATION TECH MANAGER,Active,NULL,M,White,1982-08-22,Office of the Superintendant,NULL,6338,Commissioned,743
 662,Rachael,H,Lesch,POLICE LIEUTENANT,Retired,2012-09-23,M,White,1981-03-15,MSB - Management Service Bureau,NULL,6857,Commissioned,NULL
 661,Gisselle,J,Roob,Police Commander,Active,NULL,M,Black / African American,1997-06-22,FOB - Field Operations Bureau,Fourth District,10134,Commissioned,746
-660,Dennis,C,Spencer,POLICE LIEUTENANT,Terminated,NULL,F,White,1984-08-19,PIB - Public Integrity Bureau,NULL,9017,Commissioned,358
+660,Dennis,C,Spencer,POLICE LIEUTENANT,Terminated,NULL,F,White,1984-08-19,PGB - Public Governance Bureau,NULL,9017,Commissioned,358
 659,Maverick,O,Gerhold,POLICE LIEUTENANT,Retired,2011-03-27,M,White,1974-01-15,Office of the Superintendant,NULL,10215,Commissioned,NULL
 658,Garrett,X,Prosacco,POLICE LIEUTENANT,Retired,2004-02-22,M,Black / African American,1981-01-11,FOB - Field Operations Bureau,Third District,9013,Commissioned,NULL
 657,Guadalupe,N,Larson,POLICE LIEUTENANT,Retired,2008-07-06,M,White,1975-12-15,MSB - Management Service Bureau,NULL,6815,Commissioned,NULL
@@ -5437,9 +5437,9 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 361,Nettie,B,Gorczany,Reserve Officers,Active,2014-01-12,M,White,1989-05-28,FOB - Field Operations Bureau,NULL,9768,Commissioned,2850
 360,Sanford,U,Schneider,POLICE CAPTAIN,Retired,2009-06-07,M,White,1975-04-23,ISB - Investigations and Support Bureau,NULL,7878,Commissioned,NULL
 359,Kaylah,H,Green,POLICE CAPTAIN,Retired,2008-08-03,M,White,1979-07-08,ISB - Investigations and Support Bureau,NULL,10322,Commissioned,NULL
-358,Alvis,D,Raynor,POLICE CAPTAIN,Terminated,2015-04-05,F,White,1978-11-13,PIB - Public Integrity Bureau,NULL,8708,Commissioned,27
+358,Alvis,D,Raynor,POLICE CAPTAIN,Terminated,2015-04-05,F,White,1978-11-13,PGB - Public Governance Bureau,NULL,8708,Commissioned,27
 357,Katlynn,V,Schroeder,POLICE CAPTAIN,Retired,2008-02-03,M,White,1975-01-09,MSB - Management Service Bureau,NULL,9772,Commissioned,NULL
-356,Florine,W,Weimann,POLICE CAPTAIN,Active,NULL,M,Black / African American,1985-08-04,PIB - Public Integrity Bureau,NULL,6419,Commissioned,694
+356,Florine,W,Weimann,POLICE CAPTAIN,Active,NULL,M,Black / African American,1985-08-04,PGB - Public Governance Bureau,NULL,6419,Commissioned,694
 355,Edwardo,D,Stiedemann,POLICE CAPTAIN,Deceased,2005-02-09,M,White,1969-08-11,Compliance Bureau,NULL,8443,Commissioned,NULL
 354,Lilliana,T,Gutkowski,POLICE CAPTAIN,Retired,2012-01-15,F,White,1979-09-16,FOB - Field Operations Bureau,NULL,6727,Commissioned,NULL
 353,Erna,Z,Langosh,POLICE CAPTAIN,Retired,2003-01-26,M,Black / African American,1975-05-12,FOB - Field Operations Bureau,Fourth District,8455,Commissioned,NULL
@@ -5462,9 +5462,9 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 336,Taurean,K,Hills,POLICE CAPTAIN,Retired,1998-07-18,M,White,1971-06-28,NULL,NULL,10285,Commissioned,NULL
 335,Maximo,K,Weissnat,POLICE CAPTAIN,Terminated,2008-11-23,M,White,1987-07-26,ISB - Investigations and Support Bureau,NULL,6396,Commissioned,NULL
 334,Roberto,Y,Predovic,POLICE CAPTAIN,Active,NULL,M,White,1993-05-30,ISB - Investigations and Support Bureau,NULL,8929,Commissioned,3410
-333,Russ,G,Hilll,POLICE CAPTAIN,Retired,2003-12-14,M,White,1968-09-09,PIB - Public Integrity Bureau,NULL,9621,Commissioned,NULL
+333,Russ,G,Hilll,POLICE CAPTAIN,Retired,2003-12-14,M,White,1968-09-09,PGB - Public Governance Bureau,NULL,9621,Commissioned,NULL
 332,Bert,J,Keebler,POLICE CAPTAIN,Retired,2010-09-12,M,Black / African American,1980-08-03,MSB - Management Service Bureau,NULL,6101,Commissioned,NULL
-331,Madilyn,T,Orn,POLICE CAPTAIN,Retired,2012-01-29,M,White,1978-03-20,PIB - Public Integrity Bureau,NULL,8999,Commissioned,NULL
+331,Madilyn,T,Orn,POLICE CAPTAIN,Retired,2012-01-29,M,White,1978-03-20,PGB - Public Governance Bureau,NULL,8999,Commissioned,NULL
 330,Estevan,H,Dickens,ASSISTANT SUPT OF POLICE,Active,NULL,M,Black / African American,1984-06-11,MSB - Management Service Bureau,NULL,9325,Commissioned,739
 329,Abdiel,B,Wisozk,POLICE CAPTAIN,Retired,2001-07-01,M,White,1969-09-08,NULL,NULL,6626,Commissioned,NULL
 328,Julian,R,Carter,POLICE CAPTAIN,Terminated,2012-04-08,M,White,1985-02-24,MSB - Management Service Bureau,NULL,10279,Commissioned,NULL
@@ -5490,8 +5490,8 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 308,Bell,K,Kunde,POLICE CAPTAIN,Retired,2008-03-02,M,White,1969-07-28,MSB - Management Service Bureau,NULL,7810,Commissioned,NULL
 307,Renee,Y,Kulas,POLICE CAPTAIN,Retired,2007-09-29,M,White,1968-10-21,FOB - Field Operations Bureau,NULL,6682,Commissioned,NULL
 306,Johnathon,G,Robel,POLICE CAPTAIN,Retired,2011-11-06,M,Black / African American,1977-08-29,MSB - Management Service Bureau,NULL,7390,Commissioned,NULL
-305,Rachael,P,Kuhn,POLICE CAPTAIN,Retired,2001-07-01,M,White,1968-04-08,PIB - Public Integrity Bureau,NULL,7213,Commissioned,NULL
-304,Corrine,Z,Gerhold,POLICE CAPTAIN,Retired,2006-06-11,F,White,1977-05-16,PIB - Public Integrity Bureau,NULL,9098,Commissioned,NULL
+305,Rachael,P,Kuhn,POLICE CAPTAIN,Retired,2001-07-01,M,White,1968-04-08,PGB - Public Governance Bureau,NULL,7213,Commissioned,NULL
+304,Corrine,Z,Gerhold,POLICE CAPTAIN,Retired,2006-06-11,F,White,1977-05-16,PGB - Public Governance Bureau,NULL,9098,Commissioned,NULL
 303,Pauline,E,Steuber,Reserve Officers,Terminated,2015-02-12,M,White,1982-09-26,FOB - Field Operations Bureau,NULL,8586,Commissioned,309
 302,Lenora,T,Cassin,Reserve Officers,Terminated,2015-12-07,M,Black / African American,1975-10-16,NULL,NULL,9100,Commissioned,309
 301,Kelvin,Y,Ondricka,POLICE CAPTAIN,Retired,2013-06-16,M,White,1983-05-15,ISB - Investigations and Support Bureau,NULL,10207,Commissioned,309
@@ -5540,7 +5540,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 258,Robert,G,Smith,OFFICE SUPPORT SPECIALIST,Retired,2005-05-01,F,Black / African American,1987-08-10,ISB - Investigations and Support Bureau,NULL,6580,Non-Commissioned,NULL
 257,Claudine,W,Toy,OFFICE SUPPORT SPECIALIST,Terminated,2014-01-26,F,Black / African American,1983-06-06,MSB - Management Service Bureau,NULL,8019,Non-Commissioned,48
 256,Virginie,Y,Kovacek,OFFICE SUPPORT SPECIALIST,Active,NULL,F,Black / African American,1974-02-18,MSB - Management Service Bureau,NULL,7910,Commissioned,6072
-255,Audie,V,Buckridge,SR OFFICE SUPPORT SPECIALIST,Active,NULL,F,Black / African American,1981-12-07,PIB - Public Integrity Bureau,NULL,3596,Non-Commissioned,694
+255,Audie,V,Buckridge,SR OFFICE SUPPORT SPECIALIST,Active,NULL,F,Black / African American,1981-12-07,PGB - Public Governance Bureau,NULL,3596,Non-Commissioned,694
 254,Burdette,H,Flatley,ADMIN SUPPORT SUPERVISOR I,Active,NULL,F,Black / African American,1988-02-01,FOB - Field Operations Bureau,Eighth District,4576,Non-Commissioned,3595
 253,Dagmar,V,Streich,OFFICE SUPPORT SPECIALIST,Terminated,2002-10-06,F,Black / African American,1996-06-09,MSB - Management Service Bureau,NULL,9274,Non-Commissioned,NULL
 252,Amira,P,Rowe,OFFICE SUPPORT SPECIALIST,Retired,2007-07-08,F,Black / African American,1977-12-27,Office of the Superintendant,NULL,6244,Non-Commissioned,NULL
@@ -5675,9 +5675,9 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 123,Trudie,F,Hahn,INFO PROCESSOR OPR,Retired,2003-03-23,F,White,1968-05-09,MSB - Management Service Bureau,NULL,7101,Non-Commissioned,NULL
 122,Judy,K,Kshlerin,INFO PROCESSOR OPR,Retired,2000-12-20,F,Black / African American,1970-09-17,MSB - Management Service Bureau,NULL,9476,Non-Commissioned,NULL
 121,Euna,C,Champlin,INFO PROCESSOR OPR,Retired,2004-12-26,F,Black / African American,1971-12-02,ISB - Investigations and Support Bureau,NULL,10086,Non-Commissioned,NULL
-120,Garnett,I,Swift,INFO PROCESSOR OPR,Terminated,1999-04-30,F,White,1994-01-31,PIB - Public Integrity Bureau,NULL,7329,Non-Commissioned,NULL
-119,Amani,I,Schoen,INFO PROCESSOR OPR,Retired,2003-06-29,F,White,1967-04-26,PIB - Public Integrity Bureau,NULL,7137,Non-Commissioned,NULL
-118,Fabiola,P,Nitzsche,INFO PROCESSOR OPR,Retired,2005-10-16,F,White,1969-06-09,PIB - Public Integrity Bureau,NULL,9677,Non-Commissioned,NULL
+120,Garnett,I,Swift,INFO PROCESSOR OPR,Terminated,1999-04-30,F,White,1994-01-31,PGB - Public Governance Bureau,NULL,7329,Non-Commissioned,NULL
+119,Amani,I,Schoen,INFO PROCESSOR OPR,Retired,2003-06-29,F,White,1967-04-26,PGB - Public Governance Bureau,NULL,7137,Non-Commissioned,NULL
+118,Fabiola,P,Nitzsche,INFO PROCESSOR OPR,Retired,2005-10-16,F,White,1969-06-09,PGB - Public Governance Bureau,NULL,9677,Non-Commissioned,NULL
 117,Nicola,V,Senger,GROUNDS PATROL SUPERVISOR,Terminated,2003-11-02,M,White,1970-06-22,MSB - Management Service Bureau,NULL,6701,Commissioned,NULL
 116,Otis,F,Walker,GROUNDS PATROL SUPERVISOR,Retired,2011-06-19,M,Black / African American,1987-04-20,ISB - Investigations and Support Bureau,NULL,1946,Commissioned,NULL
 115,Haleigh,Q,Collier,GROUNDS PATROL OFFICER,Retired,2012-11-18,M,Black / African American,1988-05-08,ISB - Investigations and Support Bureau,NULL,4952,Commissioned,NULL
@@ -5768,7 +5768,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 30,Eriberto,F,Wehner,ASSISTANT SUPT OF POLICE,Terminated,NULL,M,White,1983-01-30,ISB - Investigations and Support Bureau,NULL,6407,Commissioned,4776
 29,Ellsworth,H,Reichert,ASSISTANT SUPT OF POLICE,Retired,2003-02-09,M,White,1975-03-05,Compliance Bureau,NULL,7874,Commissioned,NULL
 28,Lora,N,Emmerich,Police Academy Curriculum Deve,Active,2002-07-28,M,White,1974-01-28,MSB - Management Service Bureau,NULL,6774,Commissioned,NULL
-27,Hattie,O,Jones,ASSISTANT SUPT OF POLICE,Active,NULL,F,Black / African American,1989-06-09,PIB - Public Integrity Bureau,NULL,2507,Non-Commissioned,739
+27,Hattie,O,Jones,ASSISTANT SUPT OF POLICE,Active,NULL,F,Black / African American,1989-06-09,PGB - Public Governance Bureau,NULL,2507,Non-Commissioned,739
 26,Josue,E,Stehr,ASSISTANT SUPT OF POLICE,Retired,2008-06-08,M,White,1967-05-08,FOB - Field Operations Bureau,NULL,8341,Commissioned,NULL
 25,Nicola,Q,Wintheiser,ADMINISTRATIVE ASSISTANT,Retired,2010-01-03,F,Black / African American,1974-10-21,Office of the Superintendant,NULL,9077,Non-Commissioned,NULL
 24,Felton,O,Baumbach,ADMINISTRATIVE ASSISTANT,Terminated,NULL,F,Black / African American,1979-04-29,Office of the Superintendant,NULL,8635,Non-Commissioned,3501
@@ -5778,7 +5778,7 @@ officerNumber,firstName,middleName,lastName,rank,workStatus,endDate,sex,race,hir
 20,Ike,H,Harris,ADMINISTRATIVE ANALYST 3,Terminated,2000-12-03,F,Black / African American,1992-04-27,ISB - Investigations and Support Bureau,NULL,8783,Non-Commissioned,NULL
 19,Marshall,K,Adams,ADMINISTRATIVE ANALYST 3,Terminated,2005-10-14,F,Black / African American,2004-09-19,MSB - Management Service Bureau,NULL,17277,Non-Commissioned,NULL
 18,Retha,S,Pagac,ADMINISTRATIVE ANALYST 3,Terminated,2001-05-06,F,Black / African American,1994-07-15,ISB - Investigations and Support Bureau,NULL,9070,Non-Commissioned,NULL
-17,Oswald,V,Hirthe,ADMINISTRATIVE ANALYST 3,Terminated,2001-01-28,M,White,1998-07-05,PIB - Public Integrity Bureau,NULL,9578,Non-Commissioned,NULL
+17,Oswald,V,Hirthe,ADMINISTRATIVE ANALYST 3,Terminated,2001-01-28,M,White,1998-07-05,PGB - Public Governance Bureau,NULL,9578,Non-Commissioned,NULL
 16,Chasity,U,Bogan,ADMINISTRATIVE ANALYST 3,Terminated,2005-10-14,M,Black / African American,1998-12-06,MSB - Management Service Bureau,NULL,8197,Non-Commissioned,NULL
 15,Bernard,S,Bogisich,ADMINISTRATIVE ANALYST 2,Terminated,2002-09-08,F,Black / African American,1995-06-12,MSB - Management Service Bureau,NULL,8652,Non-Commissioned,NULL
 14,Ila,M,Gusikowski,ADMINISTRATIVE ANALYST 2,Terminated,2002-11-17,F,Black / African American,1979-04-15,MSB - Management Service Bureau,NULL,8656,Non-Commissioned,NULL

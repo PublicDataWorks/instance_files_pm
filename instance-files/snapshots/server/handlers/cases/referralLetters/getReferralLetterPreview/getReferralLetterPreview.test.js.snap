@@ -90,7 +90,7 @@ exports[`getReferralLetterPreview in letter in progress status snapshotTests ren
 
 
   <p>I appreciate your prompt attention to this matter.
-    Please acknowledge receipt of this complaint and provide the PM with a PIB #.
+    Please acknowledge receipt of this complaint and provide the PM with a PGB #.
     Please contact John A Simms or Nina S Ambroise if you have any questions regarding this complaint.
   </p>
   <p><br></p>
@@ -196,7 +196,7 @@ exports[`getReferralLetterPreview in letter in progress status snapshotTests ren
     <p><br></p>
           <p>In light of the seriousness of the allegations and/or <strong>ADMIN SUPPORT SPECIALIST II Grant M Young's</strong> complaint
             history, the PM requests that,
-            pending the completion of this investigation, PIB review this officer’s history to ascertain if the accused
+            pending the completion of this investigation, PGB review this officer’s history to ascertain if the accused
             officer should:</p>
           <ul>
               <li>This is a description of the recommended action</li>
@@ -229,7 +229,7 @@ exports[`getReferralLetterPreview in letter in progress status snapshotTests ren
     <p><br></p>
 
   <p>I appreciate your prompt attention to this matter.
-    Please acknowledge receipt of this complaint and provide the PM with a PIB #.
+    Please acknowledge receipt of this complaint and provide the PM with a PGB #.
     Please contact John A Simms or Nina S Ambroise if you have any questions regarding this complaint.
   </p>
   <p><br></p>
@@ -339,7 +339,99 @@ exports[`getReferralLetterPreview in letter in progress status snapshotTests ren
 
 
   <p>I appreciate your prompt attention to this matter.
-    Please acknowledge receipt of this complaint and provide the PM with a PIB #.
+    Please acknowledge receipt of this complaint and provide the PM with a PGB #.
+    Please contact John A Simms or Nina S Ambroise if you have any questions regarding this complaint.
+  </p>
+  <p><br></p>
+
+</div>"
+`;
+
+exports[`getReferralLetterPreview in letter in progress status snapshotTests renders correctly with case number 1`] = `
+"<div>
+  <p>
+    This is to inform you pursuant to Gotham City Code Section 1-2212 (the Police Monitors Ordinance) that the
+    Office of the Police Monitor (PM) has received a complaint of misconduct by an GCPD employee(s).
+    The complainant relayed the following information to our office:
+  </p>
+  <p><br></p>
+  <p><br></p>
+  <p class=\\"ql-align-center\\"><strong><u>Complaint Information</u></strong></p>
+  <p><br></p>
+    <p>Date filed with PM: 12/25/2017</p>
+  <p><br></p>
+
+  <p><strong><u>Complainant Information</u></strong></p>
+        <p>Name: Chuck E. Berry XVI</p>
+        <p>Race: Filipino</p>
+        <p>Sex: Female</p>
+        <p>Date of Birth: 04/24/1994</p>
+        <p>Address: 123 Main St, Fl 2, Mayo St & Mustard Ave, Sandwich, IL 63456 (In front of Wal-Mart)</p>
+        <p>Phone: (123) 456-7890</p>
+        <p>Email: cberry@cberry.com</p>
+    <p><br></p>
+
+  <p><strong><u>Subject GCPD Employee(s) Information</u></strong></p>
+      <p>Name: Grant M Young</p>
+      <p>Rank: ADMIN SUPPORT SPECIALIST II</p>
+      <p>Employee ID: #12</p>
+      <p>Race: Black</p>
+      <p>Sex: M</p>
+      <p>Supervisor (Employee ID): Belly G Walsh (#14)</p>
+      <p>Employee Type: Commissioned</p>
+      <p>District: First District</p>
+      <p>Bureau: MSB - Management Service Bureau</p>
+      <p>Status: Retired</p>
+      <p>End of Employment: 05/31/2018</p>
+    <p><br></p>
+
+
+  <p><strong><u>Incident</u></strong></p>
+    <p>Date: 01/01/2017</p>
+    <p>Location: 123 Main St, Fl 2, Mayo St & Mustard Ave, Sandwich, IL 63456 (In front of Wal-Mart)</p>
+    <p>Time: 04:00 PM CST</p>
+
+  <p><br></p>
+  <p><br></p>
+  <p class=\\"ql-align-center\\"><strong><u>Initial Allegations/Concerns/Issues</u></strong></p>
+  <p><br></p>
+    Complainant alleges the following occurred
+     on 01/01/2017,
+    during the complainant’s interaction with ADMIN SUPPORT SPECIALIST II Grant M Young. If proven, the accused may have violated
+    GCPD policy, rules, or procedure when:
+    <ol>
+        <li>Allegation Details This is in violation of <b><i>RULE 2: MORAL CONDUCT: PARAGRAPH 01 - ADHERENCE TO LAW: Title 18 of the United Stated Code Section 1001: Statements or Entries Generally</i></b></li>
+    </ol>
+    <p><br></p>
+  <p class=\\"ql-align-center\\"><strong><u>Details of Complainant’s Account</u></strong></p>
+  <p><br></p>
+  <p class=\\"preserve-white-space\\"><p> test details </p></p>
+  <p><br></p>
+  <p><br></p>
+
+
+    <p class=\\"ql-align-center\\"><strong><u>Request for Review and Intervention</u></strong></p>
+    <p><br></p>
+          <p style=\\"white-space: pre-wrap;\\">We recommend this officer is disciplined.</p>
+          <p><br></p>
+    <p><br></p>
+
+
+    <p class=\\"ql-align-center\\"><strong><u>Retaliation Concerns and Request for Notice to Accused</u></strong></p>
+    <p><br></p>
+    <p>Based on the information provided by the complainant, the PM is concerned about retaliation against the
+      complainant.
+      We request that once the accused is made aware of this complaint that they be admonished in writing by
+      their
+      commanding officer(s) about retaliating against the Complainant, or from having others do so.</p>
+    <p><br></p>
+    <p><br></p>
+
+
+
+
+  <p>I appreciate your prompt attention to this matter.
+    Please acknowledge receipt of this complaint and provide the PM with a PGB #.
     Please contact John A Simms or Nina S Ambroise if you have any questions regarding this complaint.
   </p>
   <p><br></p>
@@ -431,7 +523,7 @@ exports[`getReferralLetterPreview in letter in progress status snapshotTests ren
 
 
   <p>I appreciate your prompt attention to this matter.
-    Please acknowledge receipt of this complaint and provide the PM with a PIB #.
+    Please acknowledge receipt of this complaint and provide the PM with a PGB #.
     Please contact John A Simms or Nina S Ambroise if you have any questions regarding this complaint.
   </p>
   <p><br></p>
@@ -523,100 +615,7 @@ exports[`getReferralLetterPreview in letter in progress status snapshotTests ren
 
 
   <p>I appreciate your prompt attention to this matter.
-    Please acknowledge receipt of this complaint and provide the PM with a PIB #.
-    Please contact John A Simms or Nina S Ambroise if you have any questions regarding this complaint.
-  </p>
-  <p><br></p>
-
-</div>"
-`;
-
-exports[`getReferralLetterPreview in letter in progress status snapshotTests renders correctly with pib case number 1`] = `
-"<div>
-  <p>
-    This is to inform you pursuant to Gotham City Code Section 1-2212 (the Police Monitors Ordinance) that the
-    Office of the Police Monitor (PM) has received a complaint of misconduct by an GCPD employee(s).
-    The complainant relayed the following information to our office:
-  </p>
-  <p><br></p>
-  <p><br></p>
-  <p class=\\"ql-align-center\\"><strong><u>Complaint Information</u></strong></p>
-  <p><br></p>
-    <p>Date filed with PM: 12/25/2017</p>
-    <p>PIB Case Number: 2019-0023-R</p>
-  <p><br></p>
-
-  <p><strong><u>Complainant Information</u></strong></p>
-        <p>Name: Chuck E. Berry XVI</p>
-        <p>Race: Filipino</p>
-        <p>Sex: Female</p>
-        <p>Date of Birth: 04/24/1994</p>
-        <p>Address: 123 Main St, Fl 2, Mayo St & Mustard Ave, Sandwich, IL 63456 (In front of Wal-Mart)</p>
-        <p>Phone: (123) 456-7890</p>
-        <p>Email: cberry@cberry.com</p>
-    <p><br></p>
-
-  <p><strong><u>Subject GCPD Employee(s) Information</u></strong></p>
-      <p>Name: Grant M Young</p>
-      <p>Rank: ADMIN SUPPORT SPECIALIST II</p>
-      <p>Employee ID: #12</p>
-      <p>Race: Black</p>
-      <p>Sex: M</p>
-      <p>Supervisor (Employee ID): Belly G Walsh (#14)</p>
-      <p>Employee Type: Commissioned</p>
-      <p>District: First District</p>
-      <p>Bureau: MSB - Management Service Bureau</p>
-      <p>Status: Retired</p>
-      <p>End of Employment: 05/31/2018</p>
-    <p><br></p>
-
-
-  <p><strong><u>Incident</u></strong></p>
-    <p>Date: 01/01/2017</p>
-    <p>Location: 123 Main St, Fl 2, Mayo St & Mustard Ave, Sandwich, IL 63456 (In front of Wal-Mart)</p>
-    <p>Time: 04:00 PM CST</p>
-
-  <p><br></p>
-  <p><br></p>
-  <p class=\\"ql-align-center\\"><strong><u>Initial Allegations/Concerns/Issues</u></strong></p>
-  <p><br></p>
-    Complainant alleges the following occurred
-     on 01/01/2017,
-    during the complainant’s interaction with ADMIN SUPPORT SPECIALIST II Grant M Young. If proven, the accused may have violated
-    GCPD policy, rules, or procedure when:
-    <ol>
-        <li>Allegation Details This is in violation of <b><i>RULE 2: MORAL CONDUCT: PARAGRAPH 01 - ADHERENCE TO LAW: Title 18 of the United Stated Code Section 1001: Statements or Entries Generally</i></b></li>
-    </ol>
-    <p><br></p>
-  <p class=\\"ql-align-center\\"><strong><u>Details of Complainant’s Account</u></strong></p>
-  <p><br></p>
-  <p class=\\"preserve-white-space\\"><p> test details </p></p>
-  <p><br></p>
-  <p><br></p>
-
-
-    <p class=\\"ql-align-center\\"><strong><u>Request for Review and Intervention</u></strong></p>
-    <p><br></p>
-          <p style=\\"white-space: pre-wrap;\\">We recommend this officer is disciplined.</p>
-          <p><br></p>
-    <p><br></p>
-
-
-    <p class=\\"ql-align-center\\"><strong><u>Retaliation Concerns and Request for Notice to Accused</u></strong></p>
-    <p><br></p>
-    <p>Based on the information provided by the complainant, the PM is concerned about retaliation against the
-      complainant.
-      We request that once the accused is made aware of this complaint that they be admonished in writing by
-      their
-      commanding officer(s) about retaliating against the Complainant, or from having others do so.</p>
-    <p><br></p>
-    <p><br></p>
-
-
-
-
-  <p>I appreciate your prompt attention to this matter.
-    Please acknowledge receipt of this complaint and provide the PM with a PIB #.
+    Please acknowledge receipt of this complaint and provide the PM with a PGB #.
     Please contact John A Simms or Nina S Ambroise if you have any questions regarding this complaint.
   </p>
   <p><br></p>
@@ -691,7 +690,7 @@ exports[`getReferralLetterPreview in letter in progress status snapshotTests ren
     <p><br></p>
           <p>In light of the seriousness of the allegations and/or <strong>ADMIN SUPPORT SPECIALIST II Grant M Young's</strong> complaint
             history, the PM requests that,
-            pending the completion of this investigation, PIB review this officer’s history to ascertain if the accused
+            pending the completion of this investigation, PGB review this officer’s history to ascertain if the accused
             officer should:</p>
           <ul>
               <li>This is a description of the recommended action</li>
@@ -715,7 +714,7 @@ exports[`getReferralLetterPreview in letter in progress status snapshotTests ren
 
 
   <p>I appreciate your prompt attention to this matter.
-    Please acknowledge receipt of this complaint and provide the PM with a PIB #.
+    Please acknowledge receipt of this complaint and provide the PM with a PGB #.
     Please contact John A Simms or Nina S Ambroise if you have any questions regarding this complaint.
   </p>
   <p><br></p>

@@ -11,8 +11,8 @@
   {{#if (isPresent firstContactDate)}}
     <p>Date filed with PM: {{{formatShortDate firstContactDate}}}</p>
   {{/if}}
-  {{#if (isPresent pibCaseNumber)}}
-    <p>PIB Case Number: {{pibCaseNumber}}</p>
+  {{#if (isPresent pgbCaseNumber)}}
+    <p>PGB Case Number: {{pgbCaseNumber}}</p>
   {{/if}}
   <p><br></p>
 
@@ -315,8 +315,8 @@
           {{/if}}
           {{#each letterOfficer.referralLetterOfficerHistoryNotes}}
             <li>
-              {{pibCaseNumber~}}
-              {{#if pibCaseNumber~}}
+              {{pgbCaseNumber~}}
+              {{#if pgbCaseNumber~}}
                 {{#if details~}}: {{/if}}
               {{/if}}
               {{{renderHtml details}}}
@@ -336,7 +336,7 @@
         {{#if letterOfficer.referralLetterOfficerRecommendedActions}}
           <p>In light of the seriousness of the allegations and/or <strong>{{rank}} {{fullName~}}'s</strong> complaint
             history, the PM requests that,
-            pending the completion of this investigation, PIB review this officer’s history to ascertain if the accused
+            pending the completion of this investigation, PGB review this officer’s history to ascertain if the accused
             officer should:</p>
           <ul>
             {{#each letterOfficer.referralLetterOfficerRecommendedActions}}
@@ -398,7 +398,7 @@
   {{/if}}
 
   <p>I appreciate your prompt attention to this matter.
-    Please acknowledge receipt of this complaint and provide the PM with a PIB #.
+    Please acknowledge receipt of this complaint and provide the PM with a PGB #.
     Please contact John A Simms or Nina S Ambroise if you have any questions regarding this complaint.
   </p>
   <p><br></p>

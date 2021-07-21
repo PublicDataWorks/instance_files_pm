@@ -39,7 +39,7 @@
     {{{renderHtml recipient}}}</br>
     {{{renderHtml (newLineToLineBreak recipientAddress)}}}
     <p><br></p>
-    <p><strong>RE: {{{ generateSubjectLine caseReference pibCaseNumber}}}</strong></p>
+    <p><strong>RE: {{{ generateSubjectLine caseReference pgbCaseNumber}}}</strong></p>
     <p><br></p>
     <p>Dear {{{recipient}}}:</p>
     <p><br></p>
