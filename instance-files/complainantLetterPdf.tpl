@@ -56,7 +56,7 @@
         <p><br/></p>
         <p>
             On {{{formatLongDate firstContactDate}}}, you contacted the Office of the Police Monitor
-            (PM) alleging possible misconduct by an officer of the Gotham City Police
+            (PM) alleging possible misconduct by an officer of the Grenville City Police
             Department (GCPD or Department) for possible violations of several GCPD rules. As a
             result of your contact with us, PM No. {{caseReference}} was generated.
         </p>

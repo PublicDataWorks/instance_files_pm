@@ -3,7 +3,7 @@
 exports[`getReferralLetterPreview in letter in progress status snapshotTests renders correctly with a civilian witness 1`] = `
 "<div>
   <p>
-    This is to inform you pursuant to Gotham City Code Section 1-2212 (the Police Monitors Ordinance) that the
+    This is to inform you pursuant to Grenville City Code Section 1-2212 (the Police Monitors Ordinance) that the
     Office of the Police Monitor (PM) has received a complaint of misconduct by an GCPD employee(s).
     The complainant relayed the following information to our office:
   </p>
@@ -101,7 +101,7 @@ exports[`getReferralLetterPreview in letter in progress status snapshotTests ren
 exports[`getReferralLetterPreview in letter in progress status snapshotTests renders correctly with all details 1`] = `
 "<div>
   <p>
-    This is to inform you pursuant to Gotham City Code Section 1-2212 (the Police Monitors Ordinance) that the
+    This is to inform you pursuant to Grenville City Code Section 1-2212 (the Police Monitors Ordinance) that the
     Office of the Police Monitor (PM) has received a complaint of misconduct by an GCPD employee(s).
     The complainant relayed the following information to our office:
   </p>
@@ -240,7 +240,7 @@ exports[`getReferralLetterPreview in letter in progress status snapshotTests ren
 exports[`getReferralLetterPreview in letter in progress status snapshotTests renders correctly with an officer complainant 1`] = `
 "<div>
   <p>
-    This is to inform you pursuant to Gotham City Code Section 1-2212 (the Police Monitors Ordinance) that the
+    This is to inform you pursuant to Grenville City Code Section 1-2212 (the Police Monitors Ordinance) that the
     Office of the Police Monitor (PM) has received a complaint of misconduct by an GCPD employee(s).
     The complainant relayed the following information to our office:
   </p>
@@ -350,7 +350,7 @@ exports[`getReferralLetterPreview in letter in progress status snapshotTests ren
 exports[`getReferralLetterPreview in letter in progress status snapshotTests renders correctly with case number 1`] = `
 "<div>
   <p>
-    This is to inform you pursuant to Gotham City Code Section 1-2212 (the Police Monitors Ordinance) that the
+    This is to inform you pursuant to Grenville City Code Section 1-2212 (the Police Monitors Ordinance) that the
     Office of the Police Monitor (PM) has received a complaint of misconduct by an GCPD employee(s).
     The complainant relayed the following information to our office:
   </p>
@@ -442,7 +442,7 @@ exports[`getReferralLetterPreview in letter in progress status snapshotTests ren
 exports[`getReferralLetterPreview in letter in progress status snapshotTests renders correctly with history notes 1`] = `
 "<div>
   <p>
-    This is to inform you pursuant to Gotham City Code Section 1-2212 (the Police Monitors Ordinance) that the
+    This is to inform you pursuant to Grenville City Code Section 1-2212 (the Police Monitors Ordinance) that the
     Office of the Police Monitor (PM) has received a complaint of misconduct by an GCPD employee(s).
     The complainant relayed the following information to our office:
   </p>
@@ -534,7 +534,7 @@ exports[`getReferralLetterPreview in letter in progress status snapshotTests ren
 exports[`getReferralLetterPreview in letter in progress status snapshotTests renders correctly with minimum required letter data 1`] = `
 "<div>
   <p>
-    This is to inform you pursuant to Gotham City Code Section 1-2212 (the Police Monitors Ordinance) that the
+    This is to inform you pursuant to Grenville City Code Section 1-2212 (the Police Monitors Ordinance) that the
     Office of the Police Monitor (PM) has received a complaint of misconduct by an GCPD employee(s).
     The complainant relayed the following information to our office:
   </p>
@@ -626,7 +626,7 @@ exports[`getReferralLetterPreview in letter in progress status snapshotTests ren
 exports[`getReferralLetterPreview in letter in progress status snapshotTests renders correctly with recommended action 1`] = `
 "<div>
   <p>
-    This is to inform you pursuant to Gotham City Code Section 1-2212 (the Police Monitors Ordinance) that the
+    This is to inform you pursuant to Grenville City Code Section 1-2212 (the Police Monitors Ordinance) that the
     Office of the Police Monitor (PM) has received a complaint of misconduct by an GCPD employee(s).
     The complainant relayed the following information to our office:
   </p>

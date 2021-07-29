@@ -53,7 +53,7 @@ exports[`generateComplainantLetterPdfBuffer generates complainant letter pdf htm
         <p><br/></p>
         <p>
             On December 25, 2017, you contacted the Office of the Police Monitor
-            (PM) alleging possible misconduct by an officer of the Gotham City Police
+            (PM) alleging possible misconduct by an officer of the Grenville City Police
             Department (GCPD or Department) for possible violations of several GCPD rules. As a
             result of your contact with us, PM No. CC2017-0001 was generated.
         </p>
@@ -148,7 +148,7 @@ exports[`generateComplainantLetterPdfBuffer pdf buffer is created for complainan
         <p><br/></p>
         <p>
             On December 25, 2017, you contacted the Office of the Police Monitor
-            (PM) alleging possible misconduct by an officer of the Gotham City Police
+            (PM) alleging possible misconduct by an officer of the Grenville City Police
             Department (GCPD or Department) for possible violations of several GCPD rules. As a
             result of your contact with us, PM No. CC2017-0001 was generated.
         </p>

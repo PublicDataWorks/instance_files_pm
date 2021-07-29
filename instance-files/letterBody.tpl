@@ -1,6 +1,6 @@
 <div>
   <p>
-    This is to inform you pursuant to Gotham City Code Section 1-2212 (the Police Monitors Ordinance) that the
+    This is to inform you pursuant to Grenville City Code Section 1-2212 (the Police Monitors Ordinance) that the
     Office of the Police Monitor (PM) has received a complaint of misconduct by an GCPD employee(s).
     The complainant relayed the following information to our office:
   </p>
