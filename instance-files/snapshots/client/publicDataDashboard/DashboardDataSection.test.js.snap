@@ -5351,7 +5351,7 @@ exports[`Public Data Dashboard should render correct styling for who submits com
 
 • Anonymous Complainant (AC) – this means that the individual who filed the complaint either did not disclose his / her name or the complainant did disclose his / her name to PM but has asked for his / her name to be removed in the complaint referral to PGB.  In both situations, PM counts this complainant as “anonymous.”  This category does not differentiate between individuals who are members of the public or individuals that are employed by the GCPD.
 
-• Civilian Complainant (CC) – this category applies to any member of the public who files a complaint.  This individual may or may not reside in City of Gotham.  In these referrals, the individual’s name does appear on the complaint referral to PGB.
+• Civilian Complainant (CC) – this category applies to any member of the public who files a complaint.  This individual may or may not reside in City of Grenville.  In these referrals, the individual’s name does appear on the complaint referral to PGB.
 
 • Police Officer Complainant (PO) – Police Officer complainants applies to any sworn officer who files a complaint of misconduct to our office.  PM reviews these referrals to identify and highlight any possibility of retaliation within the police department.  In these referrals, the officer’s name does appear on the complaint referral to PGB.
 

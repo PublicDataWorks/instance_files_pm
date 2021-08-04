@@ -1740,7 +1740,7 @@ exports[`Public Data Dashboard should render public data dashboard with correct 
                                   (
                                   PM
                                   ) is sharing data with the public to increase transparency to inform and empower the 
-                                  City of Gotham
+                                  City of Grenville
                                    community.
                                 </h3>
                               </ForwardRef(Typography)>
@@ -3615,7 +3615,7 @@ exports[`Public Data Dashboard should render public data dashboard with correct 
                                         }
                                       >
                                         Have you had an encounter with police in 
-                                        City of Gotham
+                                        City of Grenville
                                         ?
                                       </h2>
                                     </ForwardRef(Typography)>

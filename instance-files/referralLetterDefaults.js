@@ -1,6 +1,6 @@
 export const RECIPIENT = "Deputy Superintendent Karla A Coriell";
 export const RECIPIENT_ADDRESS =
-    "Public Governance Bureau\nCity of Gotham Police Department\n128 Central Avenue\nGotham, WI 53540";
+    "Public Governance Bureau\nCity of Grenville Police Department\n128 Central Avenue\nGrenville, WI 53540";
 export const SENDER_NAME = "John A Simms";
 export const SENDER = `${SENDER_NAME}\nPolice Monitor\n231-873-5975`;
 export const SENDER_SIGNATURE = "john_a_simms.png";

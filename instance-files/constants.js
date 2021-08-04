@@ -1,6 +1,6 @@
 export const ORGANIZATION = "PM";
 export const ORGANIZATION_TITLE = "Office of the Police Monitor";
-export const CITY = "City of Gotham";
+export const CITY = "City of Grenville";
 export const PD = "GCPD";
 export const BUREAU = "Public Governance Bureau";
 export const BUREAU_ACRONYM = "PGB"

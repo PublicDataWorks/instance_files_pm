@@ -23,7 +23,7 @@
             </span>
       <span style="display:inline-block; font-size:7pt; color: #7F7F7F;">
                 OFFICE OF THE POLICE MONITOR<br />
-                966 Morningview Lane | GOTHAM, WI | 53540 <br />
+                966 Morningview Lane | GRENVILLE, WI | 53540 <br />
                 Phone (641) 892-7222| Fax (414) 335-3049
             </span>
       <span  style="display:inline-block; width: 46px">&nbsp;</span>
