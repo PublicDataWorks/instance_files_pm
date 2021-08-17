@@ -4,7 +4,7 @@ This repository contains files that customize the Police Data Manager (PDM) prod
 
 # *New City Setup Instructions*
 
-We’re so glad you have decided to use our Police Data Manager tool! This guide is meant to provide instructions for setting up your Police Data Manager and Instance Files in order to use and customize the tool for your city.
+We’re so glad you have decided to use our Police Data Manager tool! This guide is meant to provide instructions for setting up your Police Data Manager and Instance Files locally in order to use and customize the tool for your desired city.
 
 
 
@@ -13,13 +13,7 @@ We’re so glad you have decided to use our Police Data Manager tool! This guide
 
 ### Introduction
 
-Follow this [link](https://github.com/PublicDataWorks/pdm-docs/blob/801161388cd5fffeeaf23ebcaef83e993cad2cef/docs/business-content/introduction-to-police-data-manager.md) to view the introduction to the Police Data Manager tool.
-
-
-### Infrastructure Setup
-
-Follow this [link](https://github.com/PublicDataWorks/pdm-docs/blob/801161388cd5fffeeaf23ebcaef83e993cad2cef/docs/technical-content/new-city-setup/infrastructure-setup.md) to set up the infrastructure needed to run the application.
-
+Follow this [link](https://publicdataworks.github.io/pdm-docs/business-content/introduction-to-police-data-manager.html) to view the introduction to the Police Data Manager tool.
 
 ### Clone Police Data Manager Repository
 
@@ -231,16 +225,11 @@ Located in **instance-files/tag-glossary.json**
 ## OTHER RESOURCES
 
 
-### Development Resources
-
-Follow this [link](https://github.com/PublicDataWorks/pdm-docs/blob/801161388cd5fffeeaf23ebcaef83e993cad2cef/docs/technical-content/development-resources.md) to view the development resources for the application.
-
-
 ### Contact App Maintainers
 
-Follow this [link](https://github.com/PublicDataWorks/pdm-docs/blob/801161388cd5fffeeaf23ebcaef83e993cad2cef/docs/common-content/communications.md) to get in contact with the maintainers of the application.
+Follow this [link](https://publicdataworks.github.io/pdm-docs/common-content/communications.html) to get in contact with the maintainers of the application.
 
 
 ### FAQ
 
-Follow this [link](https://github.com/PublicDataWorks/pdm-docs/blob/801161388cd5fffeeaf23ebcaef83e993cad2cef/docs/technical-content/faq.md) to view the useful technical tools and FAQ.
+Follow this [link](https://publicdataworks.github.io/pdm-docs/technical-content/faq.html) to view the useful technical tools and FAQ.
