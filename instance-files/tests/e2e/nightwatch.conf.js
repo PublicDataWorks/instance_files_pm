@@ -42,7 +42,7 @@ module.exports = {
         current_case: "",
         added_civilian_success: `${CIVILIAN_WITHIN_PD_TITLE} was successfully added`,
         decline_complaint_letter_section: `${ORGANIZATION} declines to classify the complaint at this time.`,
-        pd_address: "Location: 966 Morningview Lane, GRENVILLE, WI 53540",
+        pd_address: "Location: Bourbon St & Canal St, New Orleans, LA 70112",
         add_civilian: ADD_CIVILIAN_WITHIN_PD,
         search_civilian: SEARCH_CIVILIAN_WITHIN_PD,
         organization: ORGANIZATION
