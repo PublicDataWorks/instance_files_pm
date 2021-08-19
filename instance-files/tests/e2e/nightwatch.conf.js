@@ -5,7 +5,7 @@ const {
   ADD_CIVILIAN_WITHIN_PD,
   SEARCH_CIVILIAN_WITHIN_PD,
   ORGANIZATION,
-  INSTANCE_CIVILIAN_WITHIN_PD_TITLE
+  CIVILIAN_WITHIN_PD_TITLE
 } = require("../../constants");
 
 module.exports = {
@@ -40,7 +40,7 @@ module.exports = {
       persist_globals: true,
       globals: {
         current_case: "",
-        added_civilian_success: `${INSTANCE_CIVILIAN_WITHIN_PD_TITLE} was successfully added`,
+        added_civilian_success: `${CIVILIAN_WITHIN_PD_TITLE} was successfully added`,
         decline_complaint_letter_section: `${ORGANIZATION} declines to classify the complaint at this time.`,
         pd_address: "Location: 966 Morningview Lane, GRENVILLE, WI 53540",
         add_civilian: ADD_CIVILIAN_WITHIN_PD,
