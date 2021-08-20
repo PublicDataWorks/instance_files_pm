@@ -2,10 +2,9 @@
 This repository contains files that customize the Police Data Manager (PDM) product.
 
 
-# *New City Setup Instructions*
+# *New City: Local Setup Instructions*
 
-We’re so glad you have decided to use our Police Data Manager tool! This guide is meant to provide instructions for setting up your Police Data Manager and Instance Files locally in order to use and customize the tool for your desired city.
-
+We’re so glad you have decided to use our Police Data Manager tool! This guide provides instructions for setting up your Police Data Manager and Instance Files locally in order to run and customize the tool for your desired city.
 
 
 ## GETTING STARTED
@@ -14,7 +13,6 @@ We’re so glad you have decided to use our Police Data Manager tool! This guide
 ### Introduction
 
 Follow this [link](https://publicdataworks.github.io/pdm-docs/business-content/introduction-to-police-data-manager.html) to view the introduction to the Police Data Manager tool.
-
 ### Clone Police Data Manager Repository
 
 Follow this [link](https://github.com/PublicDataWorks/police_data_manager.git) to view and clone the **police_data_manager** Repository in Github.
@@ -30,7 +28,7 @@ Follow this [link](https://github.com/PublicDataWorks/instance_files_pm.git) to 
 
 ### Test & View Locally
 
-In order to test PDM locally, you can setup the `INSTANCE_FILES_DIR` environment variable on your local machine to point it to the `instance-files` directory within this repository. This will allow the PDM application to read from this absolute path and tailor the application to your cities requirements.
+In order to test PDM locally, you can setup the `INSTANCE_FILES_DIR` environment variable on your local machine to point to the `instance-files` directory within this repository. This will allow the PDM application to read from this absolute path and tailor the application to your cities requirements.
 
 **How?**
 
@@ -41,10 +39,17 @@ Add absolute path of your instance-files folder location in whatever file you us
   * In terminal: open ~/.zshrc
   * In file: export INSTANCE_FILES_DIR=“`paste path here`”
 * enter the command `source ~/.zshrc`
-  * tip: exit out your terminals for source to take effect. To double check reopen your terminal and enter `echo $INSTANCE_FILES_DIR` , you should see the path that you pasted.
+  * **tip:** exit out your terminals for source to take effect. To double check reopen your terminal and enter `echo $INSTANCE_FILES_DIR` , you should see the path that you pasted.
+
+**Run App**
+
+* Start the application with `docker-compose up app` command
+* Point your browser to `https://localhost/`
+
 
 
 ## CHANGE CITY INSTANCES
+
 
 The below checklist is required for displaying your specific city’s details in the Police Data Manager tool. 
 
@@ -210,7 +215,6 @@ Located in **instance-files/tests/e2e/nightwatch.conf.js**
 
 
 
-* Change the value of the **pd_address** from `Location: 966 Morningview Lane, Grenville, WI 53540` to your police department’s address.
 * Change the value of the ci **launch_url** from `https://pm-ci.herokuapp.ex/` to the link of your heroku app in CI. 
 * Change the value of the staging **launch_url** from `https://pm-staging.herokuapp.ex/` to the link of your heroku app in CI. 
 
@@ -233,3 +237,13 @@ Follow this [link](https://publicdataworks.github.io/pdm-docs/common-content/com
 ### FAQ
 
 Follow this [link](https://publicdataworks.github.io/pdm-docs/technical-content/faq.html) to view the useful technical tools and FAQ.
+
+## Known Limitations & Production Setup 
+
+As you bring up the application with this local setup, you will be missing some functionality of the real deployed version.
+  1. Google Maps API integration
+  2. Authentication using Auth0
+  3. Storage of generated letters and attachment using AWS S3
+
+If you would like to have your own fully functioning deployable version, follow this [link](https://publicdataworks.github.io/pdm-docs/technical-content/new-city-production-setup.md) to get started.
+
