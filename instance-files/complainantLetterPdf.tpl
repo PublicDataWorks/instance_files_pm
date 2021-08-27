@@ -84,13 +84,12 @@
             contact our office.</p>
         <p><br/></p>
         <p><br/></p>
+        Sincerely,
+        <p><br></p>
+        <img style="max-height: 55px" src="file:/app/src/instance-files/images/nina_s_ambroise.png" />
         <p><br/></p>
-        <p><br/></p>
-        <p><br/></p>
-        <p>
         Nina S Ambroise,
-            <p><br/></p>
-            <p><br/></p>
+        <br/>
         Complaint Intake Consultant
         </p>
     </body>

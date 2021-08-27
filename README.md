@@ -30,12 +30,20 @@ Follow this [link](https://github.com/PublicDataWorks/instance_files_pm.git) to 
 
 In order to test PDM locally, you can setup the `INSTANCE_FILES_DIR` environment variable on your local machine to point to the `instance-files` directory within this repository. This will allow the PDM application to read from this absolute path and tailor the application to your cities requirements.
 
+For Mac:
+Add the absolute path of your instance-files folder location in .profile or .zshrc
+
+For Linux:
+Add the absolute path of your instance-files folder location in .bash_profile or .bashrc
+
+For Windows:
+Search in the start menu for "environment variables" and choose either "Edit system environment variables" (only if you have admin access) or "Edit environment variables for your account" and add the absolute path of your instance-files folder location using the Windows GUI tool
+
 **How?**
 
-Add absolute path of your instance-files folder location in whatever file you use ( .profile, .zshrc, etc) we will be using .zshrc for this example
 * In your terminal, navigate inside the instance-files folder after cloning the repo
 * enter the command `pwd`  and copy path that is outputted
-* open the environment file ( .profile, .zshrc, etc) with your desired text editor and set your INSTANCE_FILES_DIR environment variable.
+* open the environment file (we're using .zshrc for this example) with your desired text editor and set your INSTANCE_FILES_DIR environment variable.
   * In terminal: open ~/.zshrc
   * In file: export INSTANCE_FILES_DIR=“`paste path here`”
 * enter the command `source ~/.zshrc`
@@ -105,15 +113,16 @@ Phone (641) 892-7222| Fax (414) 335-3049
 * Change the number `(641) 892-7222` to reflect your organization’s number.
 * Change the email `policemonitor@pm.ex` to reflect your organization’s email.
 * Change the name `Nina S Ambroise` and title `Complaint Intake Consultant` to reflect your organization’s intake specialist’s name and title. 
+* Change the filename `nina_s_ambroise.png` to your organization’s intake specialist's name/corresponding signature filename.
 
 
 ### Letter Signatures
 
 Located in /**instance-files/images**
 
+* Delete `john_a_simms.png` and add a PNG of your police monitor’s signature (or whoever will be signing off on referral letters).
+* Delete `nina_s_ambroise.png` and add a PNG of your intake specialist's signature (or whoever will be signing off on complainant letters).
 
-
-* Delete `john_a_simms.png` and add a PNG of your police monitor’s signature (or whoever will be signing off on letters).
 
 Located in **instance-files/content.json**
 
