@@ -671,13 +671,21 @@ exports[`Search Cases Page should render cases table with correct styling 1`] = 
                                               classes={
                                                 Object {
                                                   "anchorOriginBottomLeftCircle": "MuiBadge-anchorOriginBottomLeftCircle",
+                                                  "anchorOriginBottomLeftCircular": "MuiBadge-anchorOriginBottomLeftCircular",
                                                   "anchorOriginBottomLeftRectangle": "MuiBadge-anchorOriginBottomLeftRectangle",
+                                                  "anchorOriginBottomLeftRectangular": "MuiBadge-anchorOriginBottomLeftRectangular",
                                                   "anchorOriginBottomRightCircle": "MuiBadge-anchorOriginBottomRightCircle",
+                                                  "anchorOriginBottomRightCircular": "MuiBadge-anchorOriginBottomRightCircular",
                                                   "anchorOriginBottomRightRectangle": "MuiBadge-anchorOriginBottomRightRectangle",
+                                                  "anchorOriginBottomRightRectangular": "MuiBadge-anchorOriginBottomRightRectangular",
                                                   "anchorOriginTopLeftCircle": "MuiBadge-anchorOriginTopLeftCircle",
+                                                  "anchorOriginTopLeftCircular": "MuiBadge-anchorOriginTopLeftCircular",
                                                   "anchorOriginTopLeftRectangle": "MuiBadge-anchorOriginTopLeftRectangle",
+                                                  "anchorOriginTopLeftRectangular": "MuiBadge-anchorOriginTopLeftRectangular",
                                                   "anchorOriginTopRightCircle": "MuiBadge-anchorOriginTopRightCircle",
+                                                  "anchorOriginTopRightCircular": "MuiBadge-anchorOriginTopRightCircular",
                                                   "anchorOriginTopRightRectangle": "MuiBadge-anchorOriginTopRightRectangle",
+                                                  "anchorOriginTopRightRectangular": "MuiBadge-anchorOriginTopRightRectangular",
                                                   "badge": "MuiBadge-badge",
                                                   "colorError": "MuiBadge-colorError",
                                                   "colorPrimary": "MuiBadge-colorPrimary",
@@ -1343,6 +1351,11 @@ exports[`Search Cases Page should render cases table with correct styling 1`] = 
                                         },
                                       }
                                     }
+                                    TransitionProps={
+                                      Object {
+                                        "onEntering": [Function],
+                                      }
+                                    }
                                     anchorEl={null}
                                     anchorOrigin={
                                       Object {
@@ -1353,7 +1366,6 @@ exports[`Search Cases Page should render cases table with correct styling 1`] = 
                                     data-testid="menu"
                                     getContentAnchorEl={null}
                                     onClose={[Function]}
-                                    onEntering={[Function]}
                                     open={false}
                                     style={
                                       Object {
@@ -1376,6 +1388,11 @@ exports[`Search Cases Page should render cases table with correct styling 1`] = 
                                           },
                                         }
                                       }
+                                      TransitionProps={
+                                        Object {
+                                          "onEntering": [Function],
+                                        }
+                                      }
                                       anchorEl={null}
                                       anchorOrigin={
                                         Object {
@@ -1392,7 +1409,6 @@ exports[`Search Cases Page should render cases table with correct styling 1`] = 
                                       data-testid="menu"
                                       getContentAnchorEl={null}
                                       onClose={[Function]}
-                                      onEntering={[Function]}
                                       open={false}
                                       style={
                                         Object {
