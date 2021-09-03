@@ -28,7 +28,7 @@ Follow this [link](https://github.com/PublicDataWorks/instance_files_pm.git) to 
 
 ### Test & View Locally
 
-In order to test PDM locally, you can setup the `INSTANCE_FILES_DIR` environment variable on your local machine to point to the `instance-files` directory within this repository. This will allow the PDM application to read from this absolute path and tailor the application to your cities requirements.
+In order to test PDM locally, you can setup the `REACT_APP_INSTANCE_FILES_DIR` environment variable on your local machine to point to the `instance-files` directory within this repository. This will allow the PDM application to read from this absolute path and tailor the application to your cities requirements.
 
 For Mac:
 Add the absolute path of your instance-files folder location in .profile or .zshrc
@@ -43,11 +43,11 @@ Search in the start menu for "environment variables" and choose either "Edit sys
 
 * In your terminal, navigate inside the instance-files folder after cloning the repo
 * enter the command `pwd`  and copy path that is outputted
-* open the environment file (we're using .zshrc for this example) with your desired text editor and set your INSTANCE_FILES_DIR environment variable.
+* open the environment file (we're using .zshrc for this example) with your desired text editor and set your REACT_APP_INSTANCE_FILES_DIR environment variable.
   * In terminal: open ~/.zshrc
-  * In file: export INSTANCE_FILES_DIR=“`paste path here`”
+  * In file: export REACT_APP_INSTANCE_FILES_DIR=“`paste path here`”
 * enter the command `source ~/.zshrc`
-  * **tip:** exit out your terminals for source to take effect. To double check reopen your terminal and enter `echo $INSTANCE_FILES_DIR` , you should see the path that you pasted.
+  * **tip:** exit out your terminals for source to take effect. To double check reopen your terminal and enter `echo $REACT_APP_INSTANCE_FILES_DIR` , you should see the path that you pasted.
 
 **Run App**
 
