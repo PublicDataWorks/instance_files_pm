@@ -324,6 +324,7 @@ exports[`Public Data Dashboard should render correct styling for complainants su
       spacing={3}
       style={
         Object {
+          "display": "block",
           "padding": "0px",
           "paddingTop": "18px",
         }
@@ -442,6 +443,7 @@ exports[`Public Data Dashboard should render correct styling for complainants su
         spacing={3}
         style={
           Object {
+            "display": "block",
             "padding": "0px",
             "paddingTop": "18px",
           }
@@ -452,6 +454,7 @@ exports[`Public Data Dashboard should render correct styling for complainants su
           id="complainants-submit-complaints"
           style={
             Object {
+              "display": "block",
               "padding": "0px",
               "paddingTop": "18px",
             }
@@ -802,8 +805,8 @@ exports[`Public Data Dashboard should render correct styling for complainants su
             style={
               Object {
                 "height": "550px",
-                "maxWidth": "800px",
-                "overflow": "auto",
+                "maxWidth": "810px",
+                "overflow": "hidden",
                 "padding": 0,
               }
             }
@@ -921,8 +924,8 @@ exports[`Public Data Dashboard should render correct styling for complainants su
               style={
                 Object {
                   "height": "550px",
-                  "maxWidth": "800px",
-                  "overflow": "auto",
+                  "maxWidth": "810px",
+                  "overflow": "hidden",
                   "padding": 0,
                 }
               }
@@ -933,8 +936,8 @@ exports[`Public Data Dashboard should render correct styling for complainants su
                 style={
                   Object {
                     "height": "550px",
-                    "maxWidth": "800px",
-                    "overflow": "auto",
+                    "maxWidth": "810px",
+                    "overflow": "hidden",
                     "padding": 0,
                   }
                 }
@@ -1721,6 +1724,7 @@ exports[`Public Data Dashboard should render correct styling for complaints over
       spacing={3}
       style={
         Object {
+          "display": "block",
           "padding": "0px",
           "paddingTop": "18px",
         }
@@ -1839,6 +1843,7 @@ exports[`Public Data Dashboard should render correct styling for complaints over
         spacing={3}
         style={
           Object {
+            "display": "block",
             "padding": "0px",
             "paddingTop": "18px",
           }
@@ -1849,6 +1854,7 @@ exports[`Public Data Dashboard should render correct styling for complaints over
           id="complaints-over-time"
           style={
             Object {
+              "display": "block",
               "padding": "0px",
               "paddingTop": "18px",
             }
@@ -2199,8 +2205,8 @@ exports[`Public Data Dashboard should render correct styling for complaints over
             style={
               Object {
                 "height": "550px",
-                "maxWidth": "800px",
-                "overflow": "auto",
+                "maxWidth": "810px",
+                "overflow": "hidden",
                 "padding": 0,
               }
             }
@@ -2318,8 +2324,8 @@ exports[`Public Data Dashboard should render correct styling for complaints over
               style={
                 Object {
                   "height": "550px",
-                  "maxWidth": "800px",
-                  "overflow": "auto",
+                  "maxWidth": "810px",
+                  "overflow": "hidden",
                   "padding": 0,
                 }
               }
@@ -2330,8 +2336,8 @@ exports[`Public Data Dashboard should render correct styling for complaints over
                 style={
                   Object {
                     "height": "550px",
-                    "maxWidth": "800px",
-                    "overflow": "auto",
+                    "maxWidth": "810px",
+                    "overflow": "hidden",
                     "padding": 0,
                   }
                 }
@@ -3105,6 +3111,7 @@ exports[`Public Data Dashboard should render correct styling for emerging themes
       spacing={3}
       style={
         Object {
+          "display": "block",
           "padding": "0px",
           "paddingTop": "18px",
         }
@@ -3223,6 +3230,7 @@ exports[`Public Data Dashboard should render correct styling for emerging themes
         spacing={3}
         style={
           Object {
+            "display": "block",
             "padding": "0px",
             "paddingTop": "18px",
           }
@@ -3233,6 +3241,7 @@ exports[`Public Data Dashboard should render correct styling for emerging themes
           id="emerging-themes"
           style={
             Object {
+              "display": "block",
               "padding": "0px",
               "paddingTop": "18px",
             }
@@ -3583,8 +3592,8 @@ exports[`Public Data Dashboard should render correct styling for emerging themes
             style={
               Object {
                 "height": "550px",
-                "maxWidth": "800px",
-                "overflow": "auto",
+                "maxWidth": "810px",
+                "overflow": "hidden",
                 "padding": 0,
               }
             }
@@ -3702,8 +3711,8 @@ exports[`Public Data Dashboard should render correct styling for emerging themes
               style={
                 Object {
                   "height": "550px",
-                  "maxWidth": "800px",
-                  "overflow": "auto",
+                  "maxWidth": "810px",
+                  "overflow": "hidden",
                   "padding": 0,
                 }
               }
@@ -3714,8 +3723,8 @@ exports[`Public Data Dashboard should render correct styling for emerging themes
                 style={
                   Object {
                     "height": "550px",
-                    "maxWidth": "800px",
-                    "overflow": "auto",
+                    "maxWidth": "810px",
+                    "overflow": "hidden",
                     "padding": 0,
                   }
                 }
@@ -4579,6 +4588,7 @@ exports[`Public Data Dashboard should render correct styling for who submits com
       spacing={3}
       style={
         Object {
+          "display": "block",
           "padding": "0px",
           "paddingTop": "18px",
         }
@@ -4697,6 +4707,7 @@ exports[`Public Data Dashboard should render correct styling for who submits com
         spacing={3}
         style={
           Object {
+            "display": "block",
             "padding": "0px",
             "paddingTop": "18px",
           }
@@ -4707,6 +4718,7 @@ exports[`Public Data Dashboard should render correct styling for who submits com
           id="who-submits-complaints"
           style={
             Object {
+              "display": "block",
               "padding": "0px",
               "paddingTop": "18px",
             }
@@ -5057,8 +5069,8 @@ exports[`Public Data Dashboard should render correct styling for who submits com
             style={
               Object {
                 "height": "550px",
-                "maxWidth": "800px",
-                "overflow": "auto",
+                "maxWidth": "810px",
+                "overflow": "hidden",
                 "padding": 0,
               }
             }
@@ -5176,8 +5188,8 @@ exports[`Public Data Dashboard should render correct styling for who submits com
               style={
                 Object {
                   "height": "550px",
-                  "maxWidth": "800px",
-                  "overflow": "auto",
+                  "maxWidth": "810px",
+                  "overflow": "hidden",
                   "padding": 0,
                 }
               }
@@ -5188,8 +5200,8 @@ exports[`Public Data Dashboard should render correct styling for who submits com
                 style={
                   Object {
                     "height": "550px",
-                    "maxWidth": "800px",
-                    "overflow": "auto",
+                    "maxWidth": "810px",
+                    "overflow": "hidden",
                     "padding": 0,
                   }
                 }
@@ -5355,7 +5367,7 @@ exports[`Public Data Dashboard should render correct styling for who submits com
 
 • Police Officer Complainant (PO) – Police Officer complainants applies to any sworn officer who files a complaint of misconduct to our office.  PM reviews these referrals to identify and highlight any possibility of retaliation within the police department.  In these referrals, the officer’s name does appear on the complaint referral to PGB.
 
-• Civilian within GCPD Complainant (CN) – this category applies to any civilian who is employed by the GCPD. In these complaint referrals, PM is concerned about the possibility of retaliation that may occur to a civilian by officers within the police department. In these referrals, the employee’s name does appear on the complaint referral to PGB."
+• Civilian within GCPD Complainant (CPD) – this category applies to any civilian who is employed by the GCPD. In these complaint referrals, PM is concerned about the possibility of retaliation that may occur to a civilian by officers within the police department. In these referrals, the employee’s name does appear on the complaint referral to PGB."
                 >
                   <div>
                     <WithStyles(ForwardRef(Typography))
