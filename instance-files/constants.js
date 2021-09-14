@@ -38,6 +38,7 @@ module.exports = {
       employeeDescription: "Civilian Within " + pd,
       abbreviation: "CPD",
       complainantLegendValue: "Civilian Within " + pd + " (CPD)",
+      publicLegendValue: "Civilian " + pd + " Employee (CPD)",
     }),
   },
 };
