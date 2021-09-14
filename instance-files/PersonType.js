@@ -5,7 +5,7 @@
  *                          Fields:
  *                          - description: the string that describes the person type
  *                          - employeeDescription (optional): the string that the describes the employee type (null/undefined if not an employee)
- *                          - abbreviation: the abbreviation to use for this person type in case reference id, etc. (limit three characters)
+ *                          - abbreviation: the abbreviation to use for this person type in case reference id, etc. (if abbreviation is longer than 3 characters, it will be truncated to three characters; the full abbreviation will be represented with the property fullAbbreviation )
  *                          - complainantLegendValue: the text that will be used on a legend of complainants for this type of person
  *                          - publicLegendValue: the text that will be used within the public data dashboard (optional: defaults to complainantLegendValue)
  */
@@ -31,9 +31,15 @@ Object.defineProperty(PersonType.prototype, "employeeDescription", {
 
 Object.defineProperty(PersonType.prototype, "abbreviation", {
   get: function abbreviation() {
-    return this._abbrev;
+    return this._abbrev.length > 3 ? this._abbrev.substring(0, 3): this._abbrev;
   },
 });
+
+Object.defineProperty(PersonType.prototype, "fullAbbreviation", {
+    get: function fullAbbreviation() {
+      return this._abbrev;
+    },
+  });
 
 Object.defineProperty(PersonType.prototype, "isEmployee", {
   get: function isEmployee() {
