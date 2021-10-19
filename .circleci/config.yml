@@ -8,8 +8,8 @@ version: 1.0
 #       - checkout
 #       - setup_remote_docker
 #       - run: docker login -u $DOCKER_USER -p $DOCKER_PASSWORD
-#       - run: docker build -t pm/instance-files:latest .
-#       - run: docker push pm/instance-files:latest
+#       - run: docker build -t publicdataworks/instance-files-pm:latest .
+#       - run: docker push publicdataworks/instance-files-pm:latest
 
 # workflows:
 #   build_and_deploy_master:
