@@ -1,6 +1,7 @@
 var PersonType = require("./PersonType");
 var organization = "PM";
 var pd = "GCPD";
+var cityLimits = require("./layers/cityLimits.json");
 
 module.exports = {
   ORGANIZATION: organization,
@@ -40,5 +41,22 @@ module.exports = {
       complainantLegendValue: "Civilian Within " + pd + " (CPD)",
       publicLegendValue: "Civilian " + pd + " Employee (CPD)",
     }),
+  },
+  MAP_CONFIG: {
+    CENTER: { lat: 36.593338786433165, lon: -103.61324054321881 },
+    DEFAULT_ZOOM: 14,
+    LAYERS: [
+      {
+        text: "City Limits",
+        layers: [
+          {
+            sourcetype: "geojson",
+            source: cityLimits,
+            type: "line",
+          },
+        ],
+        data: [],
+      },
+    ],
   },
 };
