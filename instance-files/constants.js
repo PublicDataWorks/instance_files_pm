@@ -2,6 +2,7 @@ var PersonType = require("./PersonType");
 var organization = "PM";
 var pd = "GCPD";
 var cityLimits = require("./layers/cityLimits.json");
+var buildings = require("./layers/buildings.json");
 
 module.exports = {
   ORGANIZATION: organization,
@@ -56,6 +57,31 @@ module.exports = {
           },
         ],
         data: [],
+      },
+      {
+        text: "Buildings",
+        checkboxColor: "green",
+        layers: [],
+        data: [
+          {
+            type: "scattermapbox",
+            lat: buildings.features.map(
+              (buildings) => buildings.geometry.coordinates[1]
+            ),
+            lon: buildings.features.map(
+              (buildings) => buildings.geometry.coordinates[0]
+            ),
+            text: buildings.features.map(
+              (buildings) => `Building Name: ${buildings.properties.name}`
+            ),
+            hoverinfo: "text",
+            showlegend: false,
+            marker: {
+              color: "green",
+              size: 9,
+            },
+          },
+        ],
       },
     ],
   },

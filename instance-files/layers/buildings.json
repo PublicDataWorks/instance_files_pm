@@ -1,0 +1,45 @@
+{
+    "type": "FeatureCollection",
+    "name": "Buildings",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "United States Postal Service"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.6189871444689,
+                    36.59610467274518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cedar Creek Cattle Co"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.61632678568068,
+                    36.592816144710305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Grenville Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.61420893290422,
+                    36.5936464877431
+                ]
+            }
+        }
+    ]
+}
