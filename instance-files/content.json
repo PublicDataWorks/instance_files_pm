@@ -2,7 +2,7 @@
   "signatureKeys": {
     "JOHN": {
       "name": "John A Simms",
-      "signature": "file:/app/src/instance-files/images/john_a_simms.png"
+      "signature": "john_a_simms.png"
     }
   }
 }

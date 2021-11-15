@@ -1,14 +1,30 @@
 <html>
     <head>
-        <link rel="stylesheet" type="text/css" href="pdf.css"/>
+        <style>
+            * {
+                font-size: 8.5pt;
+            }
+
+            p {
+                margin: 0;
+            }
+
+            .preserve-white-space {
+                white-space: pre-wrap;
+            }
+
+            .ql-align-center {
+                text-align: center;
+            }
+        </style>
     </head>
     <body>
         <div id="pageHeader-first">
             <div style="text-align: center;">
-                <img style="max-width: 223px" src="file:/app/src/instance-files/images/header_text.png" />
+                {{{generateImage "header_text.png" "max-width: 223px"}}}
             </div>
             <div style="text-align: center; margin-top: 8px">
-                <img style="max-width: 42px" src="file:/app/src/instance-files/images/icon.ico" />
+                {{{generateImage "icon.ico" "max-width: 42px"}}}
             </div>
         </div>
         <div id="pageHeader" style="font-size:8.5pt; color: #7F7F7F;">
@@ -19,7 +35,7 @@
 
         <div id="pageFooter" style="text-align: center; margin-top: 16px">
             <span  style="display:inline-block; margin: 6px 16px 0 0">
-                <img style="max-width: 30px" src="file:/app/src/instance-files/images/icon.ico" />
+                {{{generateImage "icon.ico" "max-width: 30px"}}}
             </span>
             <span style="display:inline-block; font-size:7pt; color: #7F7F7F;">
                 OFFICE OF THE POLICE MONITOR <br />
@@ -86,7 +102,7 @@
         <p><br/></p>
         Sincerely,
         <p><br></p>
-        <img style="max-height: 55px" src="file:/app/src/instance-files/images/nina_s_ambroise.png" />
+        {{{generateImage "nina_s_ambroise.png" "max-height: 55px"}}}
         <p><br/></p>
         Nina S Ambroise,
         <br/>
