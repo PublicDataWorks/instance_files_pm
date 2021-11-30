@@ -2,6 +2,19 @@ const PORT = 1234;
 const LOCAL_DEV_PORT = 443;
 
 module.exports = {
+  demo: {
+    auth: {
+      domain: "noipm-ci.auth0.com",
+      clientID: "po0KCHqu1sHYuVxNHE2DAioLfQghB9aP",
+      redirectUri: "https://police-data-manager-demo.herokuapp.com/callback",
+      audience: "https://police-data-manager-demo.herokuapp.com/",
+      responseType: "token id_token",
+      scope: "openid profile",
+      nicknameKey: "https://police-data-manager-demo.herokuapp.com/nickname"
+    },
+    hostname: "https://6b0h45sjwg.execute-api.us-east-1.amazonaws.com/",
+    backendUrl: "https://police-data-manager-demo.herokuapp.com"
+  },
   development: {
     auth: {
       domain: "noipm-ci.auth0.com",

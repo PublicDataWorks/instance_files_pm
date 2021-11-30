@@ -1,6 +1,46 @@
 const LOCAL_DEV_PORT = 443;
 
 module.exports = {
+  demo: {
+    port: 5432,
+    host: process.env.DATABASE_HOST,
+    s3Bucket: "police-data-manager-demo",
+    officerBucket: "officers-demo",
+    exportsBucket: "exports-demo",
+    referralLettersBucket: "referral-letters-demo",
+    complainantLettersBucket: "complaint-letters-demo",
+    authentication: {
+      clientID: "iT3f0mGqJGDZu8UzQaOHeNGT7O0x43ZB",
+      domain: "noipm-ci.auth0.com",
+      publicKeyURL: "https://noipm-ci.auth0.com/.well-known/jwks.json",
+      audience: "https://police-data-manager-demo.herokuapp.com/",
+      issuer: "https://noipm-ci.auth0.com/",
+      algorithm: "RS256",
+      nicknameKey: "https://police-data-manager-demo.herokuapp.com/nickname"
+    },
+    contentSecurityPolicy: {
+      connectSrc: [
+        "'self'",
+        "https://noipm-ci.auth0.com",
+        "https://a.tile.openstreetmap.org",
+        "https://b.tile.openstreetmap.org",
+        "https://api.mapbox.com",
+        "https://www.google-analytics.com",
+        "https://hggkf95dtf.execute-api.us-east-1.amazonaws.com"
+      ]
+    },
+    corsOrigin: "https://police-data-manager-demo.herokuapp.com",
+    winston: {
+      logLevel: "info",
+      json: false
+    },
+    queue: {
+      failedJobAttempts: 1,
+      exponentialDelay: 60 * 1000,
+      jobTimeToLive: 120 * 1000,
+      jobUIPort: 5000
+    }
+  },
   development: {
     host: "db",
     s3Bucket: "noipm-local",
