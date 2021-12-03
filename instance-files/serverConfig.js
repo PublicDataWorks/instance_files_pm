@@ -4,11 +4,11 @@ module.exports = {
   demo: {
     port: 5432,
     host: process.env.DATABASE_HOST,
-    s3Bucket: "police-data-manager-demo",
-    officerBucket: "officers-demo",
-    exportsBucket: "exports-demo",
-    referralLettersBucket: "referral-letters-demo",
-    complainantLettersBucket: "complaint-letters-demo",
+    s3Bucket: "pdm-demo",
+    officerBucket: "gcpd-officers-demo",
+    exportsBucket: "pdm-exports-demo",
+    referralLettersBucket: "pdm-referral-letters-demo",
+    complainantLettersBucket: "pdm-complaint-letters-demo",
     authentication: {
       clientID: "iT3f0mGqJGDZu8UzQaOHeNGT7O0x43ZB",
       domain: "noipm-ci.auth0.com",
