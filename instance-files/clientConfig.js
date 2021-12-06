@@ -12,7 +12,7 @@ module.exports = {
       scope: "openid profile",
       nicknameKey: "https://police-data-manager-demo.herokuapp.com/nickname"
     },
-    hostname: "https://3nt5k6bwpd.execute-api.us-east-1.amazonaws.com/",
+    hostname: "https://04qsutvrd6.execute-api.us-east-1.amazonaws.com/",
     backendUrl: "https://police-data-manager-demo.herokuapp.com"
   },
   development: {

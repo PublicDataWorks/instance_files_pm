@@ -39,8 +39,8 @@ module "webapp" {
     "pdm-referral-letters-demo"
   ]
 
-  api_target    = "https://pdm-demo.herokuapp.com"
-  public_domain = "https://pdm-demo.herokuapp.com"
+  api_target    = "https://police-data-manager-demo.herokuapp.com"
+  public_domain = "https://police-data-manager-demo.herokuapp.com"
 
   postgres_plan   = "hobby-dev"
   papertrail_plan = "choklad"

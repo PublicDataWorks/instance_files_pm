@@ -26,7 +26,7 @@ module.exports = {
         "https://b.tile.openstreetmap.org",
         "https://api.mapbox.com",
         "https://www.google-analytics.com",
-        "https://3nt5k6bwpd.execute-api.us-east-1.amazonaws.com/"
+        "https://04qsutvrd6.execute-api.us-east-1.amazonaws.com/"
       ]
     },
     corsOrigin: "https://police-data-manager-demo.herokuapp.com",
