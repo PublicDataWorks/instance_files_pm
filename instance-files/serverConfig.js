@@ -8,7 +8,7 @@ module.exports = {
     officerBucket: "gcpd-officers-demo",
     exportsBucket: "pdm-exports-demo",
     referralLettersBucket: "pdm-referral-letters-demo",
-    complainantLettersBucket: "pdm-complaint-letters-demo",
+    complainantLettersBucket: "pdm-complainant-letters-demo",
     authentication: {
       clientID: "iT3f0mGqJGDZu8UzQaOHeNGT7O0x43ZB",
       domain: "noipm-ci.auth0.com",
