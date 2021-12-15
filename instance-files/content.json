@@ -2,7 +2,10 @@
   "signatureKeys": {
     "JOHN": {
       "name": "John A Simms",
-      "signature": "john_a_simms.png"
+      "signature": "john_a_simms.png",
+      "nickname": "jsimms@oipm.gov",
+      "title": "Independent Police Monitor",
+      "phone": "888-576-9922"
     }
   }
 }
