@@ -23,7 +23,11 @@
       <br>
     {{/if}}
     {{#if isAnonymous}}
-      Anonymous Complainant
+      {{#if (isPresent lastName)}}
+        Known Anonymous Complainant
+      {{else}}
+        Unknown Anonymous Complainant
+      {{/if}}
       <br>
     {{else}}
       {{#if (isPresent fullName)}}
@@ -56,11 +60,15 @@
       <br>
     {{/if}}
     {{#if isAnonymous}}
-      Anonymous Complainant
+      Known Anonymous Complainant
       <br>
     {{else}}
       {{#if (isPresent fullName)}}
-        <p>Name: {{fullName}}</p>
+        {{#if (isEqual fullName "Unknown Officer")}}
+          <p>Unknown Officer</p>
+        {{else}}
+          <p>Name: {{fullName}}</p>
+        {{/if}}
       {{/if}}
       {{#if (isPresent rank)}}
         <p>Rank: {{rank}}</p>
@@ -105,7 +113,11 @@
   <p><strong><u>Subject GCPD Employee(s) Information</u></strong></p>
   {{#each accusedOfficers}}
     {{#if (isPresent fullName)}}
-      <p>Name: {{fullName}}</p>
+      {{#if (isEqual fullName "Unknown Officer")}}
+        <p>Unknown Officer</p>
+      {{else}}
+        <p>Name: {{fullName}}</p>
+      {{/if}}
     {{/if}}
     {{#if (isPresent rank)}}
       <p>Rank: {{rank}}</p>
@@ -149,7 +161,11 @@
       <br>
     {{/if}}
     {{#if isAnonymous}}
-      Anonymous Witness
+      {{#if (isPresent lastName)}}
+        Known Anonymous Witness
+      {{else}}
+        Unknown Anonymous Witness
+      {{/if}}
       <br>
     {{else}}
       {{#if (isPresent fullName)}}
@@ -171,11 +187,15 @@
       <br>
     {{/if}}
     {{#if isAnonymous}}
-      Anonymous Witness
+      Known Anonymous Witness
       <br>
     {{else}}
       {{#if (isPresent fullName)}}
-        <p>Name: {{fullName}}</p>
+        {{#if (isEqual fullName "Unknown Officer")}}
+          <p>Unknown Officer</p>
+        {{else}}
+          <p>Name: {{fullName}}</p>
+        {{/if}}
       {{/if}}
       {{#if (isPresent rank)}}
         <p>Rank: {{rank}}</p>
