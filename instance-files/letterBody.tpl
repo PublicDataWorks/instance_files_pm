@@ -26,7 +26,7 @@
       {{#if (isPresent lastName)}}
         Known Anonymous Complainant
       {{else}}
-        Unknown Anonymous Complainant
+        Unknown Complainant
       {{/if}}
       <br>
     {{else}}
@@ -164,7 +164,7 @@
       {{#if (isPresent lastName)}}
         Known Anonymous Witness
       {{else}}
-        Unknown Anonymous Witness
+        Unknown Witness
       {{/if}}
       <br>
     {{else}}
