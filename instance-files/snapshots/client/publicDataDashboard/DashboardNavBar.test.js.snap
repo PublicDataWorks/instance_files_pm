@@ -604,6 +604,7 @@ exports[`Dashboard NavBar should render the navbar in the public data dashboard 
                     }
                   >
                     <img
+                      alt="Police Monitor Logo"
                       src="/favicon.ico"
                       style={
                         Object {

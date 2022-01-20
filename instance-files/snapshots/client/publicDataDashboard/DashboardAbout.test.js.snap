@@ -423,7 +423,7 @@ exports[`Dashboard About page should render the About page for the public data d
                   },
                   "getContrastText": [Function],
                   "gold": "#C5AD51",
-                  "green": "#388e3c",
+                  "green": "#328736",
                   "grey": Object {
                     "100": "#f5f5f5",
                     "200": "#eeeeee",
