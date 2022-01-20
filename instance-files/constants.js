@@ -43,6 +43,7 @@ module.exports = {
       publicLegendValue: "Civilian " + pd + " Employee (CPD)",
     }),
   },
+  FIRST_YEAR_DATA_IS_AVAILABLE: 2022,
   MAP_CONFIG: {
     CENTER: { lat: 36.593338786433165, lon: -103.61324054321881 },
     DEFAULT_ZOOM: 14,
