@@ -31,6 +31,7 @@ module "webapp" {
   app_name     = "police-data-manager-demo"
 
   env_name = "demo"
+  env_usergroup_name = "developer"
 
   bucket_names = [
     "pdm-demo",
@@ -158,8 +159,7 @@ module "webapp" {
 }
 POLICY
   env_policy_groups = [
-    "developer",
-  "contributor"]
+    "developer"]
 
   env_policy_roles = [
     "federated-contributor"

@@ -34,6 +34,10 @@ variable "env_name" {
   description = "Name of the environment"
 }
 
+variable "env_usergroup_name" {
+  description = "Name of the user group to associate the environment user"
+}
+
 variable "bucket_names" {
   description = "Names of the buckets in this env"
 }

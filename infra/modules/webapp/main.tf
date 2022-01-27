@@ -217,3 +217,19 @@ resource "aws_apigatewayv2_api" "api_gateway" {
     max_age = 7200
   }
 }
+
+resource "aws_iam_user" "env_user" {
+  name = "${var.organization_name}-${var.env_name}"
+}
+
+resource "aws_iam_access_key" "env_user_access_key" {
+  user    = aws_iam_user.env_user.name
+}
+
+resource "aws_iam_user_group_membership" "env_user_group" {
+  user = aws_iam_user.env_user.name
+
+  groups = [
+    "${var.env_usergroup_name}"
+  ]
+}
