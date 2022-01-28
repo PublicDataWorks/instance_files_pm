@@ -952,12 +952,12 @@ exports[`Public Data Dashboard should render correct styling for complainants su
                     data-testid="intakeSourceGraph"
                     hasDropdown={true}
                     isPublic={true}
+                    queryModel={CountComplaintsByIntakeSource {}}
                     queryOptions={
                       Object {
                         "dateRangeType": "PAST_12_MONTHS",
                       }
                     }
-                    queryType="countComplaintsByIntakeSource"
                   >
                     Visualization
                   </Component>
@@ -3746,12 +3746,12 @@ exports[`Public Data Dashboard should render correct styling for emerging themes
                     data-testid="top10TagsGraph"
                     hasDropdown={true}
                     isPublic={true}
+                    queryModel={CountTop10Tags {}}
                     queryOptions={
                       Object {
                         "dateRangeType": "PAST_12_MONTHS",
                       }
                     }
-                    queryType="countTop10Tags"
                   >
                     Visualization
                   </Component>
@@ -5236,12 +5236,12 @@ exports[`Public Data Dashboard should render correct styling for who submits com
                     data-testid="complainantTypeGraph"
                     hasDropdown={true}
                     isPublic={true}
+                    queryModel={CountComplaintsByComplainantType {}}
                     queryOptions={
                       Object {
                         "dateRangeType": "PAST_12_MONTHS",
                       }
                     }
-                    queryType="countComplaintsByComplainantType"
                   >
                     Visualization
                   </Component>
