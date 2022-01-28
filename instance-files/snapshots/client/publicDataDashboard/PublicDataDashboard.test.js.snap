@@ -3187,6 +3187,7 @@ exports[`Public Data Dashboard should render public data dashboard with correct 
                                       style={
                                         Object {
                                           "alignItems": "center",
+                                          "borderBottom": "1px solid rgba(255, 255, 255, 0.2)",
                                           "display": "flex",
                                           "padding": "24px 0px",
                                         }
@@ -3209,6 +3210,7 @@ exports[`Public Data Dashboard should render public data dashboard with correct 
                                         style={
                                           Object {
                                             "alignItems": "center",
+                                            "borderBottom": "1px solid rgba(255, 255, 255, 0.2)",
                                             "display": "flex",
                                             "padding": "24px 0px",
                                           }
@@ -3220,6 +3222,7 @@ exports[`Public Data Dashboard should render public data dashboard with correct 
                                           style={
                                             Object {
                                               "alignItems": "center",
+                                              "borderBottom": "1px solid rgba(255, 255, 255, 0.2)",
                                               "display": "flex",
                                               "padding": "24px 0px",
                                             }
@@ -3355,26 +3358,32 @@ exports[`Public Data Dashboard should render public data dashboard with correct 
                           </ForwardRef(Grid)>
                         </WithStyles(ForwardRef(Grid))>
                         <Component
-                          dataSectionType="DDS_COMPLAINTS_OVER_TIME"
+                          dataSectionType="DDS_LOCATION_DATA"
                           key="0"
                         >
                           DashboardDataSection
                         </Component>
                         <Component
-                          dataSectionType="DDS_COMPLAINANTS_SUBMIT_COMPLAINTS"
+                          dataSectionType="DDS_COMPLAINTS_OVER_TIME"
                           key="1"
                         >
                           DashboardDataSection
                         </Component>
                         <Component
-                          dataSectionType="DDS_WHO_SUBMITS_COMPLAINTS"
+                          dataSectionType="DDS_COMPLAINANTS_SUBMIT_COMPLAINTS"
                           key="2"
                         >
                           DashboardDataSection
                         </Component>
                         <Component
-                          dataSectionType="DDS_EMERGING_THEMES"
+                          dataSectionType="DDS_WHO_SUBMITS_COMPLAINTS"
                           key="3"
+                        >
+                          DashboardDataSection
+                        </Component>
+                        <Component
+                          dataSectionType="DDS_EMERGING_THEMES"
+                          key="4"
                         >
                           DashboardDataSection
                         </Component>
