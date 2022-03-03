@@ -47,7 +47,7 @@ module.exports = {
   MAP_CONFIG: {
     CENTER: { lat: 36.593338786433165, lon: -103.61324054321881 },
     DEFAULT_ZOOM: 14,
-    LAYERS: [
+    FEATURES: [
       {
         text: "City Limits",
         layers: [
