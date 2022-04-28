@@ -441,9 +441,9 @@ exports[`generateReferralLetterPdfBuffer sender is official sender signature is 
     <p><br></p>
     Sincerely,
     <p><br></p>
-    <img style=\\"max-height: 55px\\" src=\\"data:image/png;base64,<<base64 encoded image>>\\" />
+    <img style=\\"max-height: 55px\\" src=\\"data:image/bytes;base64,bytesbytesbytes\\" />
     <p><br></p>
-    John A Simms
+    Bobby!
     <p><br></p>
     Transcribed by: transcriber
   </body>
@@ -518,7 +518,7 @@ exports[`generateReferralLetterPdfBuffer sender is official sender signature is 
     <p><br></p>
     <p><br></p>
     <p><br></p>
-    John A Simms
+    Bobby!
     <p><br></p>
     Transcribed by: transcriber
   </body>
