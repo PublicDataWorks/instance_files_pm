@@ -16,7 +16,7 @@ module.exports = {
       audience: "https://police-data-manager-demo.herokuapp.com/",
       issuer: "https://noipm-ci.auth0.com/",
       algorithm: "RS256",
-      nicknameKey: "https://police-data-manager-demo.herokuapp.com/nickname"
+      nicknameKey: "https://police-data-manager-demo.herokuapp.com/nickname",
     },
     contentSecurityPolicy: {
       connectSrc: [
@@ -26,20 +26,21 @@ module.exports = {
         "https://b.tile.openstreetmap.org",
         "https://api.mapbox.com",
         "https://www.google-analytics.com",
-        "https://04qsutvrd6.execute-api.us-east-1.amazonaws.com/"
-      ]
+        "https://api.github.com",
+        "https://04qsutvrd6.execute-api.us-east-1.amazonaws.com/",
+      ],
     },
     corsOrigin: "https://police-data-manager-demo.herokuapp.com",
     winston: {
       logLevel: "info",
-      json: false
+      json: false,
     },
     queue: {
       failedJobAttempts: 1,
       exponentialDelay: 60 * 1000,
       jobTimeToLive: 120 * 1000,
-      jobUIPort: 5000
-    }
+      jobUIPort: 5000,
+    },
   },
   development: {
     host: "db",
@@ -55,7 +56,7 @@ module.exports = {
       audience: "https://noipm-ci.herokuapp.com/",
       issuer: "https://noipm-ci.auth0.com/",
       algorithm: "RS256",
-      nicknameKey: "https://noipm-ci.herokuapp.com/nickname"
+      nicknameKey: "https://noipm-ci.herokuapp.com/nickname",
     },
     contentSecurityPolicy: {
       connectSrc: [
@@ -65,13 +66,14 @@ module.exports = {
         "https://a.tile.openstreetmap.org",
         "https://b.tile.openstreetmap.org",
         "https://api.mapbox.com",
-        `wss://localhost:${LOCAL_DEV_PORT}`
-      ]
+        "https://api.github.com",
+        `wss://localhost:${LOCAL_DEV_PORT}`,
+      ],
     },
     corsOrigin: "*",
     winston: {
       logLevel: "info",
-      json: true
+      json: true,
     },
     queue: {
       host: "redis",
@@ -79,8 +81,8 @@ module.exports = {
       failedJobAttempts: 1,
       exponentialDelay: 60 * 1000,
       jobTimeToLive: 120 * 1000,
-      jobUIPort: 5000
-    }
+      jobUIPort: 5000,
+    },
   },
   test: {
     host: process.env.CIRCLECI ? "localhost" : "db",
@@ -96,7 +98,7 @@ module.exports = {
       issuer: "test issuer",
       algorithm: "RS256",
       scope: "openid profile",
-      nicknameKey: "https://noipm-ci.herokuapp.com/nickname"
+      nicknameKey: "https://noipm-ci.herokuapp.com/nickname",
     },
     contentSecurityPolicy: {
       connectSrc: [
@@ -106,13 +108,14 @@ module.exports = {
         "https://b.tile.openstreetmap.org",
         "https://api.mapbox.com",
         "https://www.google-analytics.com",
-        `wss://localhost:${LOCAL_DEV_PORT}`
-      ]
+        "https://api.github.com",
+        `wss://localhost:${LOCAL_DEV_PORT}`,
+      ],
     },
     corsOrigin: "*",
     winston: {
       logLevel: "error",
-      json: true
+      json: true,
     },
     queue: {
       host: "redis",
@@ -120,8 +123,8 @@ module.exports = {
       failedJobAttempts: 1,
       exponentialDelay: 60 * 1000,
       jobTimeToLive: 120 * 1000,
-      jobUIPort: 5000
-    }
+      jobUIPort: 5000,
+    },
   },
   playground: {
     port: 5432,
@@ -138,7 +141,7 @@ module.exports = {
       audience: "https://noipm-ci.herokuapp.com/",
       issuer: "https://noipm-ci.auth0.com/",
       algorithm: "RS256",
-      nicknameKey: "https://noipm-ci.herokuapp.com/nickname"
+      nicknameKey: "https://noipm-ci.herokuapp.com/nickname",
     },
     contentSecurityPolicy: {
       connectSrc: [
@@ -148,20 +151,21 @@ module.exports = {
         "https://b.tile.openstreetmap.org",
         "https://api.mapbox.com",
         "https://www.google-analytics.com",
-        "https://rmwftjcbxh.execute-api.us-east-1.amazonaws.com"
-      ]
+        "https://api.github.com",
+        "https://rmwftjcbxh.execute-api.us-east-1.amazonaws.com",
+      ],
     },
     corsOrigin: "https://noipm-playground.herokuapp.com",
     winston: {
       logLevel: "info",
-      json: false
+      json: false,
     },
     queue: {
       failedJobAttempts: 1,
       exponentialDelay: 60 * 1000,
       jobTimeToLive: 120 * 1000,
-      jobUIPort: 5000
-    }
+      jobUIPort: 5000,
+    },
   },
   ci: {
     port: 5432,
@@ -178,7 +182,7 @@ module.exports = {
       audience: "https://noipm-ci.herokuapp.com/",
       issuer: "https://noipm-ci.auth0.com/",
       algorithm: "RS256",
-      nicknameKey: "https://noipm-ci.herokuapp.com/nickname"
+      nicknameKey: "https://noipm-ci.herokuapp.com/nickname",
     },
     contentSecurityPolicy: {
       connectSrc: [
@@ -188,20 +192,21 @@ module.exports = {
         "https://b.tile.openstreetmap.org",
         "https://api.mapbox.com",
         "https://www.google-analytics.com",
-        "https://hggkf95dtf.execute-api.us-east-1.amazonaws.com"
-      ]
+        "https://api.github.com",
+        "https://hggkf95dtf.execute-api.us-east-1.amazonaws.com",
+      ],
     },
     corsOrigin: "https://noipm-ci.herokuapp.com",
     winston: {
       logLevel: "info",
-      json: false
+      json: false,
     },
     queue: {
       failedJobAttempts: 1,
       exponentialDelay: 60 * 1000,
       jobTimeToLive: 120 * 1000,
-      jobUIPort: 5000
-    }
+      jobUIPort: 5000,
+    },
   },
   staging: {
     port: 5432,
@@ -218,7 +223,7 @@ module.exports = {
       audience: "https://noipm-staging.herokuapp.com/",
       issuer: "https://noipm-staging.auth0.com/",
       algorithm: "RS256",
-      nicknameKey: "https://noipm-staging.herokuapp.com/nickname"
+      nicknameKey: "https://noipm-staging.herokuapp.com/nickname",
     },
     contentSecurityPolicy: {
       connectSrc: [
@@ -228,20 +233,21 @@ module.exports = {
         "https://b.tile.openstreetmap.org",
         "https://api.mapbox.com",
         "https://www.google-analytics.com",
-        "https://49o089njl2.execute-api.us-east-1.amazonaws.com/"
-      ]
+        "https://api.github.com",
+        "https://49o089njl2.execute-api.us-east-1.amazonaws.com/",
+      ],
     },
     corsOrigin: "https://noipm-staging.herokuapp.com",
     winston: {
       logLevel: "info",
-      json: false
+      json: false,
     },
     queue: {
       failedJobAttempts: 1,
       exponentialDelay: 60 * 1000,
       jobTimeToLive: 120 * 1000,
-      jobUIPort: 5000
-    }
+      jobUIPort: 5000,
+    },
   },
   production: {
     port: 5432,
@@ -258,7 +264,7 @@ module.exports = {
       audience: "https://noipm-production.herokuapp.com/",
       issuer: "https://noipm-production.auth0.com/",
       algorithm: "RS256",
-      nicknameKey: "https://noipm-production.herokuapp.com/nickname"
+      nicknameKey: "https://noipm-production.herokuapp.com/nickname",
     },
     contentSecurityPolicy: {
       connectSrc: [
@@ -268,24 +274,25 @@ module.exports = {
         "https://b.tile.openstreetmap.org",
         "https://api.mapbox.com",
         "https://www.google-analytics.com",
-        "https://eo9e748ns4.execute-api.us-east-1.amazonaws.com"
-      ]
+        "https://api.github.com",
+        "https://eo9e748ns4.execute-api.us-east-1.amazonaws.com",
+      ],
     },
     corsOrigin: "https://noipm-production.herokuapp.com",
     winston: {
       logLevel: "info",
-      json: false
+      json: false,
     },
     queue: {
       failedJobAttempts: 1,
       exponentialDelay: 60 * 1000,
       jobTimeToLive: 120 * 1000,
-      jobUIPort: 5000
-    }
+      jobUIPort: 5000,
+    },
   },
   s3config: {
     region: "us-east-1",
     sslEnabled: true,
-    signatureVersion: "v4"
-  }
+    signatureVersion: "v4",
+  },
 };
